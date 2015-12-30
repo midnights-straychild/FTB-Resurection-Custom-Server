@@ -1,0 +1,11 @@
+.idea
+logs/*
+backups/*
+dynmap
+world
+ForgeEssentials/ChatLog
+ForgeEssentials/mapper
+ForgeEssentials/*.db
+*.log
+config.old
+crash-reports

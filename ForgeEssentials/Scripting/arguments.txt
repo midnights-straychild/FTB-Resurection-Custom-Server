@@ -1,0 +1,104 @@
+# Script arguments
+
+## @timeplayed
+Get total time a player played on the server
+
+## @player
+Player name
+
+## @healthcolor
+Insert color code based on player health
+
+## @zoneid
+Get ID of the zone the player is in
+
+## @zd
+Player Z position (as floating point number)
+
+## @sincelastlogout
+Get the time since a player logged out last time
+
+## @sincelastlogin
+Get the time since a player logged in last time
+
+## @hungercolor
+Insert color code based on player hunger level
+
+## @lastlogout
+Get the time a player logged out last time
+
+## @uniqueplayers
+Number of unique players on the server at all time
+
+## @dim
+Player dimension
+
+## @sender
+Command sender name
+
+## @worldtime
+Current MC world time
+
+## @saturationcolor
+Insert color code based on player saturation level
+
+## @realdate
+Current real date
+
+## @onlineplayers
+Number of players that are online right now
+
+## @xd
+Player X position (as floating point number)
+
+## @serveruptime
+Time since server start
+
+## @yd
+Player Y position (as floating point number)
+
+## @lastlogin
+Get the time a player logged in last time
+
+## @health
+Player health
+
+## @hunger
+Player hunger level
+
+## @gm
+Player gamemode
+
+## @realtime
+Current real time
+
+## @totalworldtime
+MC time passed since map creation
+
+## @saturation
+Player (food) saturation level
+
+## @p
+Player name
+
+## @uuid
+Player UUID
+
+## @group
+Get name of the zone the player is in
+
+## @z
+Player Z position (as integer)
+
+## @y
+Player Y position (as integer)
+
+## @zone
+Get name of the zone the player is in
+
+## @tps
+Ticks per second
+
+## @x
+Player X position (as integer)
+
