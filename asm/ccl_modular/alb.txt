@@ -905,12 +905,6 @@ public class alb extends aji  {
    L1
     LINENUMBER 199 L1
    FRAME FULL [alb ahb I I I java/util/Random] []
-    ALOAD 1
-    ILOAD 2
-    ILOAD 3
-    ILOAD 4
-    ALOAD 5
-    INVOKESTATIC codechicken/core/featurehack/TweakTransformerHelper.quenchFireTick (Lnet/minecraft/world/World;IIILjava/util/Random;)V
     RETURN
    L51
     LOCALVARIABLE k2 I L47 L36 16
