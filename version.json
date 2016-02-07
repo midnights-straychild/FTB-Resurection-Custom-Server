@@ -8,7 +8,7 @@
   "minRamDefaultServer": "512m",
   "maxRamDefaultServer": "2048M",
   "permgenDefaultServer": "256m",
-  "jvmArgsDefaultServer": "-d64 -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:+CMSClassUnloadingEnabled -XX:ParallelGCThreads\u003d2 -XX:MinHeapFreeRatio\u003d5 -XX:MaxHeapFreeRatio\u003d10",
+  "jvmArgsDefaultServer": "-XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:+CMSClassUnloadingEnabled -XX:ParallelGCThreads\u003d2 -XX:MinHeapFreeRatio\u003d5 -XX:MaxHeapFreeRatio\u003d10",
   "xml": "modpacks",
   "serverNameFormat": "${PackID}Server"
 }
