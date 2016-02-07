@@ -1,0 +1,88 @@
+worlds:
+-   sealevel: 64
+    nether: false
+    name: DIM-100
+    the_end: false
+    title: world/Underdark
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM1
+    the_end: true
+    title: world/The End
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM2
+    the_end: false
+    title: world/SpectreWorld
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM3
+    the_end: false
+    title: world/CompactMachinesWorld
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM69
+    the_end: false
+    title: world/Pocket Plane
+    height: 256
+-   sealevel: 64
+    nether: true
+    name: DIM-1
+    the_end: false
+    title: world/Nether
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM7
+    the_end: false
+    title: world/Twilight Forest
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM-42
+    the_end: false
+    title: world/The Outer Lands
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: world
+    the_end: false
+    title: world/Overworld
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM-37
+    the_end: false
+    title: world/Spirit World
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM-39
+    the_end: false
+    title: world/Mirror
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM-38
+    the_end: false
+    title: world/Torment
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM-19
+    the_end: false
+    title: world/Bedrock
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM-2147483648
+    the_end: false
+    title: world/CONTROL
+    height: 256
+isMCPC: false
+useSaveFolderAsName: true
+maxWorldHeight: 256
