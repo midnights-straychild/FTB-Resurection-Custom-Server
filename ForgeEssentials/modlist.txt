@@ -1,5 +1,5 @@
 # --- ModList ---
-# Generated: 19-5-2016 (Server time)
+# Generated: 26-5-2016 (Server time)
 # Change the location of this file in main.cfg
 
 Minecraft Coder Pack;9.05;http://mcp.ocean-labs.de/
@@ -100,9 +100,10 @@ INpureCore;1.7.10R1.0.0B9;
 Inventory Tweaks;1.59-dev-152-cf6e263;https://github.com/Kobata/inventory-tweaks
 Iron Chest;6.0.62.742;http://www.minecraftforum.net/topic/981855-
 JABBA;1.2.1;http://mobiusstrip.eu/wiki/Jabba
+Mekanism;9.0.2;
+Magical Crops;4.0.0_PUBLIC_BETA_3;http://minecraft.curseforge.com/mc-mods/228834-magical-crops
 MalisisCore;1.7.10-0.14.1;http://github.com/Ordinastie/MalisisCore
 Malisis' Doors;1.7.10-1.13.0;http://github.com/ordinastie
-Mekanism;9.0.2;
 MekanismGenerators;9.0.2;
 MekanismTools;9.0.2;
 metacycler;1.0;

@@ -1,6 +1,6 @@
 #// -------- PERMISSIONS LIST BLOCKS ------- \\#
-#// --------------- 19.06 15:08 ------------ \\#
-#// ----------- Total amount: 26051 --------- \\#
+#// --------------- 26.06 14:36 ------------ \\#
+#// ----------- Total amount: 27167 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.break.*                                                                             # (default: true) Allow breaking blocks
 fe.protection.break.AWWayofTime.AlchemicalWizardrybloodRune.*                                     # (default: true) BREAK tile.bloodRune.name
@@ -2161,6 +2161,94 @@ fe.protection.break.immersiveintegration.meWireConnector.*                      
 fe.protection.break.immersiveintegration.redstoneWireConnector.*                                  # (default: true) BREAK Redstone Wire Connector
 fe.protection.break.immersiveintegration.steelDecoration.*                                        # (default: true) BREAK tile.immersiveintegration:steelDecoration.name
 fe.protection.break.immersiveintegration.steelTrapdoor.*                                          # (default: true) BREAK Steel Trapdoor
+fe.protection.break.magicalcrops.essence_Square.*                                                 # (default: true) BREAK tile.EssenceSquare.name
+fe.protection.break.magicalcrops.essence_block.*                                                  # (default: true) BREAK tile.EssenceBlock.name
+fe.protection.break.magicalcrops.essence_brick.*                                                  # (default: true) BREAK tile.EssenceBrick.name
+fe.protection.break.magicalcrops.essence_brick2.*                                                 # (default: true) BREAK tile.EssenceBrick2.name
+fe.protection.break.magicalcrops.essence_lamp.*                                                   # (default: true) BREAK tile.EssenceLamp.name
+fe.protection.break.magicalcrops.essence_storage.*                                                # (default: true) BREAK tile.EssenceStorage.name
+fe.protection.break.magicalcrops.magicalcrops_AccioFarmland.*                                     # (default: true) BREAK Accio Farmland
+fe.protection.break.magicalcrops.magicalcrops_AccioFurnace.*                                      # (default: true) BREAK Accio Furnace
+fe.protection.break.magicalcrops.magicalcrops_AccioFurnaceActive.*                                # (default: true) BREAK Active Accio Furnace
+fe.protection.break.magicalcrops.magicalcrops_AirCrop.*                                           # (default: true) BREAK Air Crop
+fe.protection.break.magicalcrops.magicalcrops_AluminiumCrop.*                                     # (default: true) BREAK Aluminium Crop
+fe.protection.break.magicalcrops.magicalcrops_AlumiteCrop.*                                       # (default: true) BREAK Alumite Crop
+fe.protection.break.magicalcrops.magicalcrops_ArditeCrop.*                                        # (default: true) BREAK Ardite Crop
+fe.protection.break.magicalcrops.magicalcrops_BlazeCrop.*                                         # (default: true) BREAK Blaze Crop
+fe.protection.break.magicalcrops.magicalcrops_BlizzCrop.*                                         # (default: true) BREAK Blizz Crop
+fe.protection.break.magicalcrops.magicalcrops_BronzeCrop.*                                        # (default: true) BREAK Bronze Crop
+fe.protection.break.magicalcrops.magicalcrops_CertusQuartzCrop.*                                  # (default: true) BREAK Certus Quartz Crop
+fe.protection.break.magicalcrops.magicalcrops_ChickenCrop.*                                       # (default: true) BREAK Chicken Crop
+fe.protection.break.magicalcrops.magicalcrops_CoalCrop.*                                          # (default: true) BREAK Coal Crop
+fe.protection.break.magicalcrops.magicalcrops_CobaltCrop.*                                        # (default: true) BREAK Cobalt Crop
+fe.protection.break.magicalcrops.magicalcrops_CopperCrop.*                                        # (default: true) BREAK Copper Crop
+fe.protection.break.magicalcrops.magicalcrops_CowCrop.*                                           # (default: true) BREAK Cow Crop
+fe.protection.break.magicalcrops.magicalcrops_CreeperCrop.*                                       # (default: true) BREAK Creeper Crop
+fe.protection.break.magicalcrops.magicalcrops_CropBooster.*                                       # (default: true) BREAK Growth Pulser
+fe.protection.break.magicalcrops.magicalcrops_CrucioFarmland.*                                    # (default: true) BREAK Crucio Farmland
+fe.protection.break.magicalcrops.magicalcrops_CrucioFurnace.*                                     # (default: true) BREAK Crucio Furnace
+fe.protection.break.magicalcrops.magicalcrops_CrucioFurnaceActive.*                               # (default: true) BREAK Active Crucio Furnace
+fe.protection.break.magicalcrops.magicalcrops_DiamondCrop.*                                       # (default: true) BREAK Diamond Crop
+fe.protection.break.magicalcrops.magicalcrops_DyeCrop.*                                           # (default: true) BREAK Dye Crop
+fe.protection.break.magicalcrops.magicalcrops_EarthCrop.*                                         # (default: true) BREAK Earth Crop
+fe.protection.break.magicalcrops.magicalcrops_ElectrumCrop.*                                      # (default: true) BREAK Electrum Crop
+fe.protection.break.magicalcrops.magicalcrops_EmeraldCrop.*                                       # (default: true) BREAK Emerald Crop
+fe.protection.break.magicalcrops.magicalcrops_EnderiumCrop.*                                      # (default: true) BREAK Enderium Crop
+fe.protection.break.magicalcrops.magicalcrops_EndermanCrop.*                                      # (default: true) BREAK Enderman Crop
+fe.protection.break.magicalcrops.magicalcrops_EssenceStone.*                                      # (default: true) BREAK Essence Stone
+fe.protection.break.magicalcrops.magicalcrops_ExperienceCrop.*                                    # (default: true) BREAK Experience Crop
+fe.protection.break.magicalcrops.magicalcrops_FireCrop.*                                          # (default: true) BREAK Fire Crop
+fe.protection.break.magicalcrops.magicalcrops_FluixCrop.*                                         # (default: true) BREAK Fluix Crop
+fe.protection.break.magicalcrops.magicalcrops_GhastCrop.*                                         # (default: true) BREAK Ghast Crop
+fe.protection.break.magicalcrops.magicalcrops_GlowstoneCrop.*                                     # (default: true) BREAK Glowstone Crop
+fe.protection.break.magicalcrops.magicalcrops_GoldCrop.*                                          # (default: true) BREAK Gold Crop
+fe.protection.break.magicalcrops.magicalcrops_ImperioFarmland.*                                   # (default: true) BREAK Imperio Farmland
+fe.protection.break.magicalcrops.magicalcrops_ImperioFurnace.*                                    # (default: true) BREAK Imperio Furnace
+fe.protection.break.magicalcrops.magicalcrops_ImperioFurnaceActive.*                              # (default: true) BREAK Active Imperio Furnace
+fe.protection.break.magicalcrops.magicalcrops_InvarCrop.*                                         # (default: true) BREAK Invar Crop
+fe.protection.break.magicalcrops.magicalcrops_IronCrop.*                                          # (default: true) BREAK Iron Crop
+fe.protection.break.magicalcrops.magicalcrops_LapisCrop.*                                         # (default: true) BREAK Lapis Lazuli Crop
+fe.protection.break.magicalcrops.magicalcrops_LeadCrop.*                                          # (default: true) BREAK Lead Crop
+fe.protection.break.magicalcrops.magicalcrops_LumiumCrop.*                                        # (default: true) BREAK Lumium Crop
+fe.protection.break.magicalcrops.magicalcrops_ManasteelCrop.*                                     # (default: true) BREAK Manasteel Crop
+fe.protection.break.magicalcrops.magicalcrops_ManyullynCrop.*                                     # (default: true) BREAK Manyullyn Crop
+fe.protection.break.magicalcrops.magicalcrops_MinicioCrop.*                                       # (default: true) BREAK Minicio Crop
+fe.protection.break.magicalcrops.magicalcrops_MinicioOre.*                                        # (default: true) BREAK Minicio Ore
+fe.protection.break.magicalcrops.magicalcrops_MinicioOreEnd.*                                     # (default: true) BREAK End Minicio Ore
+fe.protection.break.magicalcrops.magicalcrops_MinicioOreNether.*                                  # (default: true) BREAK Nether Minicio Ore
+fe.protection.break.magicalcrops.magicalcrops_NatureCrop.*                                        # (default: true) BREAK Nature Crop
+fe.protection.break.magicalcrops.magicalcrops_NetherCrop.*                                        # (default: true) BREAK Nether Crop
+fe.protection.break.magicalcrops.magicalcrops_NickelCrop.*                                        # (default: true) BREAK Nickel Crop
+fe.protection.break.magicalcrops.magicalcrops_ObsidianCrop.*                                      # (default: true) BREAK Obsidian Crop
+fe.protection.break.magicalcrops.magicalcrops_OsmiumCrop.*                                        # (default: true) BREAK Osmium Crop
+fe.protection.break.magicalcrops.magicalcrops_PeridotCrop.*                                       # (default: true) BREAK Peridot Crop
+fe.protection.break.magicalcrops.magicalcrops_PigCrop.*                                           # (default: true) BREAK Pig Crop
+fe.protection.break.magicalcrops.magicalcrops_PlatinumCrop.*                                      # (default: true) BREAK Platinum Crop
+fe.protection.break.magicalcrops.magicalcrops_QuartzCrop.*                                        # (default: true) BREAK Quartz Crop
+fe.protection.break.magicalcrops.magicalcrops_RedstoneCrop.*                                      # (default: true) BREAK Redstone Crop
+fe.protection.break.magicalcrops.magicalcrops_RubberCrop.*                                        # (default: true) BREAK Rubber Crop
+fe.protection.break.magicalcrops.magicalcrops_RubyCrop.*                                          # (default: true) BREAK Ruby Crop
+fe.protection.break.magicalcrops.magicalcrops_SaltpeterCrop.*                                     # (default: true) BREAK Saltpeter Crop
+fe.protection.break.magicalcrops.magicalcrops_SapphireCrop.*                                      # (default: true) BREAK Sapphire Crop
+fe.protection.break.magicalcrops.magicalcrops_SheepCrop.*                                         # (default: true) BREAK Sheep Crop
+fe.protection.break.magicalcrops.magicalcrops_SignalumCrop.*                                      # (default: true) BREAK Signalum Crop
+fe.protection.break.magicalcrops.magicalcrops_SilverCrop.*                                        # (default: true) BREAK Silver Crop
+fe.protection.break.magicalcrops.magicalcrops_SkeletonCrop.*                                      # (default: true) BREAK Skeleton Crop
+fe.protection.break.magicalcrops.magicalcrops_SlimeCrop.*                                         # (default: true) BREAK Slime Crop
+fe.protection.break.magicalcrops.magicalcrops_SpiderCrop.*                                        # (default: true) BREAK Spider Crop
+fe.protection.break.magicalcrops.magicalcrops_SteelCrop.*                                         # (default: true) BREAK Steel Crop
+fe.protection.break.magicalcrops.magicalcrops_SulfurCrop.*                                        # (default: true) BREAK Sulfur Crop
+fe.protection.break.magicalcrops.magicalcrops_TerrasteelCrop.*                                    # (default: true) BREAK Terrasteel Crop
+fe.protection.break.magicalcrops.magicalcrops_TinCrop.*                                           # (default: true) BREAK Tin Crop
+fe.protection.break.magicalcrops.magicalcrops_UltimateFurnace.*                                   # (default: true) BREAK Ultimate Furnace
+fe.protection.break.magicalcrops.magicalcrops_UltimateFurnaceActive.*                             # (default: true) BREAK Active Ultimate Furnace
+fe.protection.break.magicalcrops.magicalcrops_WaterCrop.*                                         # (default: true) BREAK Water Crop
+fe.protection.break.magicalcrops.magicalcrops_WitherCrop.*                                        # (default: true) BREAK Wither Skeleton Crop
+fe.protection.break.magicalcrops.magicalcrops_WitherProof.*                                       # (default: true) BREAK Wither Proof Block
+fe.protection.break.magicalcrops.magicalcrops_WitherProofGlass.*                                  # (default: true) BREAK Wither Proof Glass
+fe.protection.break.magicalcrops.magicalcrops_ZivicioFarmland.*                                   # (default: true) BREAK Zivicio Farmland
+fe.protection.break.magicalcrops.magicalcrops_ZivicioFurnace.*                                    # (default: true) BREAK Zivicio Furnace
+fe.protection.break.magicalcrops.magicalcrops_ZivicioFurnaceActive.*                              # (default: true) BREAK Active Zivicio Furnace
 fe.protection.break.malisisdoors.acaciaFenceGate.*                                                # (default: true) BREAK Acacia Fence Gate
 fe.protection.break.malisisdoors.birchFenceGate.*                                                 # (default: true) BREAK Birch Fence Gate
 fe.protection.break.malisisdoors.block_mixer.*                                                    # (default: true) BREAK Block Mixer
@@ -4802,6 +4890,94 @@ fe.protection.explode.immersiveintegration.meWireConnector.*                    
 fe.protection.explode.immersiveintegration.redstoneWireConnector.*                                # (default: true) EXPLODE Redstone Wire Connector
 fe.protection.explode.immersiveintegration.steelDecoration.*                                      # (default: true) EXPLODE tile.immersiveintegration:steelDecoration.name
 fe.protection.explode.immersiveintegration.steelTrapdoor.*                                        # (default: true) EXPLODE Steel Trapdoor
+fe.protection.explode.magicalcrops.essence_Square.*                                               # (default: true) EXPLODE tile.EssenceSquare.name
+fe.protection.explode.magicalcrops.essence_block.*                                                # (default: true) EXPLODE tile.EssenceBlock.name
+fe.protection.explode.magicalcrops.essence_brick.*                                                # (default: true) EXPLODE tile.EssenceBrick.name
+fe.protection.explode.magicalcrops.essence_brick2.*                                               # (default: true) EXPLODE tile.EssenceBrick2.name
+fe.protection.explode.magicalcrops.essence_lamp.*                                                 # (default: true) EXPLODE tile.EssenceLamp.name
+fe.protection.explode.magicalcrops.essence_storage.*                                              # (default: true) EXPLODE tile.EssenceStorage.name
+fe.protection.explode.magicalcrops.magicalcrops_AccioFarmland.*                                   # (default: true) EXPLODE Accio Farmland
+fe.protection.explode.magicalcrops.magicalcrops_AccioFurnace.*                                    # (default: true) EXPLODE Accio Furnace
+fe.protection.explode.magicalcrops.magicalcrops_AccioFurnaceActive.*                              # (default: true) EXPLODE Active Accio Furnace
+fe.protection.explode.magicalcrops.magicalcrops_AirCrop.*                                         # (default: true) EXPLODE Air Crop
+fe.protection.explode.magicalcrops.magicalcrops_AluminiumCrop.*                                   # (default: true) EXPLODE Aluminium Crop
+fe.protection.explode.magicalcrops.magicalcrops_AlumiteCrop.*                                     # (default: true) EXPLODE Alumite Crop
+fe.protection.explode.magicalcrops.magicalcrops_ArditeCrop.*                                      # (default: true) EXPLODE Ardite Crop
+fe.protection.explode.magicalcrops.magicalcrops_BlazeCrop.*                                       # (default: true) EXPLODE Blaze Crop
+fe.protection.explode.magicalcrops.magicalcrops_BlizzCrop.*                                       # (default: true) EXPLODE Blizz Crop
+fe.protection.explode.magicalcrops.magicalcrops_BronzeCrop.*                                      # (default: true) EXPLODE Bronze Crop
+fe.protection.explode.magicalcrops.magicalcrops_CertusQuartzCrop.*                                # (default: true) EXPLODE Certus Quartz Crop
+fe.protection.explode.magicalcrops.magicalcrops_ChickenCrop.*                                     # (default: true) EXPLODE Chicken Crop
+fe.protection.explode.magicalcrops.magicalcrops_CoalCrop.*                                        # (default: true) EXPLODE Coal Crop
+fe.protection.explode.magicalcrops.magicalcrops_CobaltCrop.*                                      # (default: true) EXPLODE Cobalt Crop
+fe.protection.explode.magicalcrops.magicalcrops_CopperCrop.*                                      # (default: true) EXPLODE Copper Crop
+fe.protection.explode.magicalcrops.magicalcrops_CowCrop.*                                         # (default: true) EXPLODE Cow Crop
+fe.protection.explode.magicalcrops.magicalcrops_CreeperCrop.*                                     # (default: true) EXPLODE Creeper Crop
+fe.protection.explode.magicalcrops.magicalcrops_CropBooster.*                                     # (default: true) EXPLODE Growth Pulser
+fe.protection.explode.magicalcrops.magicalcrops_CrucioFarmland.*                                  # (default: true) EXPLODE Crucio Farmland
+fe.protection.explode.magicalcrops.magicalcrops_CrucioFurnace.*                                   # (default: true) EXPLODE Crucio Furnace
+fe.protection.explode.magicalcrops.magicalcrops_CrucioFurnaceActive.*                             # (default: true) EXPLODE Active Crucio Furnace
+fe.protection.explode.magicalcrops.magicalcrops_DiamondCrop.*                                     # (default: true) EXPLODE Diamond Crop
+fe.protection.explode.magicalcrops.magicalcrops_DyeCrop.*                                         # (default: true) EXPLODE Dye Crop
+fe.protection.explode.magicalcrops.magicalcrops_EarthCrop.*                                       # (default: true) EXPLODE Earth Crop
+fe.protection.explode.magicalcrops.magicalcrops_ElectrumCrop.*                                    # (default: true) EXPLODE Electrum Crop
+fe.protection.explode.magicalcrops.magicalcrops_EmeraldCrop.*                                     # (default: true) EXPLODE Emerald Crop
+fe.protection.explode.magicalcrops.magicalcrops_EnderiumCrop.*                                    # (default: true) EXPLODE Enderium Crop
+fe.protection.explode.magicalcrops.magicalcrops_EndermanCrop.*                                    # (default: true) EXPLODE Enderman Crop
+fe.protection.explode.magicalcrops.magicalcrops_EssenceStone.*                                    # (default: true) EXPLODE Essence Stone
+fe.protection.explode.magicalcrops.magicalcrops_ExperienceCrop.*                                  # (default: true) EXPLODE Experience Crop
+fe.protection.explode.magicalcrops.magicalcrops_FireCrop.*                                        # (default: true) EXPLODE Fire Crop
+fe.protection.explode.magicalcrops.magicalcrops_FluixCrop.*                                       # (default: true) EXPLODE Fluix Crop
+fe.protection.explode.magicalcrops.magicalcrops_GhastCrop.*                                       # (default: true) EXPLODE Ghast Crop
+fe.protection.explode.magicalcrops.magicalcrops_GlowstoneCrop.*                                   # (default: true) EXPLODE Glowstone Crop
+fe.protection.explode.magicalcrops.magicalcrops_GoldCrop.*                                        # (default: true) EXPLODE Gold Crop
+fe.protection.explode.magicalcrops.magicalcrops_ImperioFarmland.*                                 # (default: true) EXPLODE Imperio Farmland
+fe.protection.explode.magicalcrops.magicalcrops_ImperioFurnace.*                                  # (default: true) EXPLODE Imperio Furnace
+fe.protection.explode.magicalcrops.magicalcrops_ImperioFurnaceActive.*                            # (default: true) EXPLODE Active Imperio Furnace
+fe.protection.explode.magicalcrops.magicalcrops_InvarCrop.*                                       # (default: true) EXPLODE Invar Crop
+fe.protection.explode.magicalcrops.magicalcrops_IronCrop.*                                        # (default: true) EXPLODE Iron Crop
+fe.protection.explode.magicalcrops.magicalcrops_LapisCrop.*                                       # (default: true) EXPLODE Lapis Lazuli Crop
+fe.protection.explode.magicalcrops.magicalcrops_LeadCrop.*                                        # (default: true) EXPLODE Lead Crop
+fe.protection.explode.magicalcrops.magicalcrops_LumiumCrop.*                                      # (default: true) EXPLODE Lumium Crop
+fe.protection.explode.magicalcrops.magicalcrops_ManasteelCrop.*                                   # (default: true) EXPLODE Manasteel Crop
+fe.protection.explode.magicalcrops.magicalcrops_ManyullynCrop.*                                   # (default: true) EXPLODE Manyullyn Crop
+fe.protection.explode.magicalcrops.magicalcrops_MinicioCrop.*                                     # (default: true) EXPLODE Minicio Crop
+fe.protection.explode.magicalcrops.magicalcrops_MinicioOre.*                                      # (default: true) EXPLODE Minicio Ore
+fe.protection.explode.magicalcrops.magicalcrops_MinicioOreEnd.*                                   # (default: true) EXPLODE End Minicio Ore
+fe.protection.explode.magicalcrops.magicalcrops_MinicioOreNether.*                                # (default: true) EXPLODE Nether Minicio Ore
+fe.protection.explode.magicalcrops.magicalcrops_NatureCrop.*                                      # (default: true) EXPLODE Nature Crop
+fe.protection.explode.magicalcrops.magicalcrops_NetherCrop.*                                      # (default: true) EXPLODE Nether Crop
+fe.protection.explode.magicalcrops.magicalcrops_NickelCrop.*                                      # (default: true) EXPLODE Nickel Crop
+fe.protection.explode.magicalcrops.magicalcrops_ObsidianCrop.*                                    # (default: true) EXPLODE Obsidian Crop
+fe.protection.explode.magicalcrops.magicalcrops_OsmiumCrop.*                                      # (default: true) EXPLODE Osmium Crop
+fe.protection.explode.magicalcrops.magicalcrops_PeridotCrop.*                                     # (default: true) EXPLODE Peridot Crop
+fe.protection.explode.magicalcrops.magicalcrops_PigCrop.*                                         # (default: true) EXPLODE Pig Crop
+fe.protection.explode.magicalcrops.magicalcrops_PlatinumCrop.*                                    # (default: true) EXPLODE Platinum Crop
+fe.protection.explode.magicalcrops.magicalcrops_QuartzCrop.*                                      # (default: true) EXPLODE Quartz Crop
+fe.protection.explode.magicalcrops.magicalcrops_RedstoneCrop.*                                    # (default: true) EXPLODE Redstone Crop
+fe.protection.explode.magicalcrops.magicalcrops_RubberCrop.*                                      # (default: true) EXPLODE Rubber Crop
+fe.protection.explode.magicalcrops.magicalcrops_RubyCrop.*                                        # (default: true) EXPLODE Ruby Crop
+fe.protection.explode.magicalcrops.magicalcrops_SaltpeterCrop.*                                   # (default: true) EXPLODE Saltpeter Crop
+fe.protection.explode.magicalcrops.magicalcrops_SapphireCrop.*                                    # (default: true) EXPLODE Sapphire Crop
+fe.protection.explode.magicalcrops.magicalcrops_SheepCrop.*                                       # (default: true) EXPLODE Sheep Crop
+fe.protection.explode.magicalcrops.magicalcrops_SignalumCrop.*                                    # (default: true) EXPLODE Signalum Crop
+fe.protection.explode.magicalcrops.magicalcrops_SilverCrop.*                                      # (default: true) EXPLODE Silver Crop
+fe.protection.explode.magicalcrops.magicalcrops_SkeletonCrop.*                                    # (default: true) EXPLODE Skeleton Crop
+fe.protection.explode.magicalcrops.magicalcrops_SlimeCrop.*                                       # (default: true) EXPLODE Slime Crop
+fe.protection.explode.magicalcrops.magicalcrops_SpiderCrop.*                                      # (default: true) EXPLODE Spider Crop
+fe.protection.explode.magicalcrops.magicalcrops_SteelCrop.*                                       # (default: true) EXPLODE Steel Crop
+fe.protection.explode.magicalcrops.magicalcrops_SulfurCrop.*                                      # (default: true) EXPLODE Sulfur Crop
+fe.protection.explode.magicalcrops.magicalcrops_TerrasteelCrop.*                                  # (default: true) EXPLODE Terrasteel Crop
+fe.protection.explode.magicalcrops.magicalcrops_TinCrop.*                                         # (default: true) EXPLODE Tin Crop
+fe.protection.explode.magicalcrops.magicalcrops_UltimateFurnace.*                                 # (default: true) EXPLODE Ultimate Furnace
+fe.protection.explode.magicalcrops.magicalcrops_UltimateFurnaceActive.*                           # (default: true) EXPLODE Active Ultimate Furnace
+fe.protection.explode.magicalcrops.magicalcrops_WaterCrop.*                                       # (default: true) EXPLODE Water Crop
+fe.protection.explode.magicalcrops.magicalcrops_WitherCrop.*                                      # (default: true) EXPLODE Wither Skeleton Crop
+fe.protection.explode.magicalcrops.magicalcrops_WitherProof.*                                     # (default: true) EXPLODE Wither Proof Block
+fe.protection.explode.magicalcrops.magicalcrops_WitherProofGlass.*                                # (default: true) EXPLODE Wither Proof Glass
+fe.protection.explode.magicalcrops.magicalcrops_ZivicioFarmland.*                                 # (default: true) EXPLODE Zivicio Farmland
+fe.protection.explode.magicalcrops.magicalcrops_ZivicioFurnace.*                                  # (default: true) EXPLODE Zivicio Furnace
+fe.protection.explode.magicalcrops.magicalcrops_ZivicioFurnaceActive.*                            # (default: true) EXPLODE Active Zivicio Furnace
 fe.protection.explode.malisisdoors.acaciaFenceGate.*                                              # (default: true) EXPLODE Acacia Fence Gate
 fe.protection.explode.malisisdoors.birchFenceGate.*                                               # (default: true) EXPLODE Birch Fence Gate
 fe.protection.explode.malisisdoors.block_mixer.*                                                  # (default: true) EXPLODE Block Mixer
@@ -7444,6 +7620,94 @@ fe.protection.interact.immersiveintegration.meWireConnector.*                   
 fe.protection.interact.immersiveintegration.redstoneWireConnector.*                               # (default: true) INTERACT Redstone Wire Connector
 fe.protection.interact.immersiveintegration.steelDecoration.*                                     # (default: true) INTERACT tile.immersiveintegration:steelDecoration.name
 fe.protection.interact.immersiveintegration.steelTrapdoor.*                                       # (default: true) INTERACT Steel Trapdoor
+fe.protection.interact.magicalcrops.essence_Square.*                                              # (default: true) INTERACT tile.EssenceSquare.name
+fe.protection.interact.magicalcrops.essence_block.*                                               # (default: true) INTERACT tile.EssenceBlock.name
+fe.protection.interact.magicalcrops.essence_brick.*                                               # (default: true) INTERACT tile.EssenceBrick.name
+fe.protection.interact.magicalcrops.essence_brick2.*                                              # (default: true) INTERACT tile.EssenceBrick2.name
+fe.protection.interact.magicalcrops.essence_lamp.*                                                # (default: true) INTERACT tile.EssenceLamp.name
+fe.protection.interact.magicalcrops.essence_storage.*                                             # (default: true) INTERACT tile.EssenceStorage.name
+fe.protection.interact.magicalcrops.magicalcrops_AccioFarmland.*                                  # (default: true) INTERACT Accio Farmland
+fe.protection.interact.magicalcrops.magicalcrops_AccioFurnace.*                                   # (default: true) INTERACT Accio Furnace
+fe.protection.interact.magicalcrops.magicalcrops_AccioFurnaceActive.*                             # (default: true) INTERACT Active Accio Furnace
+fe.protection.interact.magicalcrops.magicalcrops_AirCrop.*                                        # (default: true) INTERACT Air Crop
+fe.protection.interact.magicalcrops.magicalcrops_AluminiumCrop.*                                  # (default: true) INTERACT Aluminium Crop
+fe.protection.interact.magicalcrops.magicalcrops_AlumiteCrop.*                                    # (default: true) INTERACT Alumite Crop
+fe.protection.interact.magicalcrops.magicalcrops_ArditeCrop.*                                     # (default: true) INTERACT Ardite Crop
+fe.protection.interact.magicalcrops.magicalcrops_BlazeCrop.*                                      # (default: true) INTERACT Blaze Crop
+fe.protection.interact.magicalcrops.magicalcrops_BlizzCrop.*                                      # (default: true) INTERACT Blizz Crop
+fe.protection.interact.magicalcrops.magicalcrops_BronzeCrop.*                                     # (default: true) INTERACT Bronze Crop
+fe.protection.interact.magicalcrops.magicalcrops_CertusQuartzCrop.*                               # (default: true) INTERACT Certus Quartz Crop
+fe.protection.interact.magicalcrops.magicalcrops_ChickenCrop.*                                    # (default: true) INTERACT Chicken Crop
+fe.protection.interact.magicalcrops.magicalcrops_CoalCrop.*                                       # (default: true) INTERACT Coal Crop
+fe.protection.interact.magicalcrops.magicalcrops_CobaltCrop.*                                     # (default: true) INTERACT Cobalt Crop
+fe.protection.interact.magicalcrops.magicalcrops_CopperCrop.*                                     # (default: true) INTERACT Copper Crop
+fe.protection.interact.magicalcrops.magicalcrops_CowCrop.*                                        # (default: true) INTERACT Cow Crop
+fe.protection.interact.magicalcrops.magicalcrops_CreeperCrop.*                                    # (default: true) INTERACT Creeper Crop
+fe.protection.interact.magicalcrops.magicalcrops_CropBooster.*                                    # (default: true) INTERACT Growth Pulser
+fe.protection.interact.magicalcrops.magicalcrops_CrucioFarmland.*                                 # (default: true) INTERACT Crucio Farmland
+fe.protection.interact.magicalcrops.magicalcrops_CrucioFurnace.*                                  # (default: true) INTERACT Crucio Furnace
+fe.protection.interact.magicalcrops.magicalcrops_CrucioFurnaceActive.*                            # (default: true) INTERACT Active Crucio Furnace
+fe.protection.interact.magicalcrops.magicalcrops_DiamondCrop.*                                    # (default: true) INTERACT Diamond Crop
+fe.protection.interact.magicalcrops.magicalcrops_DyeCrop.*                                        # (default: true) INTERACT Dye Crop
+fe.protection.interact.magicalcrops.magicalcrops_EarthCrop.*                                      # (default: true) INTERACT Earth Crop
+fe.protection.interact.magicalcrops.magicalcrops_ElectrumCrop.*                                   # (default: true) INTERACT Electrum Crop
+fe.protection.interact.magicalcrops.magicalcrops_EmeraldCrop.*                                    # (default: true) INTERACT Emerald Crop
+fe.protection.interact.magicalcrops.magicalcrops_EnderiumCrop.*                                   # (default: true) INTERACT Enderium Crop
+fe.protection.interact.magicalcrops.magicalcrops_EndermanCrop.*                                   # (default: true) INTERACT Enderman Crop
+fe.protection.interact.magicalcrops.magicalcrops_EssenceStone.*                                   # (default: true) INTERACT Essence Stone
+fe.protection.interact.magicalcrops.magicalcrops_ExperienceCrop.*                                 # (default: true) INTERACT Experience Crop
+fe.protection.interact.magicalcrops.magicalcrops_FireCrop.*                                       # (default: true) INTERACT Fire Crop
+fe.protection.interact.magicalcrops.magicalcrops_FluixCrop.*                                      # (default: true) INTERACT Fluix Crop
+fe.protection.interact.magicalcrops.magicalcrops_GhastCrop.*                                      # (default: true) INTERACT Ghast Crop
+fe.protection.interact.magicalcrops.magicalcrops_GlowstoneCrop.*                                  # (default: true) INTERACT Glowstone Crop
+fe.protection.interact.magicalcrops.magicalcrops_GoldCrop.*                                       # (default: true) INTERACT Gold Crop
+fe.protection.interact.magicalcrops.magicalcrops_ImperioFarmland.*                                # (default: true) INTERACT Imperio Farmland
+fe.protection.interact.magicalcrops.magicalcrops_ImperioFurnace.*                                 # (default: true) INTERACT Imperio Furnace
+fe.protection.interact.magicalcrops.magicalcrops_ImperioFurnaceActive.*                           # (default: true) INTERACT Active Imperio Furnace
+fe.protection.interact.magicalcrops.magicalcrops_InvarCrop.*                                      # (default: true) INTERACT Invar Crop
+fe.protection.interact.magicalcrops.magicalcrops_IronCrop.*                                       # (default: true) INTERACT Iron Crop
+fe.protection.interact.magicalcrops.magicalcrops_LapisCrop.*                                      # (default: true) INTERACT Lapis Lazuli Crop
+fe.protection.interact.magicalcrops.magicalcrops_LeadCrop.*                                       # (default: true) INTERACT Lead Crop
+fe.protection.interact.magicalcrops.magicalcrops_LumiumCrop.*                                     # (default: true) INTERACT Lumium Crop
+fe.protection.interact.magicalcrops.magicalcrops_ManasteelCrop.*                                  # (default: true) INTERACT Manasteel Crop
+fe.protection.interact.magicalcrops.magicalcrops_ManyullynCrop.*                                  # (default: true) INTERACT Manyullyn Crop
+fe.protection.interact.magicalcrops.magicalcrops_MinicioCrop.*                                    # (default: true) INTERACT Minicio Crop
+fe.protection.interact.magicalcrops.magicalcrops_MinicioOre.*                                     # (default: true) INTERACT Minicio Ore
+fe.protection.interact.magicalcrops.magicalcrops_MinicioOreEnd.*                                  # (default: true) INTERACT End Minicio Ore
+fe.protection.interact.magicalcrops.magicalcrops_MinicioOreNether.*                               # (default: true) INTERACT Nether Minicio Ore
+fe.protection.interact.magicalcrops.magicalcrops_NatureCrop.*                                     # (default: true) INTERACT Nature Crop
+fe.protection.interact.magicalcrops.magicalcrops_NetherCrop.*                                     # (default: true) INTERACT Nether Crop
+fe.protection.interact.magicalcrops.magicalcrops_NickelCrop.*                                     # (default: true) INTERACT Nickel Crop
+fe.protection.interact.magicalcrops.magicalcrops_ObsidianCrop.*                                   # (default: true) INTERACT Obsidian Crop
+fe.protection.interact.magicalcrops.magicalcrops_OsmiumCrop.*                                     # (default: true) INTERACT Osmium Crop
+fe.protection.interact.magicalcrops.magicalcrops_PeridotCrop.*                                    # (default: true) INTERACT Peridot Crop
+fe.protection.interact.magicalcrops.magicalcrops_PigCrop.*                                        # (default: true) INTERACT Pig Crop
+fe.protection.interact.magicalcrops.magicalcrops_PlatinumCrop.*                                   # (default: true) INTERACT Platinum Crop
+fe.protection.interact.magicalcrops.magicalcrops_QuartzCrop.*                                     # (default: true) INTERACT Quartz Crop
+fe.protection.interact.magicalcrops.magicalcrops_RedstoneCrop.*                                   # (default: true) INTERACT Redstone Crop
+fe.protection.interact.magicalcrops.magicalcrops_RubberCrop.*                                     # (default: true) INTERACT Rubber Crop
+fe.protection.interact.magicalcrops.magicalcrops_RubyCrop.*                                       # (default: true) INTERACT Ruby Crop
+fe.protection.interact.magicalcrops.magicalcrops_SaltpeterCrop.*                                  # (default: true) INTERACT Saltpeter Crop
+fe.protection.interact.magicalcrops.magicalcrops_SapphireCrop.*                                   # (default: true) INTERACT Sapphire Crop
+fe.protection.interact.magicalcrops.magicalcrops_SheepCrop.*                                      # (default: true) INTERACT Sheep Crop
+fe.protection.interact.magicalcrops.magicalcrops_SignalumCrop.*                                   # (default: true) INTERACT Signalum Crop
+fe.protection.interact.magicalcrops.magicalcrops_SilverCrop.*                                     # (default: true) INTERACT Silver Crop
+fe.protection.interact.magicalcrops.magicalcrops_SkeletonCrop.*                                   # (default: true) INTERACT Skeleton Crop
+fe.protection.interact.magicalcrops.magicalcrops_SlimeCrop.*                                      # (default: true) INTERACT Slime Crop
+fe.protection.interact.magicalcrops.magicalcrops_SpiderCrop.*                                     # (default: true) INTERACT Spider Crop
+fe.protection.interact.magicalcrops.magicalcrops_SteelCrop.*                                      # (default: true) INTERACT Steel Crop
+fe.protection.interact.magicalcrops.magicalcrops_SulfurCrop.*                                     # (default: true) INTERACT Sulfur Crop
+fe.protection.interact.magicalcrops.magicalcrops_TerrasteelCrop.*                                 # (default: true) INTERACT Terrasteel Crop
+fe.protection.interact.magicalcrops.magicalcrops_TinCrop.*                                        # (default: true) INTERACT Tin Crop
+fe.protection.interact.magicalcrops.magicalcrops_UltimateFurnace.*                                # (default: true) INTERACT Ultimate Furnace
+fe.protection.interact.magicalcrops.magicalcrops_UltimateFurnaceActive.*                          # (default: true) INTERACT Active Ultimate Furnace
+fe.protection.interact.magicalcrops.magicalcrops_WaterCrop.*                                      # (default: true) INTERACT Water Crop
+fe.protection.interact.magicalcrops.magicalcrops_WitherCrop.*                                     # (default: true) INTERACT Wither Skeleton Crop
+fe.protection.interact.magicalcrops.magicalcrops_WitherProof.*                                    # (default: true) INTERACT Wither Proof Block
+fe.protection.interact.magicalcrops.magicalcrops_WitherProofGlass.*                               # (default: true) INTERACT Wither Proof Glass
+fe.protection.interact.magicalcrops.magicalcrops_ZivicioFarmland.*                                # (default: true) INTERACT Zivicio Farmland
+fe.protection.interact.magicalcrops.magicalcrops_ZivicioFurnace.*                                 # (default: true) INTERACT Zivicio Furnace
+fe.protection.interact.magicalcrops.magicalcrops_ZivicioFurnaceActive.*                           # (default: true) INTERACT Active Zivicio Furnace
 fe.protection.interact.malisisdoors.acaciaFenceGate.*                                             # (default: true) INTERACT Acacia Fence Gate
 fe.protection.interact.malisisdoors.birchFenceGate.*                                              # (default: true) INTERACT Birch Fence Gate
 fe.protection.interact.malisisdoors.block_mixer.*                                                 # (default: true) INTERACT Block Mixer
@@ -10085,6 +10349,94 @@ fe.protection.place.immersiveintegration.meWireConnector.*                      
 fe.protection.place.immersiveintegration.redstoneWireConnector.*                                  # (default: true) PLACE Redstone Wire Connector
 fe.protection.place.immersiveintegration.steelDecoration.*                                        # (default: true) PLACE tile.immersiveintegration:steelDecoration.name
 fe.protection.place.immersiveintegration.steelTrapdoor.*                                          # (default: true) PLACE Steel Trapdoor
+fe.protection.place.magicalcrops.essence_Square.*                                                 # (default: true) PLACE tile.EssenceSquare.name
+fe.protection.place.magicalcrops.essence_block.*                                                  # (default: true) PLACE tile.EssenceBlock.name
+fe.protection.place.magicalcrops.essence_brick.*                                                  # (default: true) PLACE tile.EssenceBrick.name
+fe.protection.place.magicalcrops.essence_brick2.*                                                 # (default: true) PLACE tile.EssenceBrick2.name
+fe.protection.place.magicalcrops.essence_lamp.*                                                   # (default: true) PLACE tile.EssenceLamp.name
+fe.protection.place.magicalcrops.essence_storage.*                                                # (default: true) PLACE tile.EssenceStorage.name
+fe.protection.place.magicalcrops.magicalcrops_AccioFarmland.*                                     # (default: true) PLACE Accio Farmland
+fe.protection.place.magicalcrops.magicalcrops_AccioFurnace.*                                      # (default: true) PLACE Accio Furnace
+fe.protection.place.magicalcrops.magicalcrops_AccioFurnaceActive.*                                # (default: true) PLACE Active Accio Furnace
+fe.protection.place.magicalcrops.magicalcrops_AirCrop.*                                           # (default: true) PLACE Air Crop
+fe.protection.place.magicalcrops.magicalcrops_AluminiumCrop.*                                     # (default: true) PLACE Aluminium Crop
+fe.protection.place.magicalcrops.magicalcrops_AlumiteCrop.*                                       # (default: true) PLACE Alumite Crop
+fe.protection.place.magicalcrops.magicalcrops_ArditeCrop.*                                        # (default: true) PLACE Ardite Crop
+fe.protection.place.magicalcrops.magicalcrops_BlazeCrop.*                                         # (default: true) PLACE Blaze Crop
+fe.protection.place.magicalcrops.magicalcrops_BlizzCrop.*                                         # (default: true) PLACE Blizz Crop
+fe.protection.place.magicalcrops.magicalcrops_BronzeCrop.*                                        # (default: true) PLACE Bronze Crop
+fe.protection.place.magicalcrops.magicalcrops_CertusQuartzCrop.*                                  # (default: true) PLACE Certus Quartz Crop
+fe.protection.place.magicalcrops.magicalcrops_ChickenCrop.*                                       # (default: true) PLACE Chicken Crop
+fe.protection.place.magicalcrops.magicalcrops_CoalCrop.*                                          # (default: true) PLACE Coal Crop
+fe.protection.place.magicalcrops.magicalcrops_CobaltCrop.*                                        # (default: true) PLACE Cobalt Crop
+fe.protection.place.magicalcrops.magicalcrops_CopperCrop.*                                        # (default: true) PLACE Copper Crop
+fe.protection.place.magicalcrops.magicalcrops_CowCrop.*                                           # (default: true) PLACE Cow Crop
+fe.protection.place.magicalcrops.magicalcrops_CreeperCrop.*                                       # (default: true) PLACE Creeper Crop
+fe.protection.place.magicalcrops.magicalcrops_CropBooster.*                                       # (default: true) PLACE Growth Pulser
+fe.protection.place.magicalcrops.magicalcrops_CrucioFarmland.*                                    # (default: true) PLACE Crucio Farmland
+fe.protection.place.magicalcrops.magicalcrops_CrucioFurnace.*                                     # (default: true) PLACE Crucio Furnace
+fe.protection.place.magicalcrops.magicalcrops_CrucioFurnaceActive.*                               # (default: true) PLACE Active Crucio Furnace
+fe.protection.place.magicalcrops.magicalcrops_DiamondCrop.*                                       # (default: true) PLACE Diamond Crop
+fe.protection.place.magicalcrops.magicalcrops_DyeCrop.*                                           # (default: true) PLACE Dye Crop
+fe.protection.place.magicalcrops.magicalcrops_EarthCrop.*                                         # (default: true) PLACE Earth Crop
+fe.protection.place.magicalcrops.magicalcrops_ElectrumCrop.*                                      # (default: true) PLACE Electrum Crop
+fe.protection.place.magicalcrops.magicalcrops_EmeraldCrop.*                                       # (default: true) PLACE Emerald Crop
+fe.protection.place.magicalcrops.magicalcrops_EnderiumCrop.*                                      # (default: true) PLACE Enderium Crop
+fe.protection.place.magicalcrops.magicalcrops_EndermanCrop.*                                      # (default: true) PLACE Enderman Crop
+fe.protection.place.magicalcrops.magicalcrops_EssenceStone.*                                      # (default: true) PLACE Essence Stone
+fe.protection.place.magicalcrops.magicalcrops_ExperienceCrop.*                                    # (default: true) PLACE Experience Crop
+fe.protection.place.magicalcrops.magicalcrops_FireCrop.*                                          # (default: true) PLACE Fire Crop
+fe.protection.place.magicalcrops.magicalcrops_FluixCrop.*                                         # (default: true) PLACE Fluix Crop
+fe.protection.place.magicalcrops.magicalcrops_GhastCrop.*                                         # (default: true) PLACE Ghast Crop
+fe.protection.place.magicalcrops.magicalcrops_GlowstoneCrop.*                                     # (default: true) PLACE Glowstone Crop
+fe.protection.place.magicalcrops.magicalcrops_GoldCrop.*                                          # (default: true) PLACE Gold Crop
+fe.protection.place.magicalcrops.magicalcrops_ImperioFarmland.*                                   # (default: true) PLACE Imperio Farmland
+fe.protection.place.magicalcrops.magicalcrops_ImperioFurnace.*                                    # (default: true) PLACE Imperio Furnace
+fe.protection.place.magicalcrops.magicalcrops_ImperioFurnaceActive.*                              # (default: true) PLACE Active Imperio Furnace
+fe.protection.place.magicalcrops.magicalcrops_InvarCrop.*                                         # (default: true) PLACE Invar Crop
+fe.protection.place.magicalcrops.magicalcrops_IronCrop.*                                          # (default: true) PLACE Iron Crop
+fe.protection.place.magicalcrops.magicalcrops_LapisCrop.*                                         # (default: true) PLACE Lapis Lazuli Crop
+fe.protection.place.magicalcrops.magicalcrops_LeadCrop.*                                          # (default: true) PLACE Lead Crop
+fe.protection.place.magicalcrops.magicalcrops_LumiumCrop.*                                        # (default: true) PLACE Lumium Crop
+fe.protection.place.magicalcrops.magicalcrops_ManasteelCrop.*                                     # (default: true) PLACE Manasteel Crop
+fe.protection.place.magicalcrops.magicalcrops_ManyullynCrop.*                                     # (default: true) PLACE Manyullyn Crop
+fe.protection.place.magicalcrops.magicalcrops_MinicioCrop.*                                       # (default: true) PLACE Minicio Crop
+fe.protection.place.magicalcrops.magicalcrops_MinicioOre.*                                        # (default: true) PLACE Minicio Ore
+fe.protection.place.magicalcrops.magicalcrops_MinicioOreEnd.*                                     # (default: true) PLACE End Minicio Ore
+fe.protection.place.magicalcrops.magicalcrops_MinicioOreNether.*                                  # (default: true) PLACE Nether Minicio Ore
+fe.protection.place.magicalcrops.magicalcrops_NatureCrop.*                                        # (default: true) PLACE Nature Crop
+fe.protection.place.magicalcrops.magicalcrops_NetherCrop.*                                        # (default: true) PLACE Nether Crop
+fe.protection.place.magicalcrops.magicalcrops_NickelCrop.*                                        # (default: true) PLACE Nickel Crop
+fe.protection.place.magicalcrops.magicalcrops_ObsidianCrop.*                                      # (default: true) PLACE Obsidian Crop
+fe.protection.place.magicalcrops.magicalcrops_OsmiumCrop.*                                        # (default: true) PLACE Osmium Crop
+fe.protection.place.magicalcrops.magicalcrops_PeridotCrop.*                                       # (default: true) PLACE Peridot Crop
+fe.protection.place.magicalcrops.magicalcrops_PigCrop.*                                           # (default: true) PLACE Pig Crop
+fe.protection.place.magicalcrops.magicalcrops_PlatinumCrop.*                                      # (default: true) PLACE Platinum Crop
+fe.protection.place.magicalcrops.magicalcrops_QuartzCrop.*                                        # (default: true) PLACE Quartz Crop
+fe.protection.place.magicalcrops.magicalcrops_RedstoneCrop.*                                      # (default: true) PLACE Redstone Crop
+fe.protection.place.magicalcrops.magicalcrops_RubberCrop.*                                        # (default: true) PLACE Rubber Crop
+fe.protection.place.magicalcrops.magicalcrops_RubyCrop.*                                          # (default: true) PLACE Ruby Crop
+fe.protection.place.magicalcrops.magicalcrops_SaltpeterCrop.*                                     # (default: true) PLACE Saltpeter Crop
+fe.protection.place.magicalcrops.magicalcrops_SapphireCrop.*                                      # (default: true) PLACE Sapphire Crop
+fe.protection.place.magicalcrops.magicalcrops_SheepCrop.*                                         # (default: true) PLACE Sheep Crop
+fe.protection.place.magicalcrops.magicalcrops_SignalumCrop.*                                      # (default: true) PLACE Signalum Crop
+fe.protection.place.magicalcrops.magicalcrops_SilverCrop.*                                        # (default: true) PLACE Silver Crop
+fe.protection.place.magicalcrops.magicalcrops_SkeletonCrop.*                                      # (default: true) PLACE Skeleton Crop
+fe.protection.place.magicalcrops.magicalcrops_SlimeCrop.*                                         # (default: true) PLACE Slime Crop
+fe.protection.place.magicalcrops.magicalcrops_SpiderCrop.*                                        # (default: true) PLACE Spider Crop
+fe.protection.place.magicalcrops.magicalcrops_SteelCrop.*                                         # (default: true) PLACE Steel Crop
+fe.protection.place.magicalcrops.magicalcrops_SulfurCrop.*                                        # (default: true) PLACE Sulfur Crop
+fe.protection.place.magicalcrops.magicalcrops_TerrasteelCrop.*                                    # (default: true) PLACE Terrasteel Crop
+fe.protection.place.magicalcrops.magicalcrops_TinCrop.*                                           # (default: true) PLACE Tin Crop
+fe.protection.place.magicalcrops.magicalcrops_UltimateFurnace.*                                   # (default: true) PLACE Ultimate Furnace
+fe.protection.place.magicalcrops.magicalcrops_UltimateFurnaceActive.*                             # (default: true) PLACE Active Ultimate Furnace
+fe.protection.place.magicalcrops.magicalcrops_WaterCrop.*                                         # (default: true) PLACE Water Crop
+fe.protection.place.magicalcrops.magicalcrops_WitherCrop.*                                        # (default: true) PLACE Wither Skeleton Crop
+fe.protection.place.magicalcrops.magicalcrops_WitherProof.*                                       # (default: true) PLACE Wither Proof Block
+fe.protection.place.magicalcrops.magicalcrops_WitherProofGlass.*                                  # (default: true) PLACE Wither Proof Glass
+fe.protection.place.magicalcrops.magicalcrops_ZivicioFarmland.*                                   # (default: true) PLACE Zivicio Farmland
+fe.protection.place.magicalcrops.magicalcrops_ZivicioFurnace.*                                    # (default: true) PLACE Zivicio Furnace
+fe.protection.place.magicalcrops.magicalcrops_ZivicioFurnaceActive.*                              # (default: true) PLACE Active Zivicio Furnace
 fe.protection.place.malisisdoors.acaciaFenceGate.*                                                # (default: true) PLACE Acacia Fence Gate
 fe.protection.place.malisisdoors.birchFenceGate.*                                                 # (default: true) PLACE Birch Fence Gate
 fe.protection.place.malisisdoors.block_mixer.*                                                    # (default: true) PLACE Block Mixer
