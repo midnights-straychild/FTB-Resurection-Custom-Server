@@ -1,9 +1,7 @@
 # --- Block/Item List ---
-<<<<<<< Updated upstream
+
 # Generated: 24-2-2017 (Server time)
-=======
-# Generated: 4-2-2017 (Server time)
->>>>>>> Stashed changes
+
 
 tile.stone
 tile.grass
@@ -2827,7 +2825,7 @@ tile.agricraft:cropBotaniaBrown
 tile.agricraft:cropBotaniaGreen
 tile.agricraft:cropBotaniaRed
 tile.agricraft:cropBotaniaBlack
-<<<<<<< Updated upstream
+
 tile.MinicioCrop
 tile.AlumiteCrop
 tile.SlimeCrop
@@ -3065,8 +3063,7 @@ tile.volcanicBlock
 tile.aobdbb.orebushShadow
 tile.knose
 tile.thaumicAnvil
-=======
->>>>>>> Stashed changes
+
 item.aroma1997core:hammer
 item.aroma1997core:wrenched
 ic2.itemHarz
@@ -6665,7 +6662,7 @@ item.RFenergyCard
 item.iguana.tcon.sawArdite
 item.iguana.tcon.sawCobalt
 item.iguana.tcon.sawManyullyn
-<<<<<<< Updated upstream
+
 item.OsmiumEssence
 item.CopperEssence
 item.SignalumSeeds
@@ -7054,8 +7051,7 @@ item.concentratedTaint
 item.WG_Cluster
 item.ItemVoidsentBlood
 item.for.canOil
-=======
->>>>>>> Stashed changes
+
 tile.air
 tile.stone
 tile.grass
@@ -9740,7 +9736,7 @@ tile.agricraft:cropBotaniaBrown
 tile.agricraft:cropBotaniaGreen
 tile.agricraft:cropBotaniaRed
 tile.agricraft:cropBotaniaBlack
-<<<<<<< Updated upstream
+
 tile.MinicioCrop
 tile.AlumiteCrop
 tile.SlimeCrop
@@ -9978,5 +9974,4 @@ tile.volcanicBlock
 tile.aobdbb.orebushShadow
 tile.knose
 tile.thaumicAnvil
-=======
->>>>>>> Stashed changes
+
