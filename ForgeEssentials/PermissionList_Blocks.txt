@@ -1,6 +1,11 @@
 #// -------- PERMISSIONS LIST BLOCKS ------- \\#
+<<<<<<< Updated upstream
 #// --------------- 24.03 21:49 ------------ \\#
 #// ----------- Total amount: 28319 --------- \\#
+=======
+#// --------------- 04.03 10:30 ------------ \\#
+#// ----------- Total amount: 27167 --------- \\#
+>>>>>>> Stashed changes
 #// ---------------------------------------- \\#
 fe.protection.break.*                                                                             # (default: true) Allow breaking blocks
 fe.protection.break.AWWayofTime.AlchemicalWizardrybloodRune.*                                     # (default: true) BREAK tile.bloodRune.name
@@ -1172,7 +1177,11 @@ fe.protection.break.OpenBlocks.village_highlighter.*                            
 fe.protection.break.OpenBlocks.xpbottler.*                                                        # (default: true) BREAK XP Bottler
 fe.protection.break.OpenBlocks.xpdrain.*                                                          # (default: true) BREAK XP Drain
 fe.protection.break.OpenBlocks.xpshower.*                                                         # (default: true) BREAK XP Shower
+<<<<<<< Updated upstream
 fe.protection.break.OpenComputers.accessPoint.*                                                   # (default: true) BREAK ˜cAccess Point˜7
+=======
+fe.protection.break.OpenComputers.accessPoint.*                                                   # (default: true) BREAK Â§cAccess PointÂ§7
+>>>>>>> Stashed changes
 fe.protection.break.OpenComputers.adapter.*                                                       # (default: true) BREAK Adapter
 fe.protection.break.OpenComputers.assembler.*                                                     # (default: true) BREAK Electronics Assembler
 fe.protection.break.OpenComputers.cable.*                                                         # (default: true) BREAK Cable
@@ -1206,7 +1215,11 @@ fe.protection.break.OpenComputers.screen1.*                                     
 fe.protection.break.OpenComputers.screen2.*                                                       # (default: true) BREAK Screen (Tier 2)
 fe.protection.break.OpenComputers.screen3.*                                                       # (default: true) BREAK Screen (Tier 3)
 fe.protection.break.OpenComputers.serverRack.*                                                    # (default: true) BREAK Server Rack
+<<<<<<< Updated upstream
 fe.protection.break.OpenComputers.switch.*                                                        # (default: true) BREAK ˜cSwitch˜7
+=======
+fe.protection.break.OpenComputers.switch.*                                                        # (default: true) BREAK Â§cSwitchÂ§7
+>>>>>>> Stashed changes
 fe.protection.break.OpenComputers.transposer.*                                                    # (default: true) BREAK Transposer
 fe.protection.break.OpenComputers.waypoint.*                                                      # (default: true) BREAK Waypoint
 fe.protection.break.PowerConverters.converter.common.*                                            # (default: true) BREAK tile.powerconverters.common.name
@@ -4006,7 +4019,11 @@ fe.protection.explode.OpenBlocks.village_highlighter.*                          
 fe.protection.explode.OpenBlocks.xpbottler.*                                                      # (default: true) EXPLODE XP Bottler
 fe.protection.explode.OpenBlocks.xpdrain.*                                                        # (default: true) EXPLODE XP Drain
 fe.protection.explode.OpenBlocks.xpshower.*                                                       # (default: true) EXPLODE XP Shower
+<<<<<<< Updated upstream
 fe.protection.explode.OpenComputers.accessPoint.*                                                 # (default: true) EXPLODE ˜cAccess Point˜7
+=======
+fe.protection.explode.OpenComputers.accessPoint.*                                                 # (default: true) EXPLODE Â§cAccess PointÂ§7
+>>>>>>> Stashed changes
 fe.protection.explode.OpenComputers.adapter.*                                                     # (default: true) EXPLODE Adapter
 fe.protection.explode.OpenComputers.assembler.*                                                   # (default: true) EXPLODE Electronics Assembler
 fe.protection.explode.OpenComputers.cable.*                                                       # (default: true) EXPLODE Cable
@@ -4040,7 +4057,11 @@ fe.protection.explode.OpenComputers.screen1.*                                   
 fe.protection.explode.OpenComputers.screen2.*                                                     # (default: true) EXPLODE Screen (Tier 2)
 fe.protection.explode.OpenComputers.screen3.*                                                     # (default: true) EXPLODE Screen (Tier 3)
 fe.protection.explode.OpenComputers.serverRack.*                                                  # (default: true) EXPLODE Server Rack
+<<<<<<< Updated upstream
 fe.protection.explode.OpenComputers.switch.*                                                      # (default: true) EXPLODE ˜cSwitch˜7
+=======
+fe.protection.explode.OpenComputers.switch.*                                                      # (default: true) EXPLODE Â§cSwitchÂ§7
+>>>>>>> Stashed changes
 fe.protection.explode.OpenComputers.transposer.*                                                  # (default: true) EXPLODE Transposer
 fe.protection.explode.OpenComputers.waypoint.*                                                    # (default: true) EXPLODE Waypoint
 fe.protection.explode.PowerConverters.converter.common.*                                          # (default: true) EXPLODE tile.powerconverters.common.name
@@ -6840,7 +6861,11 @@ fe.protection.interact.OpenBlocks.village_highlighter.*                         
 fe.protection.interact.OpenBlocks.xpbottler.*                                                     # (default: true) INTERACT XP Bottler
 fe.protection.interact.OpenBlocks.xpdrain.*                                                       # (default: true) INTERACT XP Drain
 fe.protection.interact.OpenBlocks.xpshower.*                                                      # (default: true) INTERACT XP Shower
+<<<<<<< Updated upstream
 fe.protection.interact.OpenComputers.accessPoint.*                                                # (default: true) INTERACT ˜cAccess Point˜7
+=======
+fe.protection.interact.OpenComputers.accessPoint.*                                                # (default: true) INTERACT Â§cAccess PointÂ§7
+>>>>>>> Stashed changes
 fe.protection.interact.OpenComputers.adapter.*                                                    # (default: true) INTERACT Adapter
 fe.protection.interact.OpenComputers.assembler.*                                                  # (default: true) INTERACT Electronics Assembler
 fe.protection.interact.OpenComputers.cable.*                                                      # (default: true) INTERACT Cable
@@ -6874,7 +6899,11 @@ fe.protection.interact.OpenComputers.screen1.*                                  
 fe.protection.interact.OpenComputers.screen2.*                                                    # (default: true) INTERACT Screen (Tier 2)
 fe.protection.interact.OpenComputers.screen3.*                                                    # (default: true) INTERACT Screen (Tier 3)
 fe.protection.interact.OpenComputers.serverRack.*                                                 # (default: true) INTERACT Server Rack
+<<<<<<< Updated upstream
 fe.protection.interact.OpenComputers.switch.*                                                     # (default: true) INTERACT ˜cSwitch˜7
+=======
+fe.protection.interact.OpenComputers.switch.*                                                     # (default: true) INTERACT Â§cSwitchÂ§7
+>>>>>>> Stashed changes
 fe.protection.interact.OpenComputers.transposer.*                                                 # (default: true) INTERACT Transposer
 fe.protection.interact.OpenComputers.waypoint.*                                                   # (default: true) INTERACT Waypoint
 fe.protection.interact.PowerConverters.converter.common.*                                         # (default: true) INTERACT tile.powerconverters.common.name
@@ -9675,7 +9704,11 @@ fe.protection.place.OpenBlocks.village_highlighter.*                            
 fe.protection.place.OpenBlocks.xpbottler.*                                                        # (default: true) PLACE XP Bottler
 fe.protection.place.OpenBlocks.xpdrain.*                                                          # (default: true) PLACE XP Drain
 fe.protection.place.OpenBlocks.xpshower.*                                                         # (default: true) PLACE XP Shower
+<<<<<<< Updated upstream
 fe.protection.place.OpenComputers.accessPoint.*                                                   # (default: true) PLACE ˜cAccess Point˜7
+=======
+fe.protection.place.OpenComputers.accessPoint.*                                                   # (default: true) PLACE Â§cAccess PointÂ§7
+>>>>>>> Stashed changes
 fe.protection.place.OpenComputers.adapter.*                                                       # (default: true) PLACE Adapter
 fe.protection.place.OpenComputers.assembler.*                                                     # (default: true) PLACE Electronics Assembler
 fe.protection.place.OpenComputers.cable.*                                                         # (default: true) PLACE Cable
@@ -9709,7 +9742,11 @@ fe.protection.place.OpenComputers.screen1.*                                     
 fe.protection.place.OpenComputers.screen2.*                                                       # (default: true) PLACE Screen (Tier 2)
 fe.protection.place.OpenComputers.screen3.*                                                       # (default: true) PLACE Screen (Tier 3)
 fe.protection.place.OpenComputers.serverRack.*                                                    # (default: true) PLACE Server Rack
+<<<<<<< Updated upstream
 fe.protection.place.OpenComputers.switch.*                                                        # (default: true) PLACE ˜cSwitch˜7
+=======
+fe.protection.place.OpenComputers.switch.*                                                        # (default: true) PLACE Â§cSwitchÂ§7
+>>>>>>> Stashed changes
 fe.protection.place.OpenComputers.transposer.*                                                    # (default: true) PLACE Transposer
 fe.protection.place.OpenComputers.waypoint.*                                                      # (default: true) PLACE Waypoint
 fe.protection.place.PowerConverters.converter.common.*                                            # (default: true) PLACE tile.powerconverters.common.name

@@ -1,6 +1,11 @@
 #// --------- PERMISSIONS LIST ITEMS ------- \\#
+<<<<<<< Updated upstream
 #// --------------- 24.03 21:49 ------------ \\#
 #// ----------- Total amount: 28319 --------- \\#
+=======
+#// --------------- 04.03 10:30 ------------ \\#
+#// ----------- Total amount: 27167 --------- \\#
+>>>>>>> Stashed changes
 #// ---------------------------------------- \\#
 fe.protection.craft.*                                                                             # (default: true) Allow crafting of items. Not necessarily works with modded crafting tables
 fe.protection.craft.AWWayofTime.activationCrystal.*                                               # (default: true) CRAFT Weak Activation Crystal
@@ -279,8 +284,13 @@ fe.protection.craft.Botania.baubleBox.*                                         
 fe.protection.craft.Botania.blackHoleTalisman.*                                                   # (default: true) CRAFT Black Hole Talisman
 fe.protection.craft.Botania.blackLotus.*                                                          # (default: true) CRAFT Black Lotus
 fe.protection.craft.Botania.bloodPendant.*                                                        # (default: true) CRAFT Tainted Blood Pendant
+<<<<<<< Updated upstream
 fe.protection.craft.Botania.brewFlask.*                                                           # (default: true) CRAFT Flask of Fallback (˜l6˜r)
 fe.protection.craft.Botania.brewVial.*                                                            # (default: true) CRAFT Vial of Fallback (˜l4˜r)
+=======
+fe.protection.craft.Botania.brewFlask.*                                                           # (default: true) CRAFT Flask of Fallback (Â§l6Â§r)
+fe.protection.craft.Botania.brewVial.*                                                            # (default: true) CRAFT Vial of Fallback (Â§l4Â§r)
+>>>>>>> Stashed changes
 fe.protection.craft.Botania.cacophonium.*                                                         # (default: true) CRAFT Cacophonium
 fe.protection.craft.Botania.clip.*                                                                # (default: true) CRAFT Lens Clip
 fe.protection.craft.Botania.cobbleRod.*                                                           # (default: true) CRAFT Rod of the Depths
@@ -309,9 +319,15 @@ fe.protection.craft.Botania.enderHand.*                                         
 fe.protection.craft.Botania.exchangeRod.*                                                         # (default: true) CRAFT Rod of the Shifting Crust
 fe.protection.craft.Botania.fertilizer.*                                                          # (default: true) CRAFT Floral Fertilizer
 fe.protection.craft.Botania.fireRod.*                                                             # (default: true) CRAFT Rod of the Hells
+<<<<<<< Updated upstream
 fe.protection.craft.Botania.flightTiara.*                                                         # (default: true) CRAFT Fl?gel Tiara
 fe.protection.craft.Botania.flowerBag.*                                                           # (default: true) CRAFT Flower Pouch
 fe.protection.craft.Botania.flugelEye.*                                                           # (default: true) CRAFT Eye of the Fl?gel
+=======
+fe.protection.craft.Botania.flightTiara.*                                                         # (default: true) CRAFT FlÃ¼gel Tiara
+fe.protection.craft.Botania.flowerBag.*                                                           # (default: true) CRAFT Flower Pouch
+fe.protection.craft.Botania.flugelEye.*                                                           # (default: true) CRAFT Eye of the FlÃ¼gel
+>>>>>>> Stashed changes
 fe.protection.craft.Botania.gaiaHead.*                                                            # (default: true) CRAFT Gaia Guardian's Head
 fe.protection.craft.Botania.glassPick.*                                                           # (default: true) CRAFT Vitreous Pickaxe
 fe.protection.craft.Botania.goldenLaurel.*                                                        # (default: true) CRAFT Golden Laurel Crown
@@ -1275,7 +1291,11 @@ fe.protection.craft.Mantle.mantleBook.*                                         
 fe.protection.craft.Mekanism.ArmoredJetpack.*                                                     # (default: true) CRAFT Armored Jetpack
 fe.protection.craft.Mekanism.AtomicAlloy.*                                                        # (default: true) CRAFT Atomic Alloy
 fe.protection.craft.Mekanism.AtomicDisassembler.*                                                 # (default: true) CRAFT Atomic Disassembler
+<<<<<<< Updated upstream
 fe.protection.craft.Mekanism.Balloon.*                                                            # (default: true) CRAFT ˜8Black Balloon
+=======
+fe.protection.craft.Mekanism.Balloon.*                                                            # (default: true) CRAFT Â§8Black Balloon
+>>>>>>> Stashed changes
 fe.protection.craft.Mekanism.BioFuel.*                                                            # (default: true) CRAFT Bio Fuel
 fe.protection.craft.Mekanism.BrineBucket.*                                                        # (default: true) CRAFT Brine Bucket
 fe.protection.craft.Mekanism.Clump.*                                                              # (default: true) CRAFT Iron Clump
@@ -1304,7 +1324,11 @@ fe.protection.craft.Mekanism.FreeRunners.*                                      
 fe.protection.craft.Mekanism.GasMask.*                                                            # (default: true) CRAFT Gas Mask
 fe.protection.craft.Mekanism.GasUpgrade.*                                                         # (default: true) CRAFT Gas Upgrade
 fe.protection.craft.Mekanism.GaugeDropper.*                                                       # (default: true) CRAFT Gauge Dropper
+<<<<<<< Updated upstream
 fe.protection.craft.Mekanism.GlowPanel.*                                                          # (default: true) CRAFT ˜8Black Glow Panel
+=======
+fe.protection.craft.Mekanism.GlowPanel.*                                                          # (default: true) CRAFT Â§8Black Glow Panel
+>>>>>>> Stashed changes
 fe.protection.craft.Mekanism.HeavyWaterBucket.*                                                   # (default: true) CRAFT Heavy Water Bucket
 fe.protection.craft.Mekanism.Ingot.*                                                              # (default: true) CRAFT Refined Obsidian Ingot
 fe.protection.craft.Mekanism.ItemProxy.*                                                          # (default: true) CRAFT item.ItemProxy.name
@@ -2049,7 +2073,11 @@ fe.protection.craft.ThermalExpansion.augment.*                                  
 fe.protection.craft.ThermalExpansion.capacitor.*                                                  # (default: true) CRAFT Creative Flux Capacitor
 fe.protection.craft.ThermalExpansion.chiller.*                                                    # (default: true) CRAFT Flux Chiller
 fe.protection.craft.ThermalExpansion.diagram.*                                                    # (default: true) CRAFT Schematic
+<<<<<<< Updated upstream
 fe.protection.craft.ThermalExpansion.florb.*                                                      # (default: true) CRAFT Florb (Empty˜r)
+=======
+fe.protection.craft.ThermalExpansion.florb.*                                                      # (default: true) CRAFT Florb (EmptyÂ§r)
+>>>>>>> Stashed changes
 fe.protection.craft.ThermalExpansion.igniter.*                                                    # (default: true) CRAFT Flux Igniter
 fe.protection.craft.ThermalExpansion.material.*                                                   # (default: true) CRAFT Pneumatic Servo
 fe.protection.craft.ThermalExpansion.meter.*                                                      # (default: true) CRAFT Multimeter
@@ -2440,9 +2468,15 @@ fe.protection.craft.appliedenergistics2.item.ItemFacade.*                       
 fe.protection.craft.appliedenergistics2.item.ItemMultiMaterial.*                                  # (default: true) CRAFT Certus Quartz Crystal
 fe.protection.craft.appliedenergistics2.item.ItemMultiPart.*                                      # (default: true) CRAFT ME Glass Cable - White
 fe.protection.craft.appliedenergistics2.item.ItemPaintBall.*                                      # (default: true) CRAFT Paint Ball - White
+<<<<<<< Updated upstream
 fe.protection.craft.appliedenergistics2.item.ItemSpatialStorageCell.128Cubed.*                    # (default: true) CRAFT 128? Spatial Storage Cell
 fe.protection.craft.appliedenergistics2.item.ItemSpatialStorageCell.16Cubed.*                     # (default: true) CRAFT 16? Spatial Storage Cell
 fe.protection.craft.appliedenergistics2.item.ItemSpatialStorageCell.2Cubed.*                      # (default: true) CRAFT 2? Spatial Storage Cell
+=======
+fe.protection.craft.appliedenergistics2.item.ItemSpatialStorageCell.128Cubed.*                    # (default: true) CRAFT 128Â³ Spatial Storage Cell
+fe.protection.craft.appliedenergistics2.item.ItemSpatialStorageCell.16Cubed.*                     # (default: true) CRAFT 16Â³ Spatial Storage Cell
+fe.protection.craft.appliedenergistics2.item.ItemSpatialStorageCell.2Cubed.*                      # (default: true) CRAFT 2Â³ Spatial Storage Cell
+>>>>>>> Stashed changes
 fe.protection.craft.appliedenergistics2.item.ItemViewCell.*                                       # (default: true) CRAFT View Cell
 fe.protection.craft.appliedenergistics2.item.ToolBiometricCard.*                                  # (default: true) CRAFT Biometric Card
 fe.protection.craft.appliedenergistics2.item.ToolCertusQuartzAxe.*                                # (default: true) CRAFT Certus Quartz Axe
@@ -3280,6 +3314,7 @@ fe.protection.craft.harvestcraft.zucchiniseedItem.*                             
 fe.protection.craft.immersiveintegration.capacitorBox.*                                           # (default: true) CRAFT LV Capacitor in a Box
 fe.protection.craft.immersiveintegration.iiWireCoil.*                                             # (default: true) CRAFT Redstone Wire Coil
 fe.protection.craft.immersiveintegration.wireCoil.*                                               # (default: true) CRAFT Fluix Wire Coil
+<<<<<<< Updated upstream
 fe.protection.craft.magicalcrops.magicalcrops_1MinicioEssence.*                                   # (default: true) CRAFT ˜aMinicio Essence
 fe.protection.craft.magicalcrops.magicalcrops_2AccioEssence.*                                     # (default: true) CRAFT ˜6Accio Essence
 fe.protection.craft.magicalcrops.magicalcrops_3CrucioEssence.*                                    # (default: true) CRAFT ˜eCrucio Essence
@@ -3294,6 +3329,22 @@ fe.protection.craft.magicalcrops.magicalcrops_AccioHoe.*                        
 fe.protection.craft.magicalcrops.magicalcrops_AccioPickaxe.*                                      # (default: true) CRAFT ˜6Accio Pickaxe
 fe.protection.craft.magicalcrops.magicalcrops_AccioShovel.*                                       # (default: true) CRAFT ˜6Accio Shovel
 fe.protection.craft.magicalcrops.magicalcrops_AccioSword.*                                        # (default: true) CRAFT ˜6Accio Sword
+=======
+fe.protection.craft.magicalcrops.magicalcrops_1MinicioEssence.*                                   # (default: true) CRAFT Â§aMinicio Essence
+fe.protection.craft.magicalcrops.magicalcrops_2AccioEssence.*                                     # (default: true) CRAFT Â§6Accio Essence
+fe.protection.craft.magicalcrops.magicalcrops_3CrucioEssence.*                                    # (default: true) CRAFT Â§eCrucio Essence
+fe.protection.craft.magicalcrops.magicalcrops_4ImperioEssence.*                                   # (default: true) CRAFT Â§bImperio Essence
+fe.protection.craft.magicalcrops.magicalcrops_5ZivicioEssence.*                                   # (default: true) CRAFT Â§dZivicio Essence
+fe.protection.craft.magicalcrops.magicalcrops_AccioArmourBoots.*                                  # (default: true) CRAFT Â§6Accio Boots
+fe.protection.craft.magicalcrops.magicalcrops_AccioArmourChestplate.*                             # (default: true) CRAFT Â§6Accio Chestplate
+fe.protection.craft.magicalcrops.magicalcrops_AccioArmourHelmet.*                                 # (default: true) CRAFT Â§6Accio Helmet
+fe.protection.craft.magicalcrops.magicalcrops_AccioArmourLeggings.*                               # (default: true) CRAFT Â§6Accio Leggings
+fe.protection.craft.magicalcrops.magicalcrops_AccioAxe.*                                          # (default: true) CRAFT Â§6Accio Axe
+fe.protection.craft.magicalcrops.magicalcrops_AccioHoe.*                                          # (default: true) CRAFT Â§6Accio Hoe
+fe.protection.craft.magicalcrops.magicalcrops_AccioPickaxe.*                                      # (default: true) CRAFT Â§6Accio Pickaxe
+fe.protection.craft.magicalcrops.magicalcrops_AccioShovel.*                                       # (default: true) CRAFT Â§6Accio Shovel
+fe.protection.craft.magicalcrops.magicalcrops_AccioSword.*                                        # (default: true) CRAFT Â§6Accio Sword
+>>>>>>> Stashed changes
 fe.protection.craft.magicalcrops.magicalcrops_AirEssence.*                                        # (default: true) CRAFT Air Essence
 fe.protection.craft.magicalcrops.magicalcrops_AirSeeds.*                                          # (default: true) CRAFT Air Seeds
 fe.protection.craft.magicalcrops.magicalcrops_AluminiumEssence.*                                  # (default: true) CRAFT Aluminium Essence
@@ -3322,6 +3373,7 @@ fe.protection.craft.magicalcrops.magicalcrops_CowEssence.*                      
 fe.protection.craft.magicalcrops.magicalcrops_CowSeeds.*                                          # (default: true) CRAFT Cow Seeds
 fe.protection.craft.magicalcrops.magicalcrops_CreeperEssence.*                                    # (default: true) CRAFT Creeper Essence
 fe.protection.craft.magicalcrops.magicalcrops_CreeperSeeds.*                                      # (default: true) CRAFT Creeper Seeds
+<<<<<<< Updated upstream
 fe.protection.craft.magicalcrops.magicalcrops_CrucioArmourBoots.*                                 # (default: true) CRAFT ˜eCrucio Boots
 fe.protection.craft.magicalcrops.magicalcrops_CrucioArmourChestplate.*                            # (default: true) CRAFT ˜eCrucio Chestplate
 fe.protection.craft.magicalcrops.magicalcrops_CrucioArmourHelmet.*                                # (default: true) CRAFT ˜eCrucio Helmet
@@ -3331,6 +3383,17 @@ fe.protection.craft.magicalcrops.magicalcrops_CrucioHoe.*                       
 fe.protection.craft.magicalcrops.magicalcrops_CrucioPickaxe.*                                     # (default: true) CRAFT ˜eCrucio Pickaxe
 fe.protection.craft.magicalcrops.magicalcrops_CrucioShovel.*                                      # (default: true) CRAFT ˜eCrucio Shovel
 fe.protection.craft.magicalcrops.magicalcrops_CrucioSword.*                                       # (default: true) CRAFT ˜eCrucio Sword
+=======
+fe.protection.craft.magicalcrops.magicalcrops_CrucioArmourBoots.*                                 # (default: true) CRAFT Â§eCrucio Boots
+fe.protection.craft.magicalcrops.magicalcrops_CrucioArmourChestplate.*                            # (default: true) CRAFT Â§eCrucio Chestplate
+fe.protection.craft.magicalcrops.magicalcrops_CrucioArmourHelmet.*                                # (default: true) CRAFT Â§eCrucio Helmet
+fe.protection.craft.magicalcrops.magicalcrops_CrucioArmourLeggings.*                              # (default: true) CRAFT Â§eCrucio Leggings
+fe.protection.craft.magicalcrops.magicalcrops_CrucioAxe.*                                         # (default: true) CRAFT Â§eCrucio Axe
+fe.protection.craft.magicalcrops.magicalcrops_CrucioHoe.*                                         # (default: true) CRAFT Â§eCrucio Hoe
+fe.protection.craft.magicalcrops.magicalcrops_CrucioPickaxe.*                                     # (default: true) CRAFT Â§eCrucio Pickaxe
+fe.protection.craft.magicalcrops.magicalcrops_CrucioShovel.*                                      # (default: true) CRAFT Â§eCrucio Shovel
+fe.protection.craft.magicalcrops.magicalcrops_CrucioSword.*                                       # (default: true) CRAFT Â§eCrucio Sword
+>>>>>>> Stashed changes
 fe.protection.craft.magicalcrops.magicalcrops_DiamondEssence.*                                    # (default: true) CRAFT Diamond Essence
 fe.protection.craft.magicalcrops.magicalcrops_DiamondSeeds.*                                      # (default: true) CRAFT Diamond Seeds
 fe.protection.craft.magicalcrops.magicalcrops_DyeEssence.*                                        # (default: true) CRAFT Technicolor Essence
@@ -3339,16 +3402,26 @@ fe.protection.craft.magicalcrops.magicalcrops_EarthEssence.*                    
 fe.protection.craft.magicalcrops.magicalcrops_EarthSeeds.*                                        # (default: true) CRAFT Earth Seeds
 fe.protection.craft.magicalcrops.magicalcrops_ElectrumEssence.*                                   # (default: true) CRAFT Electrum Essence
 fe.protection.craft.magicalcrops.magicalcrops_ElectrumSeeds.*                                     # (default: true) CRAFT Electrum Seeds
+<<<<<<< Updated upstream
 fe.protection.craft.magicalcrops.magicalcrops_EmeraldApple.*                                      # (default: true) CRAFT ˜aEmerald Apple
+=======
+fe.protection.craft.magicalcrops.magicalcrops_EmeraldApple.*                                      # (default: true) CRAFT Â§aEmerald Apple
+>>>>>>> Stashed changes
 fe.protection.craft.magicalcrops.magicalcrops_EmeraldEssence.*                                    # (default: true) CRAFT Emerald Essence
 fe.protection.craft.magicalcrops.magicalcrops_EmeraldSeeds.*                                      # (default: true) CRAFT Emerald Seeds
 fe.protection.craft.magicalcrops.magicalcrops_EnderiumEssence.*                                   # (default: true) CRAFT Enderium Essence
 fe.protection.craft.magicalcrops.magicalcrops_EnderiumSeeds.*                                     # (default: true) CRAFT Enderium Seeds
 fe.protection.craft.magicalcrops.magicalcrops_EndermanEssence.*                                   # (default: true) CRAFT Enderman Essence
 fe.protection.craft.magicalcrops.magicalcrops_EndermanSeeds.*                                     # (default: true) CRAFT Enderman Seeds
+<<<<<<< Updated upstream
 fe.protection.craft.magicalcrops.magicalcrops_EssenceFertilizer.*                                 # (default: true) CRAFT ˜6Accio Soil Fertilizer
 fe.protection.craft.magicalcrops.magicalcrops_EssenceIngots.*                                     # (default: true) CRAFT ˜6Accio Ingot
 fe.protection.craft.magicalcrops.magicalcrops_ExperienceBook.*                                    # (default: true) CRAFT ˜fExperience Book
+=======
+fe.protection.craft.magicalcrops.magicalcrops_EssenceFertilizer.*                                 # (default: true) CRAFT Â§6Accio Soil Fertilizer
+fe.protection.craft.magicalcrops.magicalcrops_EssenceIngots.*                                     # (default: true) CRAFT Â§6Accio Ingot
+fe.protection.craft.magicalcrops.magicalcrops_ExperienceBook.*                                    # (default: true) CRAFT Â§fExperience Book
+>>>>>>> Stashed changes
 fe.protection.craft.magicalcrops.magicalcrops_ExperienceEssence.*                                 # (default: true) CRAFT Experience Essence
 fe.protection.craft.magicalcrops.magicalcrops_ExperienceSeeds.*                                   # (default: true) CRAFT Experience Seeds
 fe.protection.craft.magicalcrops.magicalcrops_FireEssence.*                                       # (default: true) CRAFT Fire Essence
@@ -3361,6 +3434,7 @@ fe.protection.craft.magicalcrops.magicalcrops_GlowstoneEssence.*                
 fe.protection.craft.magicalcrops.magicalcrops_GlowstoneSeeds.*                                    # (default: true) CRAFT Glowstone Seeds
 fe.protection.craft.magicalcrops.magicalcrops_GoldEssence.*                                       # (default: true) CRAFT Gold Essence
 fe.protection.craft.magicalcrops.magicalcrops_GoldSeeds.*                                         # (default: true) CRAFT Gold Seeds
+<<<<<<< Updated upstream
 fe.protection.craft.magicalcrops.magicalcrops_ImperioArmourBoots.*                                # (default: true) CRAFT ˜bImperio Boots
 fe.protection.craft.magicalcrops.magicalcrops_ImperioArmourChestplate.*                           # (default: true) CRAFT ˜bImperio Chestplate
 fe.protection.craft.magicalcrops.magicalcrops_ImperioArmourHelmet.*                               # (default: true) CRAFT ˜bImperio Helmet
@@ -3375,6 +3449,22 @@ fe.protection.craft.magicalcrops.magicalcrops_InfusionStoneMaster.*             
 fe.protection.craft.magicalcrops.magicalcrops_InfusionStoneRegular.*                              # (default: true) CRAFT Regular Infusion Stone
 fe.protection.craft.magicalcrops.magicalcrops_InfusionStoneStrong.*                               # (default: true) CRAFT ˜bStrong Infusion Stone
 fe.protection.craft.magicalcrops.magicalcrops_InfusionStoneWeak.*                                 # (default: true) CRAFT ˜6Weak Infusion Stone
+=======
+fe.protection.craft.magicalcrops.magicalcrops_ImperioArmourBoots.*                                # (default: true) CRAFT Â§bImperio Boots
+fe.protection.craft.magicalcrops.magicalcrops_ImperioArmourChestplate.*                           # (default: true) CRAFT Â§bImperio Chestplate
+fe.protection.craft.magicalcrops.magicalcrops_ImperioArmourHelmet.*                               # (default: true) CRAFT Â§bImperio Helmet
+fe.protection.craft.magicalcrops.magicalcrops_ImperioArmourLeggings.*                             # (default: true) CRAFT Â§bImperio Leggings
+fe.protection.craft.magicalcrops.magicalcrops_ImperioAxe.*                                        # (default: true) CRAFT Â§bImperio Axe
+fe.protection.craft.magicalcrops.magicalcrops_ImperioHoe.*                                        # (default: true) CRAFT Â§bImperio Hoe
+fe.protection.craft.magicalcrops.magicalcrops_ImperioPickaxe.*                                    # (default: true) CRAFT Â§bImperio Pickaxe
+fe.protection.craft.magicalcrops.magicalcrops_ImperioShovel.*                                     # (default: true) CRAFT Â§bImperio Shovel
+fe.protection.craft.magicalcrops.magicalcrops_ImperioSword.*                                      # (default: true) CRAFT Â§bImperio Sword
+fe.protection.craft.magicalcrops.magicalcrops_InfusionStoneExtreme.*                              # (default: true) CRAFT Extreme Infusion Stone
+fe.protection.craft.magicalcrops.magicalcrops_InfusionStoneMaster.*                               # (default: true) CRAFT Â§4Master Infusion Stone
+fe.protection.craft.magicalcrops.magicalcrops_InfusionStoneRegular.*                              # (default: true) CRAFT Regular Infusion Stone
+fe.protection.craft.magicalcrops.magicalcrops_InfusionStoneStrong.*                               # (default: true) CRAFT Â§bStrong Infusion Stone
+fe.protection.craft.magicalcrops.magicalcrops_InfusionStoneWeak.*                                 # (default: true) CRAFT Â§6Weak Infusion Stone
+>>>>>>> Stashed changes
 fe.protection.craft.magicalcrops.magicalcrops_InvarEssence.*                                      # (default: true) CRAFT Invar Essence
 fe.protection.craft.magicalcrops.magicalcrops_InvarSeeds.*                                        # (default: true) CRAFT Invar Seeds
 fe.protection.craft.magicalcrops.magicalcrops_IronEssence.*                                       # (default: true) CRAFT Iron Essence
@@ -3439,17 +3529,27 @@ fe.protection.craft.magicalcrops.magicalcrops_SteelEssence.*                    
 fe.protection.craft.magicalcrops.magicalcrops_SteelSeeds.*                                        # (default: true) CRAFT Steel Seeds
 fe.protection.craft.magicalcrops.magicalcrops_SulfurEssence.*                                     # (default: true) CRAFT Sulfur Essence
 fe.protection.craft.magicalcrops.magicalcrops_SulfurSeeds.*                                       # (default: true) CRAFT Sulfur Seeds
+<<<<<<< Updated upstream
 fe.protection.craft.magicalcrops.magicalcrops_TaintedEssence.*                                    # (default: true) CRAFT ˜8Tainted Essence
+=======
+fe.protection.craft.magicalcrops.magicalcrops_TaintedEssence.*                                    # (default: true) CRAFT Â§8Tainted Essence
+>>>>>>> Stashed changes
 fe.protection.craft.magicalcrops.magicalcrops_TerrasteelEssence.*                                 # (default: true) CRAFT Terrasteel Essence
 fe.protection.craft.magicalcrops.magicalcrops_TerrasteelSeeds.*                                   # (default: true) CRAFT Terrasteel Seeds
 fe.protection.craft.magicalcrops.magicalcrops_TinEssence.*                                        # (default: true) CRAFT Tin Essence
 fe.protection.craft.magicalcrops.magicalcrops_TinSeeds.*                                          # (default: true) CRAFT Tin Seeds
+<<<<<<< Updated upstream
 fe.protection.craft.magicalcrops.magicalcrops_UltimateDiamondApple.*                              # (default: true) CRAFT ˜bUltimate Diamond Apple
 fe.protection.craft.magicalcrops.magicalcrops_UltimateEmeraldApple.*                              # (default: true) CRAFT ˜aUltimate Emerald Apple
+=======
+fe.protection.craft.magicalcrops.magicalcrops_UltimateDiamondApple.*                              # (default: true) CRAFT Â§bUltimate Diamond Apple
+fe.protection.craft.magicalcrops.magicalcrops_UltimateEmeraldApple.*                              # (default: true) CRAFT Â§aUltimate Emerald Apple
+>>>>>>> Stashed changes
 fe.protection.craft.magicalcrops.magicalcrops_WaterEssence.*                                      # (default: true) CRAFT Water Essence
 fe.protection.craft.magicalcrops.magicalcrops_WaterSeeds.*                                        # (default: true) CRAFT Water Seeds
 fe.protection.craft.magicalcrops.magicalcrops_WitherEssence.*                                     # (default: true) CRAFT Wither Essence
 fe.protection.craft.magicalcrops.magicalcrops_WitherSeeds.*                                       # (default: true) CRAFT Wither Skeleton Seeds
+<<<<<<< Updated upstream
 fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourBoots.*                                # (default: true) CRAFT ˜dZivicio Boots
 fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourBootsJump.*                            # (default: true) CRAFT ˜dZivicio Boots
 fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourBootsSpeed.*                           # (default: true) CRAFT ˜dZivicio Boots
@@ -3471,6 +3571,29 @@ fe.protection.craft.magicalcrops.magicalcrops_ZivicioHoe.*                      
 fe.protection.craft.magicalcrops.magicalcrops_ZivicioPickaxe.*                                    # (default: true) CRAFT ˜dZivicio Pickaxe
 fe.protection.craft.magicalcrops.magicalcrops_ZivicioShovel.*                                     # (default: true) CRAFT ˜dZivicio Shovel
 fe.protection.craft.magicalcrops.magicalcrops_ZivicioSword.*                                      # (default: true) CRAFT ˜dZivicio Sword
+=======
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourBoots.*                                # (default: true) CRAFT Â§dZivicio Boots
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourBootsJump.*                            # (default: true) CRAFT Â§dZivicio Boots
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourBootsSpeed.*                           # (default: true) CRAFT Â§dZivicio Boots
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourBootsStep.*                            # (default: true) CRAFT Â§dZivicio Boots
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourChestplate.*                           # (default: true) CRAFT Â§dZivicio Chestplate
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourChestplateFire.*                       # (default: true) CRAFT Â§dZivicio Chestplate
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourChestplatePoison.*                     # (default: true) CRAFT Â§dZivicio Chestplate
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourChestplateWither.*                     # (default: true) CRAFT Â§dZivicio Chestplate
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourHelmet.*                               # (default: true) CRAFT Â§dZivicio Helmet
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourHelmetFeed.*                           # (default: true) CRAFT Â§dZivicio Helmet
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourHelmetNight.*                          # (default: true) CRAFT Â§dZivicio Helmet
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourHelmetWater.*                          # (default: true) CRAFT Â§dZivicio Helmet
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourLeggings.*                             # (default: true) CRAFT Â§dZivicio Leggings
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourLeggingsBlind.*                        # (default: true) CRAFT Â§dZivicio Leggings
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourLeggingsConfusion.*                    # (default: true) CRAFT Â§dZivicio Leggings
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioArmourLeggingsWeak.*                         # (default: true) CRAFT Â§dZivicio Leggings
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioAxe.*                                        # (default: true) CRAFT Â§dZivicio Axe
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioHoe.*                                        # (default: true) CRAFT Â§dZivicio Hoe
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioPickaxe.*                                    # (default: true) CRAFT Â§dZivicio Pickaxe
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioShovel.*                                     # (default: true) CRAFT Â§dZivicio Shovel
+fe.protection.craft.magicalcrops.magicalcrops_ZivicioSword.*                                      # (default: true) CRAFT Â§dZivicio Sword
+>>>>>>> Stashed changes
 fe.protection.craft.malisisdoors.item.curtain_black.*                                             # (default: true) CRAFT Black Curtain
 fe.protection.craft.malisisdoors.item.curtain_blue.*                                              # (default: true) CRAFT Blue Curtain
 fe.protection.craft.malisisdoors.item.curtain_brown.*                                             # (default: true) CRAFT Brown Curtain
@@ -4246,8 +4369,13 @@ fe.protection.exist.Botania.baubleBox.*                                         
 fe.protection.exist.Botania.blackHoleTalisman.*                                                   # (default: true) EXIST Black Hole Talisman
 fe.protection.exist.Botania.blackLotus.*                                                          # (default: true) EXIST Black Lotus
 fe.protection.exist.Botania.bloodPendant.*                                                        # (default: true) EXIST Tainted Blood Pendant
+<<<<<<< Updated upstream
 fe.protection.exist.Botania.brewFlask.*                                                           # (default: true) EXIST Flask of Fallback (˜l6˜r)
 fe.protection.exist.Botania.brewVial.*                                                            # (default: true) EXIST Vial of Fallback (˜l4˜r)
+=======
+fe.protection.exist.Botania.brewFlask.*                                                           # (default: true) EXIST Flask of Fallback (Â§l6Â§r)
+fe.protection.exist.Botania.brewVial.*                                                            # (default: true) EXIST Vial of Fallback (Â§l4Â§r)
+>>>>>>> Stashed changes
 fe.protection.exist.Botania.cacophonium.*                                                         # (default: true) EXIST Cacophonium
 fe.protection.exist.Botania.clip.*                                                                # (default: true) EXIST Lens Clip
 fe.protection.exist.Botania.cobbleRod.*                                                           # (default: true) EXIST Rod of the Depths
@@ -4276,9 +4404,15 @@ fe.protection.exist.Botania.enderHand.*                                         
 fe.protection.exist.Botania.exchangeRod.*                                                         # (default: true) EXIST Rod of the Shifting Crust
 fe.protection.exist.Botania.fertilizer.*                                                          # (default: true) EXIST Floral Fertilizer
 fe.protection.exist.Botania.fireRod.*                                                             # (default: true) EXIST Rod of the Hells
+<<<<<<< Updated upstream
 fe.protection.exist.Botania.flightTiara.*                                                         # (default: true) EXIST Fl?gel Tiara
 fe.protection.exist.Botania.flowerBag.*                                                           # (default: true) EXIST Flower Pouch
 fe.protection.exist.Botania.flugelEye.*                                                           # (default: true) EXIST Eye of the Fl?gel
+=======
+fe.protection.exist.Botania.flightTiara.*                                                         # (default: true) EXIST FlÃ¼gel Tiara
+fe.protection.exist.Botania.flowerBag.*                                                           # (default: true) EXIST Flower Pouch
+fe.protection.exist.Botania.flugelEye.*                                                           # (default: true) EXIST Eye of the FlÃ¼gel
+>>>>>>> Stashed changes
 fe.protection.exist.Botania.gaiaHead.*                                                            # (default: true) EXIST Gaia Guardian's Head
 fe.protection.exist.Botania.glassPick.*                                                           # (default: true) EXIST Vitreous Pickaxe
 fe.protection.exist.Botania.goldenLaurel.*                                                        # (default: true) EXIST Golden Laurel Crown
@@ -5242,7 +5376,11 @@ fe.protection.exist.Mantle.mantleBook.*                                         
 fe.protection.exist.Mekanism.ArmoredJetpack.*                                                     # (default: true) EXIST Armored Jetpack
 fe.protection.exist.Mekanism.AtomicAlloy.*                                                        # (default: true) EXIST Atomic Alloy
 fe.protection.exist.Mekanism.AtomicDisassembler.*                                                 # (default: true) EXIST Atomic Disassembler
+<<<<<<< Updated upstream
 fe.protection.exist.Mekanism.Balloon.*                                                            # (default: true) EXIST ˜8Black Balloon
+=======
+fe.protection.exist.Mekanism.Balloon.*                                                            # (default: true) EXIST Â§8Black Balloon
+>>>>>>> Stashed changes
 fe.protection.exist.Mekanism.BioFuel.*                                                            # (default: true) EXIST Bio Fuel
 fe.protection.exist.Mekanism.BrineBucket.*                                                        # (default: true) EXIST Brine Bucket
 fe.protection.exist.Mekanism.Clump.*                                                              # (default: true) EXIST Iron Clump
@@ -5271,7 +5409,11 @@ fe.protection.exist.Mekanism.FreeRunners.*                                      
 fe.protection.exist.Mekanism.GasMask.*                                                            # (default: true) EXIST Gas Mask
 fe.protection.exist.Mekanism.GasUpgrade.*                                                         # (default: true) EXIST Gas Upgrade
 fe.protection.exist.Mekanism.GaugeDropper.*                                                       # (default: true) EXIST Gauge Dropper
+<<<<<<< Updated upstream
 fe.protection.exist.Mekanism.GlowPanel.*                                                          # (default: true) EXIST ˜8Black Glow Panel
+=======
+fe.protection.exist.Mekanism.GlowPanel.*                                                          # (default: true) EXIST Â§8Black Glow Panel
+>>>>>>> Stashed changes
 fe.protection.exist.Mekanism.HeavyWaterBucket.*                                                   # (default: true) EXIST Heavy Water Bucket
 fe.protection.exist.Mekanism.Ingot.*                                                              # (default: true) EXIST Refined Obsidian Ingot
 fe.protection.exist.Mekanism.ItemProxy.*                                                          # (default: true) EXIST item.ItemProxy.name
@@ -6016,7 +6158,11 @@ fe.protection.exist.ThermalExpansion.augment.*                                  
 fe.protection.exist.ThermalExpansion.capacitor.*                                                  # (default: true) EXIST Creative Flux Capacitor
 fe.protection.exist.ThermalExpansion.chiller.*                                                    # (default: true) EXIST Flux Chiller
 fe.protection.exist.ThermalExpansion.diagram.*                                                    # (default: true) EXIST Schematic
+<<<<<<< Updated upstream
 fe.protection.exist.ThermalExpansion.florb.*                                                      # (default: true) EXIST Florb (Empty˜r)
+=======
+fe.protection.exist.ThermalExpansion.florb.*                                                      # (default: true) EXIST Florb (EmptyÂ§r)
+>>>>>>> Stashed changes
 fe.protection.exist.ThermalExpansion.igniter.*                                                    # (default: true) EXIST Flux Igniter
 fe.protection.exist.ThermalExpansion.material.*                                                   # (default: true) EXIST Pneumatic Servo
 fe.protection.exist.ThermalExpansion.meter.*                                                      # (default: true) EXIST Multimeter
@@ -6407,9 +6553,15 @@ fe.protection.exist.appliedenergistics2.item.ItemFacade.*                       
 fe.protection.exist.appliedenergistics2.item.ItemMultiMaterial.*                                  # (default: true) EXIST Certus Quartz Crystal
 fe.protection.exist.appliedenergistics2.item.ItemMultiPart.*                                      # (default: true) EXIST ME Glass Cable - White
 fe.protection.exist.appliedenergistics2.item.ItemPaintBall.*                                      # (default: true) EXIST Paint Ball - White
+<<<<<<< Updated upstream
 fe.protection.exist.appliedenergistics2.item.ItemSpatialStorageCell.128Cubed.*                    # (default: true) EXIST 128? Spatial Storage Cell
 fe.protection.exist.appliedenergistics2.item.ItemSpatialStorageCell.16Cubed.*                     # (default: true) EXIST 16? Spatial Storage Cell
 fe.protection.exist.appliedenergistics2.item.ItemSpatialStorageCell.2Cubed.*                      # (default: true) EXIST 2? Spatial Storage Cell
+=======
+fe.protection.exist.appliedenergistics2.item.ItemSpatialStorageCell.128Cubed.*                    # (default: true) EXIST 128Â³ Spatial Storage Cell
+fe.protection.exist.appliedenergistics2.item.ItemSpatialStorageCell.16Cubed.*                     # (default: true) EXIST 16Â³ Spatial Storage Cell
+fe.protection.exist.appliedenergistics2.item.ItemSpatialStorageCell.2Cubed.*                      # (default: true) EXIST 2Â³ Spatial Storage Cell
+>>>>>>> Stashed changes
 fe.protection.exist.appliedenergistics2.item.ItemViewCell.*                                       # (default: true) EXIST View Cell
 fe.protection.exist.appliedenergistics2.item.ToolBiometricCard.*                                  # (default: true) EXIST Biometric Card
 fe.protection.exist.appliedenergistics2.item.ToolCertusQuartzAxe.*                                # (default: true) EXIST Certus Quartz Axe
@@ -7247,6 +7399,7 @@ fe.protection.exist.harvestcraft.zucchiniseedItem.*                             
 fe.protection.exist.immersiveintegration.capacitorBox.*                                           # (default: true) EXIST LV Capacitor in a Box
 fe.protection.exist.immersiveintegration.iiWireCoil.*                                             # (default: true) EXIST Redstone Wire Coil
 fe.protection.exist.immersiveintegration.wireCoil.*                                               # (default: true) EXIST Fluix Wire Coil
+<<<<<<< Updated upstream
 fe.protection.exist.magicalcrops.magicalcrops_1MinicioEssence.*                                   # (default: true) EXIST ˜aMinicio Essence
 fe.protection.exist.magicalcrops.magicalcrops_2AccioEssence.*                                     # (default: true) EXIST ˜6Accio Essence
 fe.protection.exist.magicalcrops.magicalcrops_3CrucioEssence.*                                    # (default: true) EXIST ˜eCrucio Essence
@@ -7261,6 +7414,22 @@ fe.protection.exist.magicalcrops.magicalcrops_AccioHoe.*                        
 fe.protection.exist.magicalcrops.magicalcrops_AccioPickaxe.*                                      # (default: true) EXIST ˜6Accio Pickaxe
 fe.protection.exist.magicalcrops.magicalcrops_AccioShovel.*                                       # (default: true) EXIST ˜6Accio Shovel
 fe.protection.exist.magicalcrops.magicalcrops_AccioSword.*                                        # (default: true) EXIST ˜6Accio Sword
+=======
+fe.protection.exist.magicalcrops.magicalcrops_1MinicioEssence.*                                   # (default: true) EXIST Â§aMinicio Essence
+fe.protection.exist.magicalcrops.magicalcrops_2AccioEssence.*                                     # (default: true) EXIST Â§6Accio Essence
+fe.protection.exist.magicalcrops.magicalcrops_3CrucioEssence.*                                    # (default: true) EXIST Â§eCrucio Essence
+fe.protection.exist.magicalcrops.magicalcrops_4ImperioEssence.*                                   # (default: true) EXIST Â§bImperio Essence
+fe.protection.exist.magicalcrops.magicalcrops_5ZivicioEssence.*                                   # (default: true) EXIST Â§dZivicio Essence
+fe.protection.exist.magicalcrops.magicalcrops_AccioArmourBoots.*                                  # (default: true) EXIST Â§6Accio Boots
+fe.protection.exist.magicalcrops.magicalcrops_AccioArmourChestplate.*                             # (default: true) EXIST Â§6Accio Chestplate
+fe.protection.exist.magicalcrops.magicalcrops_AccioArmourHelmet.*                                 # (default: true) EXIST Â§6Accio Helmet
+fe.protection.exist.magicalcrops.magicalcrops_AccioArmourLeggings.*                               # (default: true) EXIST Â§6Accio Leggings
+fe.protection.exist.magicalcrops.magicalcrops_AccioAxe.*                                          # (default: true) EXIST Â§6Accio Axe
+fe.protection.exist.magicalcrops.magicalcrops_AccioHoe.*                                          # (default: true) EXIST Â§6Accio Hoe
+fe.protection.exist.magicalcrops.magicalcrops_AccioPickaxe.*                                      # (default: true) EXIST Â§6Accio Pickaxe
+fe.protection.exist.magicalcrops.magicalcrops_AccioShovel.*                                       # (default: true) EXIST Â§6Accio Shovel
+fe.protection.exist.magicalcrops.magicalcrops_AccioSword.*                                        # (default: true) EXIST Â§6Accio Sword
+>>>>>>> Stashed changes
 fe.protection.exist.magicalcrops.magicalcrops_AirEssence.*                                        # (default: true) EXIST Air Essence
 fe.protection.exist.magicalcrops.magicalcrops_AirSeeds.*                                          # (default: true) EXIST Air Seeds
 fe.protection.exist.magicalcrops.magicalcrops_AluminiumEssence.*                                  # (default: true) EXIST Aluminium Essence
@@ -7289,6 +7458,7 @@ fe.protection.exist.magicalcrops.magicalcrops_CowEssence.*                      
 fe.protection.exist.magicalcrops.magicalcrops_CowSeeds.*                                          # (default: true) EXIST Cow Seeds
 fe.protection.exist.magicalcrops.magicalcrops_CreeperEssence.*                                    # (default: true) EXIST Creeper Essence
 fe.protection.exist.magicalcrops.magicalcrops_CreeperSeeds.*                                      # (default: true) EXIST Creeper Seeds
+<<<<<<< Updated upstream
 fe.protection.exist.magicalcrops.magicalcrops_CrucioArmourBoots.*                                 # (default: true) EXIST ˜eCrucio Boots
 fe.protection.exist.magicalcrops.magicalcrops_CrucioArmourChestplate.*                            # (default: true) EXIST ˜eCrucio Chestplate
 fe.protection.exist.magicalcrops.magicalcrops_CrucioArmourHelmet.*                                # (default: true) EXIST ˜eCrucio Helmet
@@ -7298,6 +7468,17 @@ fe.protection.exist.magicalcrops.magicalcrops_CrucioHoe.*                       
 fe.protection.exist.magicalcrops.magicalcrops_CrucioPickaxe.*                                     # (default: true) EXIST ˜eCrucio Pickaxe
 fe.protection.exist.magicalcrops.magicalcrops_CrucioShovel.*                                      # (default: true) EXIST ˜eCrucio Shovel
 fe.protection.exist.magicalcrops.magicalcrops_CrucioSword.*                                       # (default: true) EXIST ˜eCrucio Sword
+=======
+fe.protection.exist.magicalcrops.magicalcrops_CrucioArmourBoots.*                                 # (default: true) EXIST Â§eCrucio Boots
+fe.protection.exist.magicalcrops.magicalcrops_CrucioArmourChestplate.*                            # (default: true) EXIST Â§eCrucio Chestplate
+fe.protection.exist.magicalcrops.magicalcrops_CrucioArmourHelmet.*                                # (default: true) EXIST Â§eCrucio Helmet
+fe.protection.exist.magicalcrops.magicalcrops_CrucioArmourLeggings.*                              # (default: true) EXIST Â§eCrucio Leggings
+fe.protection.exist.magicalcrops.magicalcrops_CrucioAxe.*                                         # (default: true) EXIST Â§eCrucio Axe
+fe.protection.exist.magicalcrops.magicalcrops_CrucioHoe.*                                         # (default: true) EXIST Â§eCrucio Hoe
+fe.protection.exist.magicalcrops.magicalcrops_CrucioPickaxe.*                                     # (default: true) EXIST Â§eCrucio Pickaxe
+fe.protection.exist.magicalcrops.magicalcrops_CrucioShovel.*                                      # (default: true) EXIST Â§eCrucio Shovel
+fe.protection.exist.magicalcrops.magicalcrops_CrucioSword.*                                       # (default: true) EXIST Â§eCrucio Sword
+>>>>>>> Stashed changes
 fe.protection.exist.magicalcrops.magicalcrops_DiamondEssence.*                                    # (default: true) EXIST Diamond Essence
 fe.protection.exist.magicalcrops.magicalcrops_DiamondSeeds.*                                      # (default: true) EXIST Diamond Seeds
 fe.protection.exist.magicalcrops.magicalcrops_DyeEssence.*                                        # (default: true) EXIST Technicolor Essence
@@ -7306,16 +7487,26 @@ fe.protection.exist.magicalcrops.magicalcrops_EarthEssence.*                    
 fe.protection.exist.magicalcrops.magicalcrops_EarthSeeds.*                                        # (default: true) EXIST Earth Seeds
 fe.protection.exist.magicalcrops.magicalcrops_ElectrumEssence.*                                   # (default: true) EXIST Electrum Essence
 fe.protection.exist.magicalcrops.magicalcrops_ElectrumSeeds.*                                     # (default: true) EXIST Electrum Seeds
+<<<<<<< Updated upstream
 fe.protection.exist.magicalcrops.magicalcrops_EmeraldApple.*                                      # (default: true) EXIST ˜aEmerald Apple
+=======
+fe.protection.exist.magicalcrops.magicalcrops_EmeraldApple.*                                      # (default: true) EXIST Â§aEmerald Apple
+>>>>>>> Stashed changes
 fe.protection.exist.magicalcrops.magicalcrops_EmeraldEssence.*                                    # (default: true) EXIST Emerald Essence
 fe.protection.exist.magicalcrops.magicalcrops_EmeraldSeeds.*                                      # (default: true) EXIST Emerald Seeds
 fe.protection.exist.magicalcrops.magicalcrops_EnderiumEssence.*                                   # (default: true) EXIST Enderium Essence
 fe.protection.exist.magicalcrops.magicalcrops_EnderiumSeeds.*                                     # (default: true) EXIST Enderium Seeds
 fe.protection.exist.magicalcrops.magicalcrops_EndermanEssence.*                                   # (default: true) EXIST Enderman Essence
 fe.protection.exist.magicalcrops.magicalcrops_EndermanSeeds.*                                     # (default: true) EXIST Enderman Seeds
+<<<<<<< Updated upstream
 fe.protection.exist.magicalcrops.magicalcrops_EssenceFertilizer.*                                 # (default: true) EXIST ˜6Accio Soil Fertilizer
 fe.protection.exist.magicalcrops.magicalcrops_EssenceIngots.*                                     # (default: true) EXIST ˜6Accio Ingot
 fe.protection.exist.magicalcrops.magicalcrops_ExperienceBook.*                                    # (default: true) EXIST ˜fExperience Book
+=======
+fe.protection.exist.magicalcrops.magicalcrops_EssenceFertilizer.*                                 # (default: true) EXIST Â§6Accio Soil Fertilizer
+fe.protection.exist.magicalcrops.magicalcrops_EssenceIngots.*                                     # (default: true) EXIST Â§6Accio Ingot
+fe.protection.exist.magicalcrops.magicalcrops_ExperienceBook.*                                    # (default: true) EXIST Â§fExperience Book
+>>>>>>> Stashed changes
 fe.protection.exist.magicalcrops.magicalcrops_ExperienceEssence.*                                 # (default: true) EXIST Experience Essence
 fe.protection.exist.magicalcrops.magicalcrops_ExperienceSeeds.*                                   # (default: true) EXIST Experience Seeds
 fe.protection.exist.magicalcrops.magicalcrops_FireEssence.*                                       # (default: true) EXIST Fire Essence
@@ -7328,6 +7519,7 @@ fe.protection.exist.magicalcrops.magicalcrops_GlowstoneEssence.*                
 fe.protection.exist.magicalcrops.magicalcrops_GlowstoneSeeds.*                                    # (default: true) EXIST Glowstone Seeds
 fe.protection.exist.magicalcrops.magicalcrops_GoldEssence.*                                       # (default: true) EXIST Gold Essence
 fe.protection.exist.magicalcrops.magicalcrops_GoldSeeds.*                                         # (default: true) EXIST Gold Seeds
+<<<<<<< Updated upstream
 fe.protection.exist.magicalcrops.magicalcrops_ImperioArmourBoots.*                                # (default: true) EXIST ˜bImperio Boots
 fe.protection.exist.magicalcrops.magicalcrops_ImperioArmourChestplate.*                           # (default: true) EXIST ˜bImperio Chestplate
 fe.protection.exist.magicalcrops.magicalcrops_ImperioArmourHelmet.*                               # (default: true) EXIST ˜bImperio Helmet
@@ -7342,6 +7534,22 @@ fe.protection.exist.magicalcrops.magicalcrops_InfusionStoneMaster.*             
 fe.protection.exist.magicalcrops.magicalcrops_InfusionStoneRegular.*                              # (default: true) EXIST Regular Infusion Stone
 fe.protection.exist.magicalcrops.magicalcrops_InfusionStoneStrong.*                               # (default: true) EXIST ˜bStrong Infusion Stone
 fe.protection.exist.magicalcrops.magicalcrops_InfusionStoneWeak.*                                 # (default: true) EXIST ˜6Weak Infusion Stone
+=======
+fe.protection.exist.magicalcrops.magicalcrops_ImperioArmourBoots.*                                # (default: true) EXIST Â§bImperio Boots
+fe.protection.exist.magicalcrops.magicalcrops_ImperioArmourChestplate.*                           # (default: true) EXIST Â§bImperio Chestplate
+fe.protection.exist.magicalcrops.magicalcrops_ImperioArmourHelmet.*                               # (default: true) EXIST Â§bImperio Helmet
+fe.protection.exist.magicalcrops.magicalcrops_ImperioArmourLeggings.*                             # (default: true) EXIST Â§bImperio Leggings
+fe.protection.exist.magicalcrops.magicalcrops_ImperioAxe.*                                        # (default: true) EXIST Â§bImperio Axe
+fe.protection.exist.magicalcrops.magicalcrops_ImperioHoe.*                                        # (default: true) EXIST Â§bImperio Hoe
+fe.protection.exist.magicalcrops.magicalcrops_ImperioPickaxe.*                                    # (default: true) EXIST Â§bImperio Pickaxe
+fe.protection.exist.magicalcrops.magicalcrops_ImperioShovel.*                                     # (default: true) EXIST Â§bImperio Shovel
+fe.protection.exist.magicalcrops.magicalcrops_ImperioSword.*                                      # (default: true) EXIST Â§bImperio Sword
+fe.protection.exist.magicalcrops.magicalcrops_InfusionStoneExtreme.*                              # (default: true) EXIST Extreme Infusion Stone
+fe.protection.exist.magicalcrops.magicalcrops_InfusionStoneMaster.*                               # (default: true) EXIST Â§4Master Infusion Stone
+fe.protection.exist.magicalcrops.magicalcrops_InfusionStoneRegular.*                              # (default: true) EXIST Regular Infusion Stone
+fe.protection.exist.magicalcrops.magicalcrops_InfusionStoneStrong.*                               # (default: true) EXIST Â§bStrong Infusion Stone
+fe.protection.exist.magicalcrops.magicalcrops_InfusionStoneWeak.*                                 # (default: true) EXIST Â§6Weak Infusion Stone
+>>>>>>> Stashed changes
 fe.protection.exist.magicalcrops.magicalcrops_InvarEssence.*                                      # (default: true) EXIST Invar Essence
 fe.protection.exist.magicalcrops.magicalcrops_InvarSeeds.*                                        # (default: true) EXIST Invar Seeds
 fe.protection.exist.magicalcrops.magicalcrops_IronEssence.*                                       # (default: true) EXIST Iron Essence
@@ -7406,17 +7614,27 @@ fe.protection.exist.magicalcrops.magicalcrops_SteelEssence.*                    
 fe.protection.exist.magicalcrops.magicalcrops_SteelSeeds.*                                        # (default: true) EXIST Steel Seeds
 fe.protection.exist.magicalcrops.magicalcrops_SulfurEssence.*                                     # (default: true) EXIST Sulfur Essence
 fe.protection.exist.magicalcrops.magicalcrops_SulfurSeeds.*                                       # (default: true) EXIST Sulfur Seeds
+<<<<<<< Updated upstream
 fe.protection.exist.magicalcrops.magicalcrops_TaintedEssence.*                                    # (default: true) EXIST ˜8Tainted Essence
+=======
+fe.protection.exist.magicalcrops.magicalcrops_TaintedEssence.*                                    # (default: true) EXIST Â§8Tainted Essence
+>>>>>>> Stashed changes
 fe.protection.exist.magicalcrops.magicalcrops_TerrasteelEssence.*                                 # (default: true) EXIST Terrasteel Essence
 fe.protection.exist.magicalcrops.magicalcrops_TerrasteelSeeds.*                                   # (default: true) EXIST Terrasteel Seeds
 fe.protection.exist.magicalcrops.magicalcrops_TinEssence.*                                        # (default: true) EXIST Tin Essence
 fe.protection.exist.magicalcrops.magicalcrops_TinSeeds.*                                          # (default: true) EXIST Tin Seeds
+<<<<<<< Updated upstream
 fe.protection.exist.magicalcrops.magicalcrops_UltimateDiamondApple.*                              # (default: true) EXIST ˜bUltimate Diamond Apple
 fe.protection.exist.magicalcrops.magicalcrops_UltimateEmeraldApple.*                              # (default: true) EXIST ˜aUltimate Emerald Apple
+=======
+fe.protection.exist.magicalcrops.magicalcrops_UltimateDiamondApple.*                              # (default: true) EXIST Â§bUltimate Diamond Apple
+fe.protection.exist.magicalcrops.magicalcrops_UltimateEmeraldApple.*                              # (default: true) EXIST Â§aUltimate Emerald Apple
+>>>>>>> Stashed changes
 fe.protection.exist.magicalcrops.magicalcrops_WaterEssence.*                                      # (default: true) EXIST Water Essence
 fe.protection.exist.magicalcrops.magicalcrops_WaterSeeds.*                                        # (default: true) EXIST Water Seeds
 fe.protection.exist.magicalcrops.magicalcrops_WitherEssence.*                                     # (default: true) EXIST Wither Essence
 fe.protection.exist.magicalcrops.magicalcrops_WitherSeeds.*                                       # (default: true) EXIST Wither Skeleton Seeds
+<<<<<<< Updated upstream
 fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourBoots.*                                # (default: true) EXIST ˜dZivicio Boots
 fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourBootsJump.*                            # (default: true) EXIST ˜dZivicio Boots
 fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourBootsSpeed.*                           # (default: true) EXIST ˜dZivicio Boots
@@ -7438,6 +7656,29 @@ fe.protection.exist.magicalcrops.magicalcrops_ZivicioHoe.*                      
 fe.protection.exist.magicalcrops.magicalcrops_ZivicioPickaxe.*                                    # (default: true) EXIST ˜dZivicio Pickaxe
 fe.protection.exist.magicalcrops.magicalcrops_ZivicioShovel.*                                     # (default: true) EXIST ˜dZivicio Shovel
 fe.protection.exist.magicalcrops.magicalcrops_ZivicioSword.*                                      # (default: true) EXIST ˜dZivicio Sword
+=======
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourBoots.*                                # (default: true) EXIST Â§dZivicio Boots
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourBootsJump.*                            # (default: true) EXIST Â§dZivicio Boots
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourBootsSpeed.*                           # (default: true) EXIST Â§dZivicio Boots
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourBootsStep.*                            # (default: true) EXIST Â§dZivicio Boots
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourChestplate.*                           # (default: true) EXIST Â§dZivicio Chestplate
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourChestplateFire.*                       # (default: true) EXIST Â§dZivicio Chestplate
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourChestplatePoison.*                     # (default: true) EXIST Â§dZivicio Chestplate
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourChestplateWither.*                     # (default: true) EXIST Â§dZivicio Chestplate
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourHelmet.*                               # (default: true) EXIST Â§dZivicio Helmet
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourHelmetFeed.*                           # (default: true) EXIST Â§dZivicio Helmet
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourHelmetNight.*                          # (default: true) EXIST Â§dZivicio Helmet
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourHelmetWater.*                          # (default: true) EXIST Â§dZivicio Helmet
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourLeggings.*                             # (default: true) EXIST Â§dZivicio Leggings
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourLeggingsBlind.*                        # (default: true) EXIST Â§dZivicio Leggings
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourLeggingsConfusion.*                    # (default: true) EXIST Â§dZivicio Leggings
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioArmourLeggingsWeak.*                         # (default: true) EXIST Â§dZivicio Leggings
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioAxe.*                                        # (default: true) EXIST Â§dZivicio Axe
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioHoe.*                                        # (default: true) EXIST Â§dZivicio Hoe
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioPickaxe.*                                    # (default: true) EXIST Â§dZivicio Pickaxe
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioShovel.*                                     # (default: true) EXIST Â§dZivicio Shovel
+fe.protection.exist.magicalcrops.magicalcrops_ZivicioSword.*                                      # (default: true) EXIST Â§dZivicio Sword
+>>>>>>> Stashed changes
 fe.protection.exist.malisisdoors.item.curtain_black.*                                             # (default: true) EXIST Black Curtain
 fe.protection.exist.malisisdoors.item.curtain_blue.*                                              # (default: true) EXIST Blue Curtain
 fe.protection.exist.malisisdoors.item.curtain_brown.*                                             # (default: true) EXIST Brown Curtain
@@ -8213,8 +8454,13 @@ fe.protection.inventory.Botania.baubleBox.*                                     
 fe.protection.inventory.Botania.blackHoleTalisman.*                                               # (default: true) INVENTORY Black Hole Talisman
 fe.protection.inventory.Botania.blackLotus.*                                                      # (default: true) INVENTORY Black Lotus
 fe.protection.inventory.Botania.bloodPendant.*                                                    # (default: true) INVENTORY Tainted Blood Pendant
+<<<<<<< Updated upstream
 fe.protection.inventory.Botania.brewFlask.*                                                       # (default: true) INVENTORY Flask of Fallback (˜l6˜r)
 fe.protection.inventory.Botania.brewVial.*                                                        # (default: true) INVENTORY Vial of Fallback (˜l4˜r)
+=======
+fe.protection.inventory.Botania.brewFlask.*                                                       # (default: true) INVENTORY Flask of Fallback (Â§l6Â§r)
+fe.protection.inventory.Botania.brewVial.*                                                        # (default: true) INVENTORY Vial of Fallback (Â§l4Â§r)
+>>>>>>> Stashed changes
 fe.protection.inventory.Botania.cacophonium.*                                                     # (default: true) INVENTORY Cacophonium
 fe.protection.inventory.Botania.clip.*                                                            # (default: true) INVENTORY Lens Clip
 fe.protection.inventory.Botania.cobbleRod.*                                                       # (default: true) INVENTORY Rod of the Depths
@@ -8243,9 +8489,15 @@ fe.protection.inventory.Botania.enderHand.*                                     
 fe.protection.inventory.Botania.exchangeRod.*                                                     # (default: true) INVENTORY Rod of the Shifting Crust
 fe.protection.inventory.Botania.fertilizer.*                                                      # (default: true) INVENTORY Floral Fertilizer
 fe.protection.inventory.Botania.fireRod.*                                                         # (default: true) INVENTORY Rod of the Hells
+<<<<<<< Updated upstream
 fe.protection.inventory.Botania.flightTiara.*                                                     # (default: true) INVENTORY Fl?gel Tiara
 fe.protection.inventory.Botania.flowerBag.*                                                       # (default: true) INVENTORY Flower Pouch
 fe.protection.inventory.Botania.flugelEye.*                                                       # (default: true) INVENTORY Eye of the Fl?gel
+=======
+fe.protection.inventory.Botania.flightTiara.*                                                     # (default: true) INVENTORY FlÃ¼gel Tiara
+fe.protection.inventory.Botania.flowerBag.*                                                       # (default: true) INVENTORY Flower Pouch
+fe.protection.inventory.Botania.flugelEye.*                                                       # (default: true) INVENTORY Eye of the FlÃ¼gel
+>>>>>>> Stashed changes
 fe.protection.inventory.Botania.gaiaHead.*                                                        # (default: true) INVENTORY Gaia Guardian's Head
 fe.protection.inventory.Botania.glassPick.*                                                       # (default: true) INVENTORY Vitreous Pickaxe
 fe.protection.inventory.Botania.goldenLaurel.*                                                    # (default: true) INVENTORY Golden Laurel Crown
@@ -9209,7 +9461,11 @@ fe.protection.inventory.Mantle.mantleBook.*                                     
 fe.protection.inventory.Mekanism.ArmoredJetpack.*                                                 # (default: true) INVENTORY Armored Jetpack
 fe.protection.inventory.Mekanism.AtomicAlloy.*                                                    # (default: true) INVENTORY Atomic Alloy
 fe.protection.inventory.Mekanism.AtomicDisassembler.*                                             # (default: true) INVENTORY Atomic Disassembler
+<<<<<<< Updated upstream
 fe.protection.inventory.Mekanism.Balloon.*                                                        # (default: true) INVENTORY ˜8Black Balloon
+=======
+fe.protection.inventory.Mekanism.Balloon.*                                                        # (default: true) INVENTORY Â§8Black Balloon
+>>>>>>> Stashed changes
 fe.protection.inventory.Mekanism.BioFuel.*                                                        # (default: true) INVENTORY Bio Fuel
 fe.protection.inventory.Mekanism.BrineBucket.*                                                    # (default: true) INVENTORY Brine Bucket
 fe.protection.inventory.Mekanism.Clump.*                                                          # (default: true) INVENTORY Iron Clump
@@ -9238,7 +9494,11 @@ fe.protection.inventory.Mekanism.FreeRunners.*                                  
 fe.protection.inventory.Mekanism.GasMask.*                                                        # (default: true) INVENTORY Gas Mask
 fe.protection.inventory.Mekanism.GasUpgrade.*                                                     # (default: true) INVENTORY Gas Upgrade
 fe.protection.inventory.Mekanism.GaugeDropper.*                                                   # (default: true) INVENTORY Gauge Dropper
+<<<<<<< Updated upstream
 fe.protection.inventory.Mekanism.GlowPanel.*                                                      # (default: true) INVENTORY ˜8Black Glow Panel
+=======
+fe.protection.inventory.Mekanism.GlowPanel.*                                                      # (default: true) INVENTORY Â§8Black Glow Panel
+>>>>>>> Stashed changes
 fe.protection.inventory.Mekanism.HeavyWaterBucket.*                                               # (default: true) INVENTORY Heavy Water Bucket
 fe.protection.inventory.Mekanism.Ingot.*                                                          # (default: true) INVENTORY Refined Obsidian Ingot
 fe.protection.inventory.Mekanism.ItemProxy.*                                                      # (default: true) INVENTORY item.ItemProxy.name
@@ -9983,7 +10243,11 @@ fe.protection.inventory.ThermalExpansion.augment.*                              
 fe.protection.inventory.ThermalExpansion.capacitor.*                                              # (default: true) INVENTORY Creative Flux Capacitor
 fe.protection.inventory.ThermalExpansion.chiller.*                                                # (default: true) INVENTORY Flux Chiller
 fe.protection.inventory.ThermalExpansion.diagram.*                                                # (default: true) INVENTORY Schematic
+<<<<<<< Updated upstream
 fe.protection.inventory.ThermalExpansion.florb.*                                                  # (default: true) INVENTORY Florb (Empty˜r)
+=======
+fe.protection.inventory.ThermalExpansion.florb.*                                                  # (default: true) INVENTORY Florb (EmptyÂ§r)
+>>>>>>> Stashed changes
 fe.protection.inventory.ThermalExpansion.igniter.*                                                # (default: true) INVENTORY Flux Igniter
 fe.protection.inventory.ThermalExpansion.material.*                                               # (default: true) INVENTORY Pneumatic Servo
 fe.protection.inventory.ThermalExpansion.meter.*                                                  # (default: true) INVENTORY Multimeter
@@ -10374,9 +10638,15 @@ fe.protection.inventory.appliedenergistics2.item.ItemFacade.*                   
 fe.protection.inventory.appliedenergistics2.item.ItemMultiMaterial.*                              # (default: true) INVENTORY Certus Quartz Crystal
 fe.protection.inventory.appliedenergistics2.item.ItemMultiPart.*                                  # (default: true) INVENTORY ME Glass Cable - White
 fe.protection.inventory.appliedenergistics2.item.ItemPaintBall.*                                  # (default: true) INVENTORY Paint Ball - White
+<<<<<<< Updated upstream
 fe.protection.inventory.appliedenergistics2.item.ItemSpatialStorageCell.128Cubed.*                # (default: true) INVENTORY 128? Spatial Storage Cell
 fe.protection.inventory.appliedenergistics2.item.ItemSpatialStorageCell.16Cubed.*                 # (default: true) INVENTORY 16? Spatial Storage Cell
 fe.protection.inventory.appliedenergistics2.item.ItemSpatialStorageCell.2Cubed.*                  # (default: true) INVENTORY 2? Spatial Storage Cell
+=======
+fe.protection.inventory.appliedenergistics2.item.ItemSpatialStorageCell.128Cubed.*                # (default: true) INVENTORY 128Â³ Spatial Storage Cell
+fe.protection.inventory.appliedenergistics2.item.ItemSpatialStorageCell.16Cubed.*                 # (default: true) INVENTORY 16Â³ Spatial Storage Cell
+fe.protection.inventory.appliedenergistics2.item.ItemSpatialStorageCell.2Cubed.*                  # (default: true) INVENTORY 2Â³ Spatial Storage Cell
+>>>>>>> Stashed changes
 fe.protection.inventory.appliedenergistics2.item.ItemViewCell.*                                   # (default: true) INVENTORY View Cell
 fe.protection.inventory.appliedenergistics2.item.ToolBiometricCard.*                              # (default: true) INVENTORY Biometric Card
 fe.protection.inventory.appliedenergistics2.item.ToolCertusQuartzAxe.*                            # (default: true) INVENTORY Certus Quartz Axe
@@ -11214,6 +11484,7 @@ fe.protection.inventory.harvestcraft.zucchiniseedItem.*                         
 fe.protection.inventory.immersiveintegration.capacitorBox.*                                       # (default: true) INVENTORY LV Capacitor in a Box
 fe.protection.inventory.immersiveintegration.iiWireCoil.*                                         # (default: true) INVENTORY Redstone Wire Coil
 fe.protection.inventory.immersiveintegration.wireCoil.*                                           # (default: true) INVENTORY Fluix Wire Coil
+<<<<<<< Updated upstream
 fe.protection.inventory.magicalcrops.magicalcrops_1MinicioEssence.*                               # (default: true) INVENTORY ˜aMinicio Essence
 fe.protection.inventory.magicalcrops.magicalcrops_2AccioEssence.*                                 # (default: true) INVENTORY ˜6Accio Essence
 fe.protection.inventory.magicalcrops.magicalcrops_3CrucioEssence.*                                # (default: true) INVENTORY ˜eCrucio Essence
@@ -11228,6 +11499,22 @@ fe.protection.inventory.magicalcrops.magicalcrops_AccioHoe.*                    
 fe.protection.inventory.magicalcrops.magicalcrops_AccioPickaxe.*                                  # (default: true) INVENTORY ˜6Accio Pickaxe
 fe.protection.inventory.magicalcrops.magicalcrops_AccioShovel.*                                   # (default: true) INVENTORY ˜6Accio Shovel
 fe.protection.inventory.magicalcrops.magicalcrops_AccioSword.*                                    # (default: true) INVENTORY ˜6Accio Sword
+=======
+fe.protection.inventory.magicalcrops.magicalcrops_1MinicioEssence.*                               # (default: true) INVENTORY Â§aMinicio Essence
+fe.protection.inventory.magicalcrops.magicalcrops_2AccioEssence.*                                 # (default: true) INVENTORY Â§6Accio Essence
+fe.protection.inventory.magicalcrops.magicalcrops_3CrucioEssence.*                                # (default: true) INVENTORY Â§eCrucio Essence
+fe.protection.inventory.magicalcrops.magicalcrops_4ImperioEssence.*                               # (default: true) INVENTORY Â§bImperio Essence
+fe.protection.inventory.magicalcrops.magicalcrops_5ZivicioEssence.*                               # (default: true) INVENTORY Â§dZivicio Essence
+fe.protection.inventory.magicalcrops.magicalcrops_AccioArmourBoots.*                              # (default: true) INVENTORY Â§6Accio Boots
+fe.protection.inventory.magicalcrops.magicalcrops_AccioArmourChestplate.*                         # (default: true) INVENTORY Â§6Accio Chestplate
+fe.protection.inventory.magicalcrops.magicalcrops_AccioArmourHelmet.*                             # (default: true) INVENTORY Â§6Accio Helmet
+fe.protection.inventory.magicalcrops.magicalcrops_AccioArmourLeggings.*                           # (default: true) INVENTORY Â§6Accio Leggings
+fe.protection.inventory.magicalcrops.magicalcrops_AccioAxe.*                                      # (default: true) INVENTORY Â§6Accio Axe
+fe.protection.inventory.magicalcrops.magicalcrops_AccioHoe.*                                      # (default: true) INVENTORY Â§6Accio Hoe
+fe.protection.inventory.magicalcrops.magicalcrops_AccioPickaxe.*                                  # (default: true) INVENTORY Â§6Accio Pickaxe
+fe.protection.inventory.magicalcrops.magicalcrops_AccioShovel.*                                   # (default: true) INVENTORY Â§6Accio Shovel
+fe.protection.inventory.magicalcrops.magicalcrops_AccioSword.*                                    # (default: true) INVENTORY Â§6Accio Sword
+>>>>>>> Stashed changes
 fe.protection.inventory.magicalcrops.magicalcrops_AirEssence.*                                    # (default: true) INVENTORY Air Essence
 fe.protection.inventory.magicalcrops.magicalcrops_AirSeeds.*                                      # (default: true) INVENTORY Air Seeds
 fe.protection.inventory.magicalcrops.magicalcrops_AluminiumEssence.*                              # (default: true) INVENTORY Aluminium Essence
@@ -11256,6 +11543,7 @@ fe.protection.inventory.magicalcrops.magicalcrops_CowEssence.*                  
 fe.protection.inventory.magicalcrops.magicalcrops_CowSeeds.*                                      # (default: true) INVENTORY Cow Seeds
 fe.protection.inventory.magicalcrops.magicalcrops_CreeperEssence.*                                # (default: true) INVENTORY Creeper Essence
 fe.protection.inventory.magicalcrops.magicalcrops_CreeperSeeds.*                                  # (default: true) INVENTORY Creeper Seeds
+<<<<<<< Updated upstream
 fe.protection.inventory.magicalcrops.magicalcrops_CrucioArmourBoots.*                             # (default: true) INVENTORY ˜eCrucio Boots
 fe.protection.inventory.magicalcrops.magicalcrops_CrucioArmourChestplate.*                        # (default: true) INVENTORY ˜eCrucio Chestplate
 fe.protection.inventory.magicalcrops.magicalcrops_CrucioArmourHelmet.*                            # (default: true) INVENTORY ˜eCrucio Helmet
@@ -11265,6 +11553,17 @@ fe.protection.inventory.magicalcrops.magicalcrops_CrucioHoe.*                   
 fe.protection.inventory.magicalcrops.magicalcrops_CrucioPickaxe.*                                 # (default: true) INVENTORY ˜eCrucio Pickaxe
 fe.protection.inventory.magicalcrops.magicalcrops_CrucioShovel.*                                  # (default: true) INVENTORY ˜eCrucio Shovel
 fe.protection.inventory.magicalcrops.magicalcrops_CrucioSword.*                                   # (default: true) INVENTORY ˜eCrucio Sword
+=======
+fe.protection.inventory.magicalcrops.magicalcrops_CrucioArmourBoots.*                             # (default: true) INVENTORY Â§eCrucio Boots
+fe.protection.inventory.magicalcrops.magicalcrops_CrucioArmourChestplate.*                        # (default: true) INVENTORY Â§eCrucio Chestplate
+fe.protection.inventory.magicalcrops.magicalcrops_CrucioArmourHelmet.*                            # (default: true) INVENTORY Â§eCrucio Helmet
+fe.protection.inventory.magicalcrops.magicalcrops_CrucioArmourLeggings.*                          # (default: true) INVENTORY Â§eCrucio Leggings
+fe.protection.inventory.magicalcrops.magicalcrops_CrucioAxe.*                                     # (default: true) INVENTORY Â§eCrucio Axe
+fe.protection.inventory.magicalcrops.magicalcrops_CrucioHoe.*                                     # (default: true) INVENTORY Â§eCrucio Hoe
+fe.protection.inventory.magicalcrops.magicalcrops_CrucioPickaxe.*                                 # (default: true) INVENTORY Â§eCrucio Pickaxe
+fe.protection.inventory.magicalcrops.magicalcrops_CrucioShovel.*                                  # (default: true) INVENTORY Â§eCrucio Shovel
+fe.protection.inventory.magicalcrops.magicalcrops_CrucioSword.*                                   # (default: true) INVENTORY Â§eCrucio Sword
+>>>>>>> Stashed changes
 fe.protection.inventory.magicalcrops.magicalcrops_DiamondEssence.*                                # (default: true) INVENTORY Diamond Essence
 fe.protection.inventory.magicalcrops.magicalcrops_DiamondSeeds.*                                  # (default: true) INVENTORY Diamond Seeds
 fe.protection.inventory.magicalcrops.magicalcrops_DyeEssence.*                                    # (default: true) INVENTORY Technicolor Essence
@@ -11273,16 +11572,26 @@ fe.protection.inventory.magicalcrops.magicalcrops_EarthEssence.*                
 fe.protection.inventory.magicalcrops.magicalcrops_EarthSeeds.*                                    # (default: true) INVENTORY Earth Seeds
 fe.protection.inventory.magicalcrops.magicalcrops_ElectrumEssence.*                               # (default: true) INVENTORY Electrum Essence
 fe.protection.inventory.magicalcrops.magicalcrops_ElectrumSeeds.*                                 # (default: true) INVENTORY Electrum Seeds
+<<<<<<< Updated upstream
 fe.protection.inventory.magicalcrops.magicalcrops_EmeraldApple.*                                  # (default: true) INVENTORY ˜aEmerald Apple
+=======
+fe.protection.inventory.magicalcrops.magicalcrops_EmeraldApple.*                                  # (default: true) INVENTORY Â§aEmerald Apple
+>>>>>>> Stashed changes
 fe.protection.inventory.magicalcrops.magicalcrops_EmeraldEssence.*                                # (default: true) INVENTORY Emerald Essence
 fe.protection.inventory.magicalcrops.magicalcrops_EmeraldSeeds.*                                  # (default: true) INVENTORY Emerald Seeds
 fe.protection.inventory.magicalcrops.magicalcrops_EnderiumEssence.*                               # (default: true) INVENTORY Enderium Essence
 fe.protection.inventory.magicalcrops.magicalcrops_EnderiumSeeds.*                                 # (default: true) INVENTORY Enderium Seeds
 fe.protection.inventory.magicalcrops.magicalcrops_EndermanEssence.*                               # (default: true) INVENTORY Enderman Essence
 fe.protection.inventory.magicalcrops.magicalcrops_EndermanSeeds.*                                 # (default: true) INVENTORY Enderman Seeds
+<<<<<<< Updated upstream
 fe.protection.inventory.magicalcrops.magicalcrops_EssenceFertilizer.*                             # (default: true) INVENTORY ˜6Accio Soil Fertilizer
 fe.protection.inventory.magicalcrops.magicalcrops_EssenceIngots.*                                 # (default: true) INVENTORY ˜6Accio Ingot
 fe.protection.inventory.magicalcrops.magicalcrops_ExperienceBook.*                                # (default: true) INVENTORY ˜fExperience Book
+=======
+fe.protection.inventory.magicalcrops.magicalcrops_EssenceFertilizer.*                             # (default: true) INVENTORY Â§6Accio Soil Fertilizer
+fe.protection.inventory.magicalcrops.magicalcrops_EssenceIngots.*                                 # (default: true) INVENTORY Â§6Accio Ingot
+fe.protection.inventory.magicalcrops.magicalcrops_ExperienceBook.*                                # (default: true) INVENTORY Â§fExperience Book
+>>>>>>> Stashed changes
 fe.protection.inventory.magicalcrops.magicalcrops_ExperienceEssence.*                             # (default: true) INVENTORY Experience Essence
 fe.protection.inventory.magicalcrops.magicalcrops_ExperienceSeeds.*                               # (default: true) INVENTORY Experience Seeds
 fe.protection.inventory.magicalcrops.magicalcrops_FireEssence.*                                   # (default: true) INVENTORY Fire Essence
@@ -11295,6 +11604,7 @@ fe.protection.inventory.magicalcrops.magicalcrops_GlowstoneEssence.*            
 fe.protection.inventory.magicalcrops.magicalcrops_GlowstoneSeeds.*                                # (default: true) INVENTORY Glowstone Seeds
 fe.protection.inventory.magicalcrops.magicalcrops_GoldEssence.*                                   # (default: true) INVENTORY Gold Essence
 fe.protection.inventory.magicalcrops.magicalcrops_GoldSeeds.*                                     # (default: true) INVENTORY Gold Seeds
+<<<<<<< Updated upstream
 fe.protection.inventory.magicalcrops.magicalcrops_ImperioArmourBoots.*                            # (default: true) INVENTORY ˜bImperio Boots
 fe.protection.inventory.magicalcrops.magicalcrops_ImperioArmourChestplate.*                       # (default: true) INVENTORY ˜bImperio Chestplate
 fe.protection.inventory.magicalcrops.magicalcrops_ImperioArmourHelmet.*                           # (default: true) INVENTORY ˜bImperio Helmet
@@ -11309,6 +11619,22 @@ fe.protection.inventory.magicalcrops.magicalcrops_InfusionStoneMaster.*         
 fe.protection.inventory.magicalcrops.magicalcrops_InfusionStoneRegular.*                          # (default: true) INVENTORY Regular Infusion Stone
 fe.protection.inventory.magicalcrops.magicalcrops_InfusionStoneStrong.*                           # (default: true) INVENTORY ˜bStrong Infusion Stone
 fe.protection.inventory.magicalcrops.magicalcrops_InfusionStoneWeak.*                             # (default: true) INVENTORY ˜6Weak Infusion Stone
+=======
+fe.protection.inventory.magicalcrops.magicalcrops_ImperioArmourBoots.*                            # (default: true) INVENTORY Â§bImperio Boots
+fe.protection.inventory.magicalcrops.magicalcrops_ImperioArmourChestplate.*                       # (default: true) INVENTORY Â§bImperio Chestplate
+fe.protection.inventory.magicalcrops.magicalcrops_ImperioArmourHelmet.*                           # (default: true) INVENTORY Â§bImperio Helmet
+fe.protection.inventory.magicalcrops.magicalcrops_ImperioArmourLeggings.*                         # (default: true) INVENTORY Â§bImperio Leggings
+fe.protection.inventory.magicalcrops.magicalcrops_ImperioAxe.*                                    # (default: true) INVENTORY Â§bImperio Axe
+fe.protection.inventory.magicalcrops.magicalcrops_ImperioHoe.*                                    # (default: true) INVENTORY Â§bImperio Hoe
+fe.protection.inventory.magicalcrops.magicalcrops_ImperioPickaxe.*                                # (default: true) INVENTORY Â§bImperio Pickaxe
+fe.protection.inventory.magicalcrops.magicalcrops_ImperioShovel.*                                 # (default: true) INVENTORY Â§bImperio Shovel
+fe.protection.inventory.magicalcrops.magicalcrops_ImperioSword.*                                  # (default: true) INVENTORY Â§bImperio Sword
+fe.protection.inventory.magicalcrops.magicalcrops_InfusionStoneExtreme.*                          # (default: true) INVENTORY Extreme Infusion Stone
+fe.protection.inventory.magicalcrops.magicalcrops_InfusionStoneMaster.*                           # (default: true) INVENTORY Â§4Master Infusion Stone
+fe.protection.inventory.magicalcrops.magicalcrops_InfusionStoneRegular.*                          # (default: true) INVENTORY Regular Infusion Stone
+fe.protection.inventory.magicalcrops.magicalcrops_InfusionStoneStrong.*                           # (default: true) INVENTORY Â§bStrong Infusion Stone
+fe.protection.inventory.magicalcrops.magicalcrops_InfusionStoneWeak.*                             # (default: true) INVENTORY Â§6Weak Infusion Stone
+>>>>>>> Stashed changes
 fe.protection.inventory.magicalcrops.magicalcrops_InvarEssence.*                                  # (default: true) INVENTORY Invar Essence
 fe.protection.inventory.magicalcrops.magicalcrops_InvarSeeds.*                                    # (default: true) INVENTORY Invar Seeds
 fe.protection.inventory.magicalcrops.magicalcrops_IronEssence.*                                   # (default: true) INVENTORY Iron Essence
@@ -11373,17 +11699,27 @@ fe.protection.inventory.magicalcrops.magicalcrops_SteelEssence.*                
 fe.protection.inventory.magicalcrops.magicalcrops_SteelSeeds.*                                    # (default: true) INVENTORY Steel Seeds
 fe.protection.inventory.magicalcrops.magicalcrops_SulfurEssence.*                                 # (default: true) INVENTORY Sulfur Essence
 fe.protection.inventory.magicalcrops.magicalcrops_SulfurSeeds.*                                   # (default: true) INVENTORY Sulfur Seeds
+<<<<<<< Updated upstream
 fe.protection.inventory.magicalcrops.magicalcrops_TaintedEssence.*                                # (default: true) INVENTORY ˜8Tainted Essence
+=======
+fe.protection.inventory.magicalcrops.magicalcrops_TaintedEssence.*                                # (default: true) INVENTORY Â§8Tainted Essence
+>>>>>>> Stashed changes
 fe.protection.inventory.magicalcrops.magicalcrops_TerrasteelEssence.*                             # (default: true) INVENTORY Terrasteel Essence
 fe.protection.inventory.magicalcrops.magicalcrops_TerrasteelSeeds.*                               # (default: true) INVENTORY Terrasteel Seeds
 fe.protection.inventory.magicalcrops.magicalcrops_TinEssence.*                                    # (default: true) INVENTORY Tin Essence
 fe.protection.inventory.magicalcrops.magicalcrops_TinSeeds.*                                      # (default: true) INVENTORY Tin Seeds
+<<<<<<< Updated upstream
 fe.protection.inventory.magicalcrops.magicalcrops_UltimateDiamondApple.*                          # (default: true) INVENTORY ˜bUltimate Diamond Apple
 fe.protection.inventory.magicalcrops.magicalcrops_UltimateEmeraldApple.*                          # (default: true) INVENTORY ˜aUltimate Emerald Apple
+=======
+fe.protection.inventory.magicalcrops.magicalcrops_UltimateDiamondApple.*                          # (default: true) INVENTORY Â§bUltimate Diamond Apple
+fe.protection.inventory.magicalcrops.magicalcrops_UltimateEmeraldApple.*                          # (default: true) INVENTORY Â§aUltimate Emerald Apple
+>>>>>>> Stashed changes
 fe.protection.inventory.magicalcrops.magicalcrops_WaterEssence.*                                  # (default: true) INVENTORY Water Essence
 fe.protection.inventory.magicalcrops.magicalcrops_WaterSeeds.*                                    # (default: true) INVENTORY Water Seeds
 fe.protection.inventory.magicalcrops.magicalcrops_WitherEssence.*                                 # (default: true) INVENTORY Wither Essence
 fe.protection.inventory.magicalcrops.magicalcrops_WitherSeeds.*                                   # (default: true) INVENTORY Wither Skeleton Seeds
+<<<<<<< Updated upstream
 fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourBoots.*                            # (default: true) INVENTORY ˜dZivicio Boots
 fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourBootsJump.*                        # (default: true) INVENTORY ˜dZivicio Boots
 fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourBootsSpeed.*                       # (default: true) INVENTORY ˜dZivicio Boots
@@ -11405,6 +11741,29 @@ fe.protection.inventory.magicalcrops.magicalcrops_ZivicioHoe.*                  
 fe.protection.inventory.magicalcrops.magicalcrops_ZivicioPickaxe.*                                # (default: true) INVENTORY ˜dZivicio Pickaxe
 fe.protection.inventory.magicalcrops.magicalcrops_ZivicioShovel.*                                 # (default: true) INVENTORY ˜dZivicio Shovel
 fe.protection.inventory.magicalcrops.magicalcrops_ZivicioSword.*                                  # (default: true) INVENTORY ˜dZivicio Sword
+=======
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourBoots.*                            # (default: true) INVENTORY Â§dZivicio Boots
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourBootsJump.*                        # (default: true) INVENTORY Â§dZivicio Boots
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourBootsSpeed.*                       # (default: true) INVENTORY Â§dZivicio Boots
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourBootsStep.*                        # (default: true) INVENTORY Â§dZivicio Boots
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourChestplate.*                       # (default: true) INVENTORY Â§dZivicio Chestplate
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourChestplateFire.*                   # (default: true) INVENTORY Â§dZivicio Chestplate
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourChestplatePoison.*                 # (default: true) INVENTORY Â§dZivicio Chestplate
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourChestplateWither.*                 # (default: true) INVENTORY Â§dZivicio Chestplate
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourHelmet.*                           # (default: true) INVENTORY Â§dZivicio Helmet
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourHelmetFeed.*                       # (default: true) INVENTORY Â§dZivicio Helmet
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourHelmetNight.*                      # (default: true) INVENTORY Â§dZivicio Helmet
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourHelmetWater.*                      # (default: true) INVENTORY Â§dZivicio Helmet
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourLeggings.*                         # (default: true) INVENTORY Â§dZivicio Leggings
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourLeggingsBlind.*                    # (default: true) INVENTORY Â§dZivicio Leggings
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourLeggingsConfusion.*                # (default: true) INVENTORY Â§dZivicio Leggings
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioArmourLeggingsWeak.*                     # (default: true) INVENTORY Â§dZivicio Leggings
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioAxe.*                                    # (default: true) INVENTORY Â§dZivicio Axe
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioHoe.*                                    # (default: true) INVENTORY Â§dZivicio Hoe
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioPickaxe.*                                # (default: true) INVENTORY Â§dZivicio Pickaxe
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioShovel.*                                 # (default: true) INVENTORY Â§dZivicio Shovel
+fe.protection.inventory.magicalcrops.magicalcrops_ZivicioSword.*                                  # (default: true) INVENTORY Â§dZivicio Sword
+>>>>>>> Stashed changes
 fe.protection.inventory.malisisdoors.item.curtain_black.*                                         # (default: true) INVENTORY Black Curtain
 fe.protection.inventory.malisisdoors.item.curtain_blue.*                                          # (default: true) INVENTORY Blue Curtain
 fe.protection.inventory.malisisdoors.item.curtain_brown.*                                         # (default: true) INVENTORY Brown Curtain
@@ -12181,8 +12540,13 @@ fe.protection.use.Botania.baubleBox.*                                           
 fe.protection.use.Botania.blackHoleTalisman.*                                                     # (default: true) USE Black Hole Talisman
 fe.protection.use.Botania.blackLotus.*                                                            # (default: true) USE Black Lotus
 fe.protection.use.Botania.bloodPendant.*                                                          # (default: true) USE Tainted Blood Pendant
+<<<<<<< Updated upstream
 fe.protection.use.Botania.brewFlask.*                                                             # (default: true) USE Flask of Fallback (˜l6˜r)
 fe.protection.use.Botania.brewVial.*                                                              # (default: true) USE Vial of Fallback (˜l4˜r)
+=======
+fe.protection.use.Botania.brewFlask.*                                                             # (default: true) USE Flask of Fallback (Â§l6Â§r)
+fe.protection.use.Botania.brewVial.*                                                              # (default: true) USE Vial of Fallback (Â§l4Â§r)
+>>>>>>> Stashed changes
 fe.protection.use.Botania.cacophonium.*                                                           # (default: true) USE Cacophonium
 fe.protection.use.Botania.clip.*                                                                  # (default: true) USE Lens Clip
 fe.protection.use.Botania.cobbleRod.*                                                             # (default: true) USE Rod of the Depths
@@ -12211,9 +12575,15 @@ fe.protection.use.Botania.enderHand.*                                           
 fe.protection.use.Botania.exchangeRod.*                                                           # (default: true) USE Rod of the Shifting Crust
 fe.protection.use.Botania.fertilizer.*                                                            # (default: true) USE Floral Fertilizer
 fe.protection.use.Botania.fireRod.*                                                               # (default: true) USE Rod of the Hells
+<<<<<<< Updated upstream
 fe.protection.use.Botania.flightTiara.*                                                           # (default: true) USE Fl?gel Tiara
 fe.protection.use.Botania.flowerBag.*                                                             # (default: true) USE Flower Pouch
 fe.protection.use.Botania.flugelEye.*                                                             # (default: true) USE Eye of the Fl?gel
+=======
+fe.protection.use.Botania.flightTiara.*                                                           # (default: true) USE FlÃ¼gel Tiara
+fe.protection.use.Botania.flowerBag.*                                                             # (default: true) USE Flower Pouch
+fe.protection.use.Botania.flugelEye.*                                                             # (default: true) USE Eye of the FlÃ¼gel
+>>>>>>> Stashed changes
 fe.protection.use.Botania.gaiaHead.*                                                              # (default: true) USE Gaia Guardian's Head
 fe.protection.use.Botania.glassPick.*                                                             # (default: true) USE Vitreous Pickaxe
 fe.protection.use.Botania.goldenLaurel.*                                                          # (default: true) USE Golden Laurel Crown
@@ -13177,7 +13547,11 @@ fe.protection.use.Mantle.mantleBook.*                                           
 fe.protection.use.Mekanism.ArmoredJetpack.*                                                       # (default: true) USE Armored Jetpack
 fe.protection.use.Mekanism.AtomicAlloy.*                                                          # (default: true) USE Atomic Alloy
 fe.protection.use.Mekanism.AtomicDisassembler.*                                                   # (default: true) USE Atomic Disassembler
+<<<<<<< Updated upstream
 fe.protection.use.Mekanism.Balloon.*                                                              # (default: true) USE ˜8Black Balloon
+=======
+fe.protection.use.Mekanism.Balloon.*                                                              # (default: true) USE Â§8Black Balloon
+>>>>>>> Stashed changes
 fe.protection.use.Mekanism.BioFuel.*                                                              # (default: true) USE Bio Fuel
 fe.protection.use.Mekanism.BrineBucket.*                                                          # (default: true) USE Brine Bucket
 fe.protection.use.Mekanism.Clump.*                                                                # (default: true) USE Iron Clump
@@ -13206,7 +13580,11 @@ fe.protection.use.Mekanism.FreeRunners.*                                        
 fe.protection.use.Mekanism.GasMask.*                                                              # (default: true) USE Gas Mask
 fe.protection.use.Mekanism.GasUpgrade.*                                                           # (default: true) USE Gas Upgrade
 fe.protection.use.Mekanism.GaugeDropper.*                                                         # (default: true) USE Gauge Dropper
+<<<<<<< Updated upstream
 fe.protection.use.Mekanism.GlowPanel.*                                                            # (default: true) USE ˜8Black Glow Panel
+=======
+fe.protection.use.Mekanism.GlowPanel.*                                                            # (default: true) USE Â§8Black Glow Panel
+>>>>>>> Stashed changes
 fe.protection.use.Mekanism.HeavyWaterBucket.*                                                     # (default: true) USE Heavy Water Bucket
 fe.protection.use.Mekanism.Ingot.*                                                                # (default: true) USE Refined Obsidian Ingot
 fe.protection.use.Mekanism.ItemProxy.*                                                            # (default: true) USE item.ItemProxy.name
@@ -13951,7 +14329,11 @@ fe.protection.use.ThermalExpansion.augment.*                                    
 fe.protection.use.ThermalExpansion.capacitor.*                                                    # (default: true) USE Creative Flux Capacitor
 fe.protection.use.ThermalExpansion.chiller.*                                                      # (default: true) USE Flux Chiller
 fe.protection.use.ThermalExpansion.diagram.*                                                      # (default: true) USE Schematic
+<<<<<<< Updated upstream
 fe.protection.use.ThermalExpansion.florb.*                                                        # (default: true) USE Florb (Empty˜r)
+=======
+fe.protection.use.ThermalExpansion.florb.*                                                        # (default: true) USE Florb (EmptyÂ§r)
+>>>>>>> Stashed changes
 fe.protection.use.ThermalExpansion.igniter.*                                                      # (default: true) USE Flux Igniter
 fe.protection.use.ThermalExpansion.material.*                                                     # (default: true) USE Pneumatic Servo
 fe.protection.use.ThermalExpansion.meter.*                                                        # (default: true) USE Multimeter
@@ -14342,9 +14724,15 @@ fe.protection.use.appliedenergistics2.item.ItemFacade.*                         
 fe.protection.use.appliedenergistics2.item.ItemMultiMaterial.*                                    # (default: true) USE Certus Quartz Crystal
 fe.protection.use.appliedenergistics2.item.ItemMultiPart.*                                        # (default: true) USE ME Glass Cable - White
 fe.protection.use.appliedenergistics2.item.ItemPaintBall.*                                        # (default: true) USE Paint Ball - White
+<<<<<<< Updated upstream
 fe.protection.use.appliedenergistics2.item.ItemSpatialStorageCell.128Cubed.*                      # (default: true) USE 128? Spatial Storage Cell
 fe.protection.use.appliedenergistics2.item.ItemSpatialStorageCell.16Cubed.*                       # (default: true) USE 16? Spatial Storage Cell
 fe.protection.use.appliedenergistics2.item.ItemSpatialStorageCell.2Cubed.*                        # (default: true) USE 2? Spatial Storage Cell
+=======
+fe.protection.use.appliedenergistics2.item.ItemSpatialStorageCell.128Cubed.*                      # (default: true) USE 128Â³ Spatial Storage Cell
+fe.protection.use.appliedenergistics2.item.ItemSpatialStorageCell.16Cubed.*                       # (default: true) USE 16Â³ Spatial Storage Cell
+fe.protection.use.appliedenergistics2.item.ItemSpatialStorageCell.2Cubed.*                        # (default: true) USE 2Â³ Spatial Storage Cell
+>>>>>>> Stashed changes
 fe.protection.use.appliedenergistics2.item.ItemViewCell.*                                         # (default: true) USE View Cell
 fe.protection.use.appliedenergistics2.item.ToolBiometricCard.*                                    # (default: true) USE Biometric Card
 fe.protection.use.appliedenergistics2.item.ToolCertusQuartzAxe.*                                  # (default: true) USE Certus Quartz Axe
@@ -15182,6 +15570,7 @@ fe.protection.use.harvestcraft.zucchiniseedItem.*                               
 fe.protection.use.immersiveintegration.capacitorBox.*                                             # (default: true) USE LV Capacitor in a Box
 fe.protection.use.immersiveintegration.iiWireCoil.*                                               # (default: true) USE Redstone Wire Coil
 fe.protection.use.immersiveintegration.wireCoil.*                                                 # (default: true) USE Fluix Wire Coil
+<<<<<<< Updated upstream
 fe.protection.use.magicalcrops.magicalcrops_1MinicioEssence.*                                     # (default: true) USE ˜aMinicio Essence
 fe.protection.use.magicalcrops.magicalcrops_2AccioEssence.*                                       # (default: true) USE ˜6Accio Essence
 fe.protection.use.magicalcrops.magicalcrops_3CrucioEssence.*                                      # (default: true) USE ˜eCrucio Essence
@@ -15196,6 +15585,22 @@ fe.protection.use.magicalcrops.magicalcrops_AccioHoe.*                          
 fe.protection.use.magicalcrops.magicalcrops_AccioPickaxe.*                                        # (default: true) USE ˜6Accio Pickaxe
 fe.protection.use.magicalcrops.magicalcrops_AccioShovel.*                                         # (default: true) USE ˜6Accio Shovel
 fe.protection.use.magicalcrops.magicalcrops_AccioSword.*                                          # (default: true) USE ˜6Accio Sword
+=======
+fe.protection.use.magicalcrops.magicalcrops_1MinicioEssence.*                                     # (default: true) USE Â§aMinicio Essence
+fe.protection.use.magicalcrops.magicalcrops_2AccioEssence.*                                       # (default: true) USE Â§6Accio Essence
+fe.protection.use.magicalcrops.magicalcrops_3CrucioEssence.*                                      # (default: true) USE Â§eCrucio Essence
+fe.protection.use.magicalcrops.magicalcrops_4ImperioEssence.*                                     # (default: true) USE Â§bImperio Essence
+fe.protection.use.magicalcrops.magicalcrops_5ZivicioEssence.*                                     # (default: true) USE Â§dZivicio Essence
+fe.protection.use.magicalcrops.magicalcrops_AccioArmourBoots.*                                    # (default: true) USE Â§6Accio Boots
+fe.protection.use.magicalcrops.magicalcrops_AccioArmourChestplate.*                               # (default: true) USE Â§6Accio Chestplate
+fe.protection.use.magicalcrops.magicalcrops_AccioArmourHelmet.*                                   # (default: true) USE Â§6Accio Helmet
+fe.protection.use.magicalcrops.magicalcrops_AccioArmourLeggings.*                                 # (default: true) USE Â§6Accio Leggings
+fe.protection.use.magicalcrops.magicalcrops_AccioAxe.*                                            # (default: true) USE Â§6Accio Axe
+fe.protection.use.magicalcrops.magicalcrops_AccioHoe.*                                            # (default: true) USE Â§6Accio Hoe
+fe.protection.use.magicalcrops.magicalcrops_AccioPickaxe.*                                        # (default: true) USE Â§6Accio Pickaxe
+fe.protection.use.magicalcrops.magicalcrops_AccioShovel.*                                         # (default: true) USE Â§6Accio Shovel
+fe.protection.use.magicalcrops.magicalcrops_AccioSword.*                                          # (default: true) USE Â§6Accio Sword
+>>>>>>> Stashed changes
 fe.protection.use.magicalcrops.magicalcrops_AirEssence.*                                          # (default: true) USE Air Essence
 fe.protection.use.magicalcrops.magicalcrops_AirSeeds.*                                            # (default: true) USE Air Seeds
 fe.protection.use.magicalcrops.magicalcrops_AluminiumEssence.*                                    # (default: true) USE Aluminium Essence
@@ -15224,6 +15629,7 @@ fe.protection.use.magicalcrops.magicalcrops_CowEssence.*                        
 fe.protection.use.magicalcrops.magicalcrops_CowSeeds.*                                            # (default: true) USE Cow Seeds
 fe.protection.use.magicalcrops.magicalcrops_CreeperEssence.*                                      # (default: true) USE Creeper Essence
 fe.protection.use.magicalcrops.magicalcrops_CreeperSeeds.*                                        # (default: true) USE Creeper Seeds
+<<<<<<< Updated upstream
 fe.protection.use.magicalcrops.magicalcrops_CrucioArmourBoots.*                                   # (default: true) USE ˜eCrucio Boots
 fe.protection.use.magicalcrops.magicalcrops_CrucioArmourChestplate.*                              # (default: true) USE ˜eCrucio Chestplate
 fe.protection.use.magicalcrops.magicalcrops_CrucioArmourHelmet.*                                  # (default: true) USE ˜eCrucio Helmet
@@ -15233,6 +15639,17 @@ fe.protection.use.magicalcrops.magicalcrops_CrucioHoe.*                         
 fe.protection.use.magicalcrops.magicalcrops_CrucioPickaxe.*                                       # (default: true) USE ˜eCrucio Pickaxe
 fe.protection.use.magicalcrops.magicalcrops_CrucioShovel.*                                        # (default: true) USE ˜eCrucio Shovel
 fe.protection.use.magicalcrops.magicalcrops_CrucioSword.*                                         # (default: true) USE ˜eCrucio Sword
+=======
+fe.protection.use.magicalcrops.magicalcrops_CrucioArmourBoots.*                                   # (default: true) USE Â§eCrucio Boots
+fe.protection.use.magicalcrops.magicalcrops_CrucioArmourChestplate.*                              # (default: true) USE Â§eCrucio Chestplate
+fe.protection.use.magicalcrops.magicalcrops_CrucioArmourHelmet.*                                  # (default: true) USE Â§eCrucio Helmet
+fe.protection.use.magicalcrops.magicalcrops_CrucioArmourLeggings.*                                # (default: true) USE Â§eCrucio Leggings
+fe.protection.use.magicalcrops.magicalcrops_CrucioAxe.*                                           # (default: true) USE Â§eCrucio Axe
+fe.protection.use.magicalcrops.magicalcrops_CrucioHoe.*                                           # (default: true) USE Â§eCrucio Hoe
+fe.protection.use.magicalcrops.magicalcrops_CrucioPickaxe.*                                       # (default: true) USE Â§eCrucio Pickaxe
+fe.protection.use.magicalcrops.magicalcrops_CrucioShovel.*                                        # (default: true) USE Â§eCrucio Shovel
+fe.protection.use.magicalcrops.magicalcrops_CrucioSword.*                                         # (default: true) USE Â§eCrucio Sword
+>>>>>>> Stashed changes
 fe.protection.use.magicalcrops.magicalcrops_DiamondEssence.*                                      # (default: true) USE Diamond Essence
 fe.protection.use.magicalcrops.magicalcrops_DiamondSeeds.*                                        # (default: true) USE Diamond Seeds
 fe.protection.use.magicalcrops.magicalcrops_DyeEssence.*                                          # (default: true) USE Technicolor Essence
@@ -15241,16 +15658,26 @@ fe.protection.use.magicalcrops.magicalcrops_EarthEssence.*                      
 fe.protection.use.magicalcrops.magicalcrops_EarthSeeds.*                                          # (default: true) USE Earth Seeds
 fe.protection.use.magicalcrops.magicalcrops_ElectrumEssence.*                                     # (default: true) USE Electrum Essence
 fe.protection.use.magicalcrops.magicalcrops_ElectrumSeeds.*                                       # (default: true) USE Electrum Seeds
+<<<<<<< Updated upstream
 fe.protection.use.magicalcrops.magicalcrops_EmeraldApple.*                                        # (default: true) USE ˜aEmerald Apple
+=======
+fe.protection.use.magicalcrops.magicalcrops_EmeraldApple.*                                        # (default: true) USE Â§aEmerald Apple
+>>>>>>> Stashed changes
 fe.protection.use.magicalcrops.magicalcrops_EmeraldEssence.*                                      # (default: true) USE Emerald Essence
 fe.protection.use.magicalcrops.magicalcrops_EmeraldSeeds.*                                        # (default: true) USE Emerald Seeds
 fe.protection.use.magicalcrops.magicalcrops_EnderiumEssence.*                                     # (default: true) USE Enderium Essence
 fe.protection.use.magicalcrops.magicalcrops_EnderiumSeeds.*                                       # (default: true) USE Enderium Seeds
 fe.protection.use.magicalcrops.magicalcrops_EndermanEssence.*                                     # (default: true) USE Enderman Essence
 fe.protection.use.magicalcrops.magicalcrops_EndermanSeeds.*                                       # (default: true) USE Enderman Seeds
+<<<<<<< Updated upstream
 fe.protection.use.magicalcrops.magicalcrops_EssenceFertilizer.*                                   # (default: true) USE ˜6Accio Soil Fertilizer
 fe.protection.use.magicalcrops.magicalcrops_EssenceIngots.*                                       # (default: true) USE ˜6Accio Ingot
 fe.protection.use.magicalcrops.magicalcrops_ExperienceBook.*                                      # (default: true) USE ˜fExperience Book
+=======
+fe.protection.use.magicalcrops.magicalcrops_EssenceFertilizer.*                                   # (default: true) USE Â§6Accio Soil Fertilizer
+fe.protection.use.magicalcrops.magicalcrops_EssenceIngots.*                                       # (default: true) USE Â§6Accio Ingot
+fe.protection.use.magicalcrops.magicalcrops_ExperienceBook.*                                      # (default: true) USE Â§fExperience Book
+>>>>>>> Stashed changes
 fe.protection.use.magicalcrops.magicalcrops_ExperienceEssence.*                                   # (default: true) USE Experience Essence
 fe.protection.use.magicalcrops.magicalcrops_ExperienceSeeds.*                                     # (default: true) USE Experience Seeds
 fe.protection.use.magicalcrops.magicalcrops_FireEssence.*                                         # (default: true) USE Fire Essence
@@ -15263,6 +15690,7 @@ fe.protection.use.magicalcrops.magicalcrops_GlowstoneEssence.*                  
 fe.protection.use.magicalcrops.magicalcrops_GlowstoneSeeds.*                                      # (default: true) USE Glowstone Seeds
 fe.protection.use.magicalcrops.magicalcrops_GoldEssence.*                                         # (default: true) USE Gold Essence
 fe.protection.use.magicalcrops.magicalcrops_GoldSeeds.*                                           # (default: true) USE Gold Seeds
+<<<<<<< Updated upstream
 fe.protection.use.magicalcrops.magicalcrops_ImperioArmourBoots.*                                  # (default: true) USE ˜bImperio Boots
 fe.protection.use.magicalcrops.magicalcrops_ImperioArmourChestplate.*                             # (default: true) USE ˜bImperio Chestplate
 fe.protection.use.magicalcrops.magicalcrops_ImperioArmourHelmet.*                                 # (default: true) USE ˜bImperio Helmet
@@ -15277,6 +15705,22 @@ fe.protection.use.magicalcrops.magicalcrops_InfusionStoneMaster.*               
 fe.protection.use.magicalcrops.magicalcrops_InfusionStoneRegular.*                                # (default: true) USE Regular Infusion Stone
 fe.protection.use.magicalcrops.magicalcrops_InfusionStoneStrong.*                                 # (default: true) USE ˜bStrong Infusion Stone
 fe.protection.use.magicalcrops.magicalcrops_InfusionStoneWeak.*                                   # (default: true) USE ˜6Weak Infusion Stone
+=======
+fe.protection.use.magicalcrops.magicalcrops_ImperioArmourBoots.*                                  # (default: true) USE Â§bImperio Boots
+fe.protection.use.magicalcrops.magicalcrops_ImperioArmourChestplate.*                             # (default: true) USE Â§bImperio Chestplate
+fe.protection.use.magicalcrops.magicalcrops_ImperioArmourHelmet.*                                 # (default: true) USE Â§bImperio Helmet
+fe.protection.use.magicalcrops.magicalcrops_ImperioArmourLeggings.*                               # (default: true) USE Â§bImperio Leggings
+fe.protection.use.magicalcrops.magicalcrops_ImperioAxe.*                                          # (default: true) USE Â§bImperio Axe
+fe.protection.use.magicalcrops.magicalcrops_ImperioHoe.*                                          # (default: true) USE Â§bImperio Hoe
+fe.protection.use.magicalcrops.magicalcrops_ImperioPickaxe.*                                      # (default: true) USE Â§bImperio Pickaxe
+fe.protection.use.magicalcrops.magicalcrops_ImperioShovel.*                                       # (default: true) USE Â§bImperio Shovel
+fe.protection.use.magicalcrops.magicalcrops_ImperioSword.*                                        # (default: true) USE Â§bImperio Sword
+fe.protection.use.magicalcrops.magicalcrops_InfusionStoneExtreme.*                                # (default: true) USE Extreme Infusion Stone
+fe.protection.use.magicalcrops.magicalcrops_InfusionStoneMaster.*                                 # (default: true) USE Â§4Master Infusion Stone
+fe.protection.use.magicalcrops.magicalcrops_InfusionStoneRegular.*                                # (default: true) USE Regular Infusion Stone
+fe.protection.use.magicalcrops.magicalcrops_InfusionStoneStrong.*                                 # (default: true) USE Â§bStrong Infusion Stone
+fe.protection.use.magicalcrops.magicalcrops_InfusionStoneWeak.*                                   # (default: true) USE Â§6Weak Infusion Stone
+>>>>>>> Stashed changes
 fe.protection.use.magicalcrops.magicalcrops_InvarEssence.*                                        # (default: true) USE Invar Essence
 fe.protection.use.magicalcrops.magicalcrops_InvarSeeds.*                                          # (default: true) USE Invar Seeds
 fe.protection.use.magicalcrops.magicalcrops_IronEssence.*                                         # (default: true) USE Iron Essence
@@ -15341,17 +15785,27 @@ fe.protection.use.magicalcrops.magicalcrops_SteelEssence.*                      
 fe.protection.use.magicalcrops.magicalcrops_SteelSeeds.*                                          # (default: true) USE Steel Seeds
 fe.protection.use.magicalcrops.magicalcrops_SulfurEssence.*                                       # (default: true) USE Sulfur Essence
 fe.protection.use.magicalcrops.magicalcrops_SulfurSeeds.*                                         # (default: true) USE Sulfur Seeds
+<<<<<<< Updated upstream
 fe.protection.use.magicalcrops.magicalcrops_TaintedEssence.*                                      # (default: true) USE ˜8Tainted Essence
+=======
+fe.protection.use.magicalcrops.magicalcrops_TaintedEssence.*                                      # (default: true) USE Â§8Tainted Essence
+>>>>>>> Stashed changes
 fe.protection.use.magicalcrops.magicalcrops_TerrasteelEssence.*                                   # (default: true) USE Terrasteel Essence
 fe.protection.use.magicalcrops.magicalcrops_TerrasteelSeeds.*                                     # (default: true) USE Terrasteel Seeds
 fe.protection.use.magicalcrops.magicalcrops_TinEssence.*                                          # (default: true) USE Tin Essence
 fe.protection.use.magicalcrops.magicalcrops_TinSeeds.*                                            # (default: true) USE Tin Seeds
+<<<<<<< Updated upstream
 fe.protection.use.magicalcrops.magicalcrops_UltimateDiamondApple.*                                # (default: true) USE ˜bUltimate Diamond Apple
 fe.protection.use.magicalcrops.magicalcrops_UltimateEmeraldApple.*                                # (default: true) USE ˜aUltimate Emerald Apple
+=======
+fe.protection.use.magicalcrops.magicalcrops_UltimateDiamondApple.*                                # (default: true) USE Â§bUltimate Diamond Apple
+fe.protection.use.magicalcrops.magicalcrops_UltimateEmeraldApple.*                                # (default: true) USE Â§aUltimate Emerald Apple
+>>>>>>> Stashed changes
 fe.protection.use.magicalcrops.magicalcrops_WaterEssence.*                                        # (default: true) USE Water Essence
 fe.protection.use.magicalcrops.magicalcrops_WaterSeeds.*                                          # (default: true) USE Water Seeds
 fe.protection.use.magicalcrops.magicalcrops_WitherEssence.*                                       # (default: true) USE Wither Essence
 fe.protection.use.magicalcrops.magicalcrops_WitherSeeds.*                                         # (default: true) USE Wither Skeleton Seeds
+<<<<<<< Updated upstream
 fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourBoots.*                                  # (default: true) USE ˜dZivicio Boots
 fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourBootsJump.*                              # (default: true) USE ˜dZivicio Boots
 fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourBootsSpeed.*                             # (default: true) USE ˜dZivicio Boots
@@ -15373,6 +15827,29 @@ fe.protection.use.magicalcrops.magicalcrops_ZivicioHoe.*                        
 fe.protection.use.magicalcrops.magicalcrops_ZivicioPickaxe.*                                      # (default: true) USE ˜dZivicio Pickaxe
 fe.protection.use.magicalcrops.magicalcrops_ZivicioShovel.*                                       # (default: true) USE ˜dZivicio Shovel
 fe.protection.use.magicalcrops.magicalcrops_ZivicioSword.*                                        # (default: true) USE ˜dZivicio Sword
+=======
+fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourBoots.*                                  # (default: true) USE Â§dZivicio Boots
+fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourBootsJump.*                              # (default: true) USE Â§dZivicio Boots
+fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourBootsSpeed.*                             # (default: true) USE Â§dZivicio Boots
+fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourBootsStep.*                              # (default: true) USE Â§dZivicio Boots
+fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourChestplate.*                             # (default: true) USE Â§dZivicio Chestplate
+fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourChestplateFire.*                         # (default: true) USE Â§dZivicio Chestplate
+fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourChestplatePoison.*                       # (default: true) USE Â§dZivicio Chestplate
+fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourChestplateWither.*                       # (default: true) USE Â§dZivicio Chestplate
+fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourHelmet.*                                 # (default: true) USE Â§dZivicio Helmet
+fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourHelmetFeed.*                             # (default: true) USE Â§dZivicio Helmet
+fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourHelmetNight.*                            # (default: true) USE Â§dZivicio Helmet
+fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourHelmetWater.*                            # (default: true) USE Â§dZivicio Helmet
+fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourLeggings.*                               # (default: true) USE Â§dZivicio Leggings
+fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourLeggingsBlind.*                          # (default: true) USE Â§dZivicio Leggings
+fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourLeggingsConfusion.*                      # (default: true) USE Â§dZivicio Leggings
+fe.protection.use.magicalcrops.magicalcrops_ZivicioArmourLeggingsWeak.*                           # (default: true) USE Â§dZivicio Leggings
+fe.protection.use.magicalcrops.magicalcrops_ZivicioAxe.*                                          # (default: true) USE Â§dZivicio Axe
+fe.protection.use.magicalcrops.magicalcrops_ZivicioHoe.*                                          # (default: true) USE Â§dZivicio Hoe
+fe.protection.use.magicalcrops.magicalcrops_ZivicioPickaxe.*                                      # (default: true) USE Â§dZivicio Pickaxe
+fe.protection.use.magicalcrops.magicalcrops_ZivicioShovel.*                                       # (default: true) USE Â§dZivicio Shovel
+fe.protection.use.magicalcrops.magicalcrops_ZivicioSword.*                                        # (default: true) USE Â§dZivicio Sword
+>>>>>>> Stashed changes
 fe.protection.use.malisisdoors.item.curtain_black.*                                               # (default: true) USE Black Curtain
 fe.protection.use.malisisdoors.item.curtain_blue.*                                                # (default: true) USE Blue Curtain
 fe.protection.use.malisisdoors.item.curtain_brown.*                                               # (default: true) USE Brown Curtain

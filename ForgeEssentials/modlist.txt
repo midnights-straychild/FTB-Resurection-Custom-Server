@@ -1,5 +1,9 @@
 # --- ModList ---
+<<<<<<< Updated upstream
 # Generated: 24-2-2017 (Server time)
+=======
+# Generated: 4-2-2017 (Server time)
+>>>>>>> Stashed changes
 # Change the location of this file in main.cfg
 
 Minecraft Coder Pack;9.05;http://mcp.ocean-labs.de/
@@ -158,8 +162,12 @@ libsandstone;1.0.0;
 Reliquary;1.2;
 RFTools;4.23;
 Roguelike Dungeons;1.4.4;github.com/Greymerk/minecraft-roguelike
+<<<<<<< Updated upstream
 Realistic World Gen Alpha;Alpha 1.3.2;
 SonarCore;1.0.5;
+=======
+The SecretRoomsMod;4.7.1;http://files.minecraftforge.net/SecretRoomsMod/
+>>>>>>> Stashed changes
 Storage Drawers;1.7.10-1.7.5;http://www.jaquadro.com/
 Storage Drawers: Biomes O' Plenty Pack;1.7.10-1.1.0;http://www.jaquadro.com/
 Storage Drawers: Misc Pack;1.7.10-1.1.0;http://www.jaquadro.com/

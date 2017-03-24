@@ -83,6 +83,18 @@ worlds:
     the_end: false
     title: world/CONTROL
     height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM10
+    the_end: false
+    title: world/Overworld
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM11
+    the_end: false
+    title: world/Overworld
+    height: 256
 isMCPC: false
 useSaveFolderAsName: true
 maxWorldHeight: 256
