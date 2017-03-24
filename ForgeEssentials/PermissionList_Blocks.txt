@@ -1,6 +1,6 @@
 #// -------- PERMISSIONS LIST BLOCKS ------- \\#
-#// --------------- 26.06 14:36 ------------ \\#
-#// ----------- Total amount: 27167 --------- \\#
+#// --------------- 24.03 21:49 ------------ \\#
+#// ----------- Total amount: 28319 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.break.*                                                                             # (default: true) Allow breaking blocks
 fe.protection.break.AWWayofTime.AlchemicalWizardrybloodRune.*                                     # (default: true) BREAK tile.bloodRune.name
@@ -568,7 +568,7 @@ fe.protection.break.Botania.tinyPotato.*                                        
 fe.protection.break.Botania.turntable.*                                                           # (default: true) BREAK tile.turntable.name
 fe.protection.break.Botania.unstableBlock.*                                                       # (default: true) BREAK tile.unstableBlock.name
 fe.protection.break.BuildCraft|Builders.architectBlock.*                                          # (default: true) BREAK Architect Table
-fe.protection.break.BuildCraft|Builders.builderBlock.*                                            # (default: true) BREAK Builder
+fe.protection.break.BuildCraft|Builders.builderBlock.*                                            # (default: true) BREAK Builder Block
 fe.protection.break.BuildCraft|Builders.constructionMarkerBlock.*                                 # (default: true) BREAK Construction Mark
 fe.protection.break.BuildCraft|Builders.fillerBlock.*                                             # (default: true) BREAK Filler
 fe.protection.break.BuildCraft|Builders.frameBlock.*                                              # (default: true) BREAK Frame
@@ -738,6 +738,8 @@ fe.protection.break.EnderIO.blockAttractor.*                                    
 fe.protection.break.EnderIO.blockBuffer.*                                                         # (default: true) BREAK tile.blockBuffer.name
 fe.protection.break.EnderIO.blockCapBank.*                                                        # (default: true) BREAK tile.blockCapBank.name
 fe.protection.break.EnderIO.blockCapacitorBank.*                                                  # (default: true) BREAK Capacitor Bank (Deprecated)
+fe.protection.break.EnderIO.blockCloud_seed.*                                                     # (default: true) BREAK Cloud Seed
+fe.protection.break.EnderIO.blockCloud_seed_concentrated.*                                        # (default: true) BREAK Concentrated Cloud Seed
 fe.protection.break.EnderIO.blockCombustionGenerator.*                                            # (default: true) BREAK Combustion Generator
 fe.protection.break.EnderIO.blockConduitBundle.*                                                  # (default: true) BREAK Conduit Connector
 fe.protection.break.EnderIO.blockConduitFacade.*                                                  # (default: true) BREAK tile.blockConduitFacade.name
@@ -762,6 +764,7 @@ fe.protection.break.EnderIO.blockInhibitorObelisk.*                             
 fe.protection.break.EnderIO.blockInventoryPanel.*                                                 # (default: true) BREAK Inventory Panel
 fe.protection.break.EnderIO.blockKillerJoe.*                                                      # (default: true) BREAK Killer Joe
 fe.protection.break.EnderIO.blockLightNode.*                                                      # (default: true) BREAK tile.blockLightNode.name
+fe.protection.break.EnderIO.blockLiquid_sunshine.*                                                # (default: true) BREAK Liquid Sunshine
 fe.protection.break.EnderIO.blockNutrient_distillation.*                                          # (default: true) BREAK Nutrient Distillation
 fe.protection.break.EnderIO.blockPaintedCarpet.*                                                  # (default: true) BREAK Painted Carpet
 fe.protection.break.EnderIO.blockPaintedDoubleSlab.*                                              # (default: true) BREAK tile.blockPaintedSlabDouble.name
@@ -1023,6 +1026,7 @@ fe.protection.break.IC2.fluidConstructionFoam.*                                 
 fe.protection.break.IC2.fluidCoolant.*                                                            # (default: true) BREAK fluidCoolant.name
 fe.protection.break.IC2.fluidDistilledWater.*                                                     # (default: true) BREAK fluidDistilledWater.name
 fe.protection.break.IC2.fluidHotCoolant.*                                                         # (default: true) BREAK fluidHotCoolant.name
+fe.protection.break.IC2.fluidHotWater.*                                                           # (default: true) BREAK fluidHotWater.name
 fe.protection.break.IC2.fluidPahoehoeLava.*                                                       # (default: true) BREAK fluidPahoehoeLava.name
 fe.protection.break.IC2.fluidSteam.*                                                              # (default: true) BREAK fluidSteam.name
 fe.protection.break.IC2.fluidSuperheatedSteam.*                                                   # (default: true) BREAK fluidSuperheatedSteam.name
@@ -1044,6 +1048,7 @@ fe.protection.break.ImmersiveEngineering.metalMultiblock.*                      
 fe.protection.break.ImmersiveEngineering.ore.*                                                    # (default: true) BREAK tile.ImmersiveEngineering.ore.name
 fe.protection.break.ImmersiveEngineering.stoneDecoration.*                                        # (default: true) BREAK tile.ImmersiveEngineering.stoneDecoration.name
 fe.protection.break.ImmersiveEngineering.stoneDevice.*                                            # (default: true) BREAK tile.ImmersiveEngineering.stoneDevice.name
+fe.protection.break.ImmersiveEngineering.stoneSlab.*                                              # (default: true) BREAK tile.ImmersiveEngineering.stoneSlab.name
 fe.protection.break.ImmersiveEngineering.storage.*                                                # (default: true) BREAK tile.ImmersiveEngineering.storage.name
 fe.protection.break.ImmersiveEngineering.storageSlab.*                                            # (default: true) BREAK tile.ImmersiveEngineering.storageSlab.name
 fe.protection.break.ImmersiveEngineering.treatedWood.*                                            # (default: true) BREAK tile.ImmersiveEngineering.treatedWood.name
@@ -1167,7 +1172,7 @@ fe.protection.break.OpenBlocks.village_highlighter.*                            
 fe.protection.break.OpenBlocks.xpbottler.*                                                        # (default: true) BREAK XP Bottler
 fe.protection.break.OpenBlocks.xpdrain.*                                                          # (default: true) BREAK XP Drain
 fe.protection.break.OpenBlocks.xpshower.*                                                         # (default: true) BREAK XP Shower
-fe.protection.break.OpenComputers.accessPoint.*                                                   # (default: true) BREAK ßcAccess Pointß7
+fe.protection.break.OpenComputers.accessPoint.*                                                   # (default: true) BREAK ÅòcAccess PointÅò7
 fe.protection.break.OpenComputers.adapter.*                                                       # (default: true) BREAK Adapter
 fe.protection.break.OpenComputers.assembler.*                                                     # (default: true) BREAK Electronics Assembler
 fe.protection.break.OpenComputers.cable.*                                                         # (default: true) BREAK Cable
@@ -1201,35 +1206,13 @@ fe.protection.break.OpenComputers.screen1.*                                     
 fe.protection.break.OpenComputers.screen2.*                                                       # (default: true) BREAK Screen (Tier 2)
 fe.protection.break.OpenComputers.screen3.*                                                       # (default: true) BREAK Screen (Tier 3)
 fe.protection.break.OpenComputers.serverRack.*                                                    # (default: true) BREAK Server Rack
-fe.protection.break.OpenComputers.switch.*                                                        # (default: true) BREAK ßcSwitchß7
+fe.protection.break.OpenComputers.switch.*                                                        # (default: true) BREAK ÅòcSwitchÅò7
 fe.protection.break.OpenComputers.transposer.*                                                    # (default: true) BREAK Transposer
 fe.protection.break.OpenComputers.waypoint.*                                                      # (default: true) BREAK Waypoint
 fe.protection.break.PowerConverters.converter.common.*                                            # (default: true) BREAK tile.powerconverters.common.name
 fe.protection.break.PowerConverters.converter.ic2.*                                               # (default: true) BREAK tile.powerconverters.ic2.name
 fe.protection.break.PowerConverters.converter.rf.*                                                # (default: true) BREAK tile.powerconverters.te.name
 fe.protection.break.PowerConverters.converter.steam.*                                             # (default: true) BREAK tile.powerconverters.steam.name
-fe.protection.break.PracticalLogistics.ChannelSelector.*                                          # (default: true) BREAK Channel Selector
-fe.protection.break.PracticalLogistics.Clock.*                                                    # (default: true) BREAK Clock
-fe.protection.break.PracticalLogistics.DataCable.*                                                # (default: true) BREAK Data Cable
-fe.protection.break.PracticalLogistics.DataEmitter.*                                              # (default: true) BREAK Data Emitter
-fe.protection.break.PracticalLogistics.DataModifier.*                                             # (default: true) BREAK Data Modifier
-fe.protection.break.PracticalLogistics.DataReceiver.*                                             # (default: true) BREAK Data Receiver
-fe.protection.break.PracticalLogistics.DisplayScreen.*                                            # (default: true) BREAK tile.DisplayScreen.name
-fe.protection.break.PracticalLogistics.EntityNode.*                                               # (default: true) BREAK Entity Node
-fe.protection.break.PracticalLogistics.FluidReader.*                                              # (default: true) BREAK Fluid Reader
-fe.protection.break.PracticalLogistics.Hammer.*                                                   # (default: true) BREAK Forging Hammer
-fe.protection.break.PracticalLogistics.Hammer_Air.*                                               # (default: true) BREAK Forging Hammer
-fe.protection.break.PracticalLogistics.HolographicDisplay.*                                       # (default: true) BREAK Holographic Display
-fe.protection.break.PracticalLogistics.InfoCreator.*                                              # (default: true) BREAK Info Creator
-fe.protection.break.PracticalLogistics.InfoReader.*                                               # (default: true) BREAK Info Reader
-fe.protection.break.PracticalLogistics.InventoryReader.*                                          # (default: true) BREAK Inventory Reader
-fe.protection.break.PracticalLogistics.ItemRouter.*                                               # (default: true) BREAK Item Router
-fe.protection.break.PracticalLogistics.LargeDisplayScreen.*                                       # (default: true) BREAK Large Display Screen
-fe.protection.break.PracticalLogistics.MultiCable.*                                               # (default: true) BREAK Channelled Cable
-fe.protection.break.PracticalLogistics.Node.*                                                     # (default: true) BREAK Node
-fe.protection.break.PracticalLogistics.RedstoneSignaller_OFF.*                                    # (default: true) BREAK Redstone Signaller
-fe.protection.break.PracticalLogistics.RedstoneSignaller_ON.*                                     # (default: true) BREAK Redstone Signaller
-fe.protection.break.PracticalLogistics.SapphireOre.*                                              # (default: true) BREAK Sapphire Ore
 fe.protection.break.ProjRed|Compatibility.projectred.compatibility.liqcondredmetal.*              # (default: true) BREAK Molten Conductive Redmetal
 fe.protection.break.ProjRed|Compatibility.projectred.compatibility.liqredstone.*                  # (default: true) BREAK Liquid Redstone
 fe.protection.break.ProjRed|Expansion.projectred.expansion.machine1.*                             # (default: true) BREAK tile.projectred.expansion.machine1.name
@@ -1444,6 +1427,12 @@ fe.protection.break.TConstruct.trap.barricade.jungle.*                          
 fe.protection.break.TConstruct.trap.barricade.oak.*                                               # (default: true) BREAK Oak Barricade
 fe.protection.break.TConstruct.trap.barricade.spruce.*                                            # (default: true) BREAK Spruce Barricade
 fe.protection.break.TConstruct.trap.punji.*                                                       # (default: true) BREAK Punji Stick
+fe.protection.break.TaintedMagic.BlockShadowOre.*                                                 # (default: true) BREAK Shadow Ore
+fe.protection.break.TaintedMagic.BlockShadowmetal.*                                               # (default: true) BREAK Block of Shadowmetal
+fe.protection.break.TaintedMagic.BlockWarpwoodLeaves.*                                            # (default: true) BREAK Warped Leaves
+fe.protection.break.TaintedMagic.BlockWarpwoodLog.*                                               # (default: true) BREAK Warpwood
+fe.protection.break.TaintedMagic.BlockWarpwoodPlanks.*                                            # (default: true) BREAK Warpwood Planks
+fe.protection.break.TaintedMagic.BlockWarpwoodSapling.*                                           # (default: true) BREAK Warpwood Sapling
 fe.protection.break.Thaumcraft.blockAiry.*                                                        # (default: true) BREAK tile.blockAiry.name
 fe.protection.break.Thaumcraft.blockAlchemyFurnace.*                                              # (default: true) BREAK Advanced Alchemical Furnace
 fe.protection.break.Thaumcraft.blockArcaneDoor.*                                                  # (default: true) BREAK Arcane Door
@@ -1609,6 +1598,7 @@ fe.protection.break.ThermalFoundation.Ore.*                                     
 fe.protection.break.ThermalFoundation.Storage.*                                                   # (default: true) BREAK tile.thermalfoundation.storage.name
 fe.protection.break.Translocator.craftingGrid.*                                                   # (default: true) BREAK Unnamed Block, report to mod author.
 fe.protection.break.Translocator.translocator.*                                                   # (default: true) BREAK tile.translocator.name
+fe.protection.break.TravellersGear.armorstand.*                                                   # (default: true) BREAK Armor Stand
 fe.protection.break.TwilightForest.tile.AuroraDoubleSlab.*                                        # (default: true) BREAK tile.AuroraDoubleSlab.name
 fe.protection.break.TwilightForest.tile.AuroraPillar.*                                            # (default: true) BREAK Aurora Pillar
 fe.protection.break.TwilightForest.tile.AuroraSlab.*                                              # (default: true) BREAK Aurora Slab
@@ -1665,6 +1655,13 @@ fe.protection.break.TwilightForest.tile.TrollVidr.*                             
 fe.protection.break.TwilightForest.tile.UberousSoil.*                                             # (default: true) BREAK Uberous Soil
 fe.protection.break.TwilightForest.tile.UnripeTrollBer.*                                          # (default: true) BREAK Unripe Trollber
 fe.protection.break.TwilightForest.tile.WispyCloud.*                                              # (default: true) BREAK Wispy Cloud
+fe.protection.break.WitchingGadgets.WG_CustomAir.*                                                # (default: true) BREAK Glimmer of Light
+fe.protection.break.WitchingGadgets.WG_MetalDevice.*                                              # (default: true) BREAK tile.WG_MetalDevice.name
+fe.protection.break.WitchingGadgets.WG_RoseVine.*                                                 # (default: true) BREAK Rose Vines
+fe.protection.break.WitchingGadgets.WG_StoneDevice.*                                              # (default: true) BREAK tile.WG_StoneDevice.name
+fe.protection.break.WitchingGadgets.WG_VoidWalkway.*                                              # (default: true) BREAK Void Walkway
+fe.protection.break.WitchingGadgets.WG_WallMirror.*                                               # (default: true) BREAK Mirror on the Wall
+fe.protection.break.WitchingGadgets.WG_WoodenDevice.*                                             # (default: true) BREAK tile.WG_WoodenDevice.name
 fe.protection.break.aobd.orebushArdite.*                                                          # (default: true) BREAK Ardite Oreberry Bush
 fe.protection.break.aobd.orebushCobalt.*                                                          # (default: true) BREAK Cobalt Oreberry Bush
 fe.protection.break.aobd.orebushDraconium.*                                                       # (default: true) BREAK Draconium Oreberry Bush
@@ -1673,6 +1670,7 @@ fe.protection.break.aobd.orebushMithril.*                                       
 fe.protection.break.aobd.orebushNickel.*                                                          # (default: true) BREAK Nickel Oreberry Bush
 fe.protection.break.aobd.orebushOsmium.*                                                          # (default: true) BREAK Osmium Oreberry Bush
 fe.protection.break.aobd.orebushPlatinum.*                                                        # (default: true) BREAK Platinum Oreberry Bush
+fe.protection.break.aobd.orebushShadow.*                                                          # (default: true) BREAK Shadow Oreberry Bush
 fe.protection.break.aobd.orebushSilver.*                                                          # (default: true) BREAK Silver Oreberry Bush
 fe.protection.break.aobd.orebushUranium.*                                                         # (default: true) BREAK Uranium Oreberry Bush
 fe.protection.break.appliedenergistics2.tile.BlockCableBus.*                                      # (default: true) BREAK AE2 Cable and/or Bus
@@ -1743,6 +1741,7 @@ fe.protection.break.appliedenergistics2.tile.SkyStoneSmallBrickSlabBlock.*      
 fe.protection.break.appliedenergistics2.tile.SkyStoneSmallBrickSlabBlock.double.*                 # (default: true) BREAK tile.appliedenergistics2.SkyStoneSmallBrickSlabBlock.double.name
 fe.protection.break.appliedenergistics2.tile.SkyStoneSmallBrickStairBlock.*                       # (default: true) BREAK Sky Stone Small Brick Stairs
 fe.protection.break.appliedenergistics2.tile.SkyStoneStairBlock.*                                 # (default: true) BREAK Sky Stone Stairs
+fe.protection.break.arcane_engineering.destabilizer.*                                             # (default: true) BREAK Node Destabilizer
 fe.protection.break.autopackager.packagerBlock.*                                                  # (default: true) BREAK Recipe Packager
 fe.protection.break.chisel.acacia_planks.*                                                        # (default: true) BREAK Acacia Wood Planks
 fe.protection.break.chisel.aluminum_stairs.0.*                                                    # (default: true) BREAK tile.chisel.aluminum_stairs.0.name
@@ -2517,29 +2516,82 @@ fe.protection.break.progressiveautomation.Planter.*                             
 fe.protection.break.progressiveautomation.PlanterDiamond.*                                        # (default: true) BREAK Diamond Planter
 fe.protection.break.progressiveautomation.PlanterIron.*                                           # (default: true) BREAK Iron Planter
 fe.protection.break.progressiveautomation.PlanterStone.*                                          # (default: true) BREAK Stone Planter
-fe.protection.break.props.blockFake.*                                                             # (default: true) BREAK Unnamed Block, report to mod author.
-fe.protection.break.props.blockProps.*                                                            # (default: true) BREAK Unnamed Block, report to mod author.
 fe.protection.break.qmunitylib.qmunitylib.blocks.multipart.*                                      # (default: true) BREAK tile.qmunitylib:multipart.name
-fe.protection.break.secretroomsmod.CamoDummy.*                                                    # (default: true) BREAK tile.CamoDummy.name
-fe.protection.break.secretroomsmod.CamoGate.*                                                     # (default: true) BREAK Secret Gate
-fe.protection.break.secretroomsmod.GhostBlock.*                                                   # (default: true) BREAK Ghost Block
-fe.protection.break.secretroomsmod.OneWayGlass.*                                                  # (default: true) BREAK One-Way Glass
-fe.protection.break.secretroomsmod.SecretCamoButton.*                                             # (default: true) BREAK tile.SecretButton.name
-fe.protection.break.secretroomsmod.SecretCamoLever.*                                              # (default: true) BREAK Secret lever
-fe.protection.break.secretroomsmod.SecretCamoRedstone.*                                           # (default: true) BREAK Secret Redstone
-fe.protection.break.secretroomsmod.SecretChest.*                                                  # (default: true) BREAK Secret Chest
-fe.protection.break.secretroomsmod.SecretHeavyPlate.*                                             # (default: true) BREAK Secret Weighted Plate (heavy)
-fe.protection.break.secretroomsmod.SecretIronDoorBlock.*                                          # (default: true) BREAK Secret Iron Door
-fe.protection.break.secretroomsmod.SecretLightDetector.*                                          # (default: true) BREAK Secret Light Detector
-fe.protection.break.secretroomsmod.SecretLightPlate.*                                             # (default: true) BREAK Secret Weighted Plate (light)
-fe.protection.break.secretroomsmod.SecretPlayerPlate.*                                            # (default: true) BREAK Secret Player Plate
-fe.protection.break.secretroomsmod.SecretPressurePlate.*                                          # (default: true) BREAK Secret Pressure Plate
-fe.protection.break.secretroomsmod.SecretStair.*                                                  # (default: true) BREAK Secret Stairs
-fe.protection.break.secretroomsmod.SecretTrapDoor.*                                               # (default: true) BREAK Secret TrapDoor
-fe.protection.break.secretroomsmod.SecretTrappedChest.*                                           # (default: true) BREAK Secret Trapped Chest
-fe.protection.break.secretroomsmod.SecretWoodenDoorBlock.*                                        # (default: true) BREAK Secret Wooden Door
-fe.protection.break.secretroomsmod.SolidAir.*                                                     # (default: true) BREAK Solid Air
-fe.protection.break.secretroomsmod.TorchLever.*                                                   # (default: true) BREAK Torch Lever
+fe.protection.break.rftools.activityProbeBlock.*                                                  # (default: true) BREAK Activity Probe
+fe.protection.break.rftools.biomeAbsorberBlock.*                                                  # (default: true) BREAK Biome Absorber
+fe.protection.break.rftools.blockProtectorBlock.*                                                 # (default: true) BREAK Block Protector
+fe.protection.break.rftools.builderBlock.*                                                        # (default: true) BREAK Builder Block
+fe.protection.break.rftools.counterBlock.*                                                        # (default: true) BREAK Counter
+fe.protection.break.rftools.crafterBlock1.*                                                       # (default: true) BREAK Crafter Tier 1
+fe.protection.break.rftools.crafterBlock2.*                                                       # (default: true) BREAK Crafter Tier 2
+fe.protection.break.rftools.crafterBlock3.*                                                       # (default: true) BREAK Crafter Tier 3
+fe.protection.break.rftools.creativeDimensionBuilderBlock.*                                       # (default: true) BREAK Creative Dimension Builder
+fe.protection.break.rftools.destinationAnalyzerBlock.*                                            # (default: true) BREAK Destination Analyzer
+fe.protection.break.rftools.dialingDeviceBlock.*                                                  # (default: true) BREAK Dialing Device
+fe.protection.break.rftools.dimensionBuilderBlock.*                                               # (default: true) BREAK Dimension Builder
+fe.protection.break.rftools.dimensionEditorBlock.*                                                # (default: true) BREAK Dimension Editor
+fe.protection.break.rftools.dimensionEnscriberBlock.*                                             # (default: true) BREAK Dimension Enscriber
+fe.protection.break.rftools.dimensionMonitorBlock.*                                               # (default: true) BREAK Dimension Monitor
+fe.protection.break.rftools.dimensionalBlankBlock.*                                               # (default: true) BREAK Dimensional Blank Block
+fe.protection.break.rftools.dimensionalBlock.*                                                    # (default: true) BREAK Dimensional Block
+fe.protection.break.rftools.dimensionalCross2Block.*                                              # (default: true) BREAK Dimensional Cross 2 Block
+fe.protection.break.rftools.dimensionalCrossBlock.*                                               # (default: true) BREAK Dimensional Cross Block
+fe.protection.break.rftools.dimensionalPattern1Block.*                                            # (default: true) BREAK Dimensional Pattern 1 Block
+fe.protection.break.rftools.dimensionalPattern2Block.*                                            # (default: true) BREAK Dimensional Pattern 2 Block
+fe.protection.break.rftools.dimensionalShardBlock.*                                               # (default: true) BREAK Dimensional Shard Ore
+fe.protection.break.rftools.dimensionalSmallBlocks.*                                              # (default: true) BREAK Dimensional Small Blocks
+fe.protection.break.rftools.dimletFilterBlock.*                                                   # (default: true) BREAK Dimlet Filter
+fe.protection.break.rftools.dimletResearcherBlock.*                                               # (default: true) BREAK Dimlet Researcher
+fe.protection.break.rftools.dimletScramblerBlock.*                                                # (default: true) BREAK Dimlet Scrambler
+fe.protection.break.rftools.dimletWorkbenchBlock.*                                                # (default: true) BREAK Dimlet Workbench
+fe.protection.break.rftools.enderMonitorBlock.*                                                   # (default: true) BREAK Ender Monitor
+fe.protection.break.rftools.endergenicBlock.*                                                     # (default: true) BREAK Endergenic Generator
+fe.protection.break.rftools.energyExtractorBlock.*                                                # (default: true) BREAK Energy Extractor
+fe.protection.break.rftools.environmentalControllerBlock.*                                        # (default: true) BREAK Environmental Controller
+fe.protection.break.rftools.invisibleShieldBlock.*                                                # (default: true) BREAK Invisible Shield Block
+fe.protection.break.rftools.itemFilterBlock.*                                                     # (default: true) BREAK Item Filter
+fe.protection.break.rftools.liquidAbsorberBlock.*                                                 # (default: true) BREAK Liquid Absorber
+fe.protection.break.rftools.liquidMonitorBlock.*                                                  # (default: true) BREAK Liquid Monitor
+fe.protection.break.rftools.machineBase.*                                                         # (default: true) BREAK Machine Base
+fe.protection.break.rftools.machineFrame.*                                                        # (default: true) BREAK Machine Frame
+fe.protection.break.rftools.machineInfuserBlock.*                                                 # (default: true) BREAK Machine Infuser
+fe.protection.break.rftools.materialAbsorberBlock.*                                               # (default: true) BREAK Material Absorber
+fe.protection.break.rftools.matterBeamerBlock.*                                                   # (default: true) BREAK Matter Beamer
+fe.protection.break.rftools.matterBoosterBlock.*                                                  # (default: true) BREAK Matter Booster
+fe.protection.break.rftools.matterReceiverBlock.*                                                 # (default: true) BREAK Matter Receiver
+fe.protection.break.rftools.matterTransmitterBlock.*                                              # (default: true) BREAK Matter Transmitter
+fe.protection.break.rftools.modularStorageBlock.*                                                 # (default: true) BREAK Modular Storage
+fe.protection.break.rftools.noTickInvisibleShieldBlock.*                                          # (default: true) BREAK Invisible Shield Block
+fe.protection.break.rftools.noTickolidShieldBlock.*                                               # (default: true) BREAK Solid Shield Block
+fe.protection.break.rftools.pearlInjectorBlock.*                                                  # (default: true) BREAK Pearl Injector
+fe.protection.break.rftools.proxyBlock.*                                                          # (default: true) BREAK Proxy Block
+fe.protection.break.rftools.redstoneReceiverBlock.*                                               # (default: true) BREAK Redstone Receiver
+fe.protection.break.rftools.redstoneTransmitterBlock.*                                            # (default: true) BREAK Redstone Transmitter
+fe.protection.break.rftools.relayBlock.*                                                          # (default: true) BREAK Power Relay
+fe.protection.break.rftools.remoteStorageBlock.*                                                  # (default: true) BREAK Remote Storage
+fe.protection.break.rftools.rfMonitorBlock.*                                                      # (default: true) BREAK RF Monitor
+fe.protection.break.rftools.screenBlock.*                                                         # (default: true) BREAK Screen
+fe.protection.break.rftools.screenControllerBlock.*                                               # (default: true) BREAK Screen Controller
+fe.protection.break.rftools.screenHitBlock.*                                                      # (default: true) BREAK Screen
+fe.protection.break.rftools.securityManagerBlock.*                                                # (default: true) BREAK Security Manager
+fe.protection.break.rftools.sequencerBlock.*                                                      # (default: true) BREAK Sequencer
+fe.protection.break.rftools.shieldBlock.*                                                         # (default: true) BREAK Shield Projector Tier 1
+fe.protection.break.rftools.shieldBlock2.*                                                        # (default: true) BREAK Shield Projector Tier 2
+fe.protection.break.rftools.shieldBlock3.*                                                        # (default: true) BREAK Shield Projector Tier 3
+fe.protection.break.rftools.shieldBlock4.*                                                        # (default: true) BREAK Shield Projector Tier 4
+fe.protection.break.rftools.shieldTemplateBlock.*                                                 # (default: true) BREAK Shield Template
+fe.protection.break.rftools.simpleDialerBlock.*                                                   # (default: true) BREAK Simple Dialer
+fe.protection.break.rftools.solidShieldBlock.*                                                    # (default: true) BREAK Solid Shield Block
+fe.protection.break.rftools.spaceChamberBlock.*                                                   # (default: true) BREAK Space Chamber Corner Block
+fe.protection.break.rftools.spaceChamberControllerBlock.*                                         # (default: true) BREAK Space Chamber Controller Block
+fe.protection.break.rftools.spaceProjectorBlock.*                                                 # (default: true) BREAK Space Projector Block (WIP)
+fe.protection.break.rftools.spawnerBlock.*                                                        # (default: true) BREAK Spawner
+fe.protection.break.rftools.storageScannerBlock.*                                                 # (default: true) BREAK Storage Scanner
+fe.protection.break.rftools.supportBlock.*                                                        # (default: true) BREAK Support Block
+fe.protection.break.rftools.timeAbsorberBlock.*                                                   # (default: true) BREAK Time Absorber
+fe.protection.break.rftools.timerBlock.*                                                          # (default: true) BREAK Timer
+fe.protection.break.rftools.volcanicBlock.*                                                       # (default: true) BREAK Volcanic Block
+fe.protection.break.rftools.volcanicCoreBlock.*                                                   # (default: true) BREAK Volcanic Core
 fe.protection.break.streams.river/ice/-1/-2.*                                                     # (default: true) BREAK Ice
 fe.protection.break.streams.river/ice/-1/2.*                                                      # (default: true) BREAK Ice
 fe.protection.break.streams.river/ice/-2/-1.*                                                     # (default: true) BREAK Ice
@@ -2594,6 +2646,59 @@ fe.protection.break.streams.river/tile.water/2/2.*                              
 fe.protection.break.supercraftingframe.supercraftingframe.*                                       # (default: true) BREAK Super Crafting Frame
 fe.protection.break.supercraftingframe.superitemframe.*                                           # (default: true) BREAK Super Item Frame
 fe.protection.break.supercraftingframe.supervoidframe.*                                           # (default: true) BREAK Super Void Frame
+fe.protection.break.thaumicbases.advAlchFurnace.*                                                 # (default: true) BREAK Advanced Alchemical Furnace
+fe.protection.break.thaumicbases.ashroom.*                                                        # (default: true) BREAK Primal Shroom
+fe.protection.break.thaumicbases.aurelia.*                                                        # (default: true) BREAK Aurelia
+fe.protection.break.thaumicbases.aureliaPetal.*                                                   # (default: true) BREAK Aurelia Petal
+fe.protection.break.thaumicbases.blockSalisMundus.*                                               # (default: true) BREAK Salis Mundus Block
+fe.protection.break.thaumicbases.brazier.*                                                        # (default: true) BREAK Thaumaturge's Brazier
+fe.protection.break.thaumicbases.briar.*                                                          # (default: true) BREAK Briar
+fe.protection.break.thaumicbases.campfire.*                                                       # (default: true) BREAK Thaumaturge's Campfire
+fe.protection.break.thaumicbases.cryingObsidian.*                                                 # (default: true) BREAK Crying Obsidian
+fe.protection.break.thaumicbases.crystalBlock.*                                                   # (default: true) BREAK tile.crystalBlock.name
+fe.protection.break.thaumicbases.crystalSlab.*                                                    # (default: true) BREAK tile.tb.crystalslab..name
+fe.protection.break.thaumicbases.crystalSlab_full.*                                               # (default: true) BREAK tile.tb.crystalslab..name
+fe.protection.break.thaumicbases.eldritchArk.*                                                    # (default: true) BREAK Gold Etched Obsidian
+fe.protection.break.thaumicbases.enderPlanks.*                                                    # (default: true) BREAK Ender Wood Planks
+fe.protection.break.thaumicbases.entityDeconstructor.*                                            # (default: true) BREAK Entity Deconstructor
+fe.protection.break.thaumicbases.flaxium.*                                                        # (default: true) BREAK Fluxium
+fe.protection.break.thaumicbases.genLeaves.*                                                      # (default: true) BREAK Unnamed Block, report to mod author.
+fe.protection.break.thaumicbases.genLogs.*                                                        # (default: true) BREAK Unnamed Block, report to mod author.
+fe.protection.break.thaumicbases.genericSlab.*                                                    # (default: true) BREAK tile.tb.slab..name
+fe.protection.break.thaumicbases.genericSlab_full.*                                               # (default: true) BREAK tile.tb.slab..name
+fe.protection.break.thaumicbases.glieonia.*                                                       # (default: true) BREAK Glieonia Crop
+fe.protection.break.thaumicbases.goldenOakSapling.*                                               # (default: true) BREAK Unnamed Block, report to mod author.
+fe.protection.break.thaumicbases.ironGreatwood.*                                                  # (default: true) BREAK Iron Framed Greatwood
+fe.protection.break.thaumicbases.knose.*                                                          # (default: true) BREAK Rosa Mysteria
+fe.protection.break.thaumicbases.lazullia.*                                                       # (default: true) BREAK Lazullia Crop
+fe.protection.break.thaumicbases.lucrite.*                                                        # (default: true) BREAK Lucrite Crop
+fe.protection.break.thaumicbases.metalleat.*                                                      # (default: true) BREAK Metalleat Crop
+fe.protection.break.thaumicbases.nodeLinker.*                                                     # (default: true) BREAK Node Linking Device
+fe.protection.break.thaumicbases.nodeManipulator.*                                                # (default: true) BREAK Node Manipulator
+fe.protection.break.thaumicbases.oldBrick.*                                                       # (default: true) BREAK Ancient Bricks
+fe.protection.break.thaumicbases.oldCobble.*                                                      # (default: true) BREAK Ancient Cobblestone
+fe.protection.break.thaumicbases.oldCobbleMossy.*                                                 # (default: true) BREAK Ancient Mossy Cobblestone
+fe.protection.break.thaumicbases.oldDiamond.*                                                     # (default: true) BREAK Ancient Diamond Block
+fe.protection.break.thaumicbases.oldGold.*                                                        # (default: true) BREAK Ancient Gold Block
+fe.protection.break.thaumicbases.oldGravel.*                                                      # (default: true) BREAK Ancient Gravel
+fe.protection.break.thaumicbases.oldIron.*                                                        # (default: true) BREAK Ancient Iron Block
+fe.protection.break.thaumicbases.oldLapis.*                                                       # (default: true) BREAK Ancient Lapis Lazuli Block
+fe.protection.break.thaumicbases.overchanter.*                                                    # (default: true) BREAK Overchanting Table
+fe.protection.break.thaumicbases.plax.*                                                           # (default: true) BREAK Plax Crop
+fe.protection.break.thaumicbases.pyrofluid.*                                                      # (default: true) BREAK Pyrofluid
+fe.protection.break.thaumicbases.quicksilverBlock.*                                               # (default: true) BREAK Block of Quicksilver
+fe.protection.break.thaumicbases.quicksilverBrick.*                                               # (default: true) BREAK Quicksilver Brick
+fe.protection.break.thaumicbases.rainbowCactus.*                                                  # (default: true) BREAK Rainbow Cacti
+fe.protection.break.thaumicbases.redlonStem.*                                                     # (default: true) BREAK Redlon Stem
+fe.protection.break.thaumicbases.relocator.*                                                      # (default: true) BREAK Thaumic Relocator
+fe.protection.break.thaumicbases.spike.*                                                          # (default: true) BREAK tile.spike.name
+fe.protection.break.thaumicbases.sweed.*                                                          # (default: true) BREAK Sweed Crop
+fe.protection.break.thaumicbases.thaumicAnvil.*                                                   # (default: true) BREAK tile.thaumicAnvil.name
+fe.protection.break.thaumicbases.thauminiteBlock.*                                                # (default: true) BREAK Block of Thauminite
+fe.protection.break.thaumicbases.tobacco.*                                                        # (default: true) BREAK Tobacco Crop
+fe.protection.break.thaumicbases.voidAnvil.*                                                      # (default: true) BREAK tile.voidAnvil.name
+fe.protection.break.thaumicbases.voidBlock.*                                                      # (default: true) BREAK Void metal Block
+fe.protection.break.thaumicbases.voidPlant.*                                                      # (default: true) BREAK Void Crop
 fe.protection.break.thaumicenergistics.thaumicenergistics.block.arcane.assembler.*                # (default: true) BREAK Arcane Assembler
 fe.protection.break.thaumicenergistics.thaumicenergistics.block.distillation.encoder.*            # (default: true) BREAK Distillation Pattern Encoder
 fe.protection.break.thaumicenergistics.thaumicenergistics.block.essentia.cell.workbench.*         # (default: true) BREAK Essentia Cell Workbench
@@ -3297,7 +3402,7 @@ fe.protection.explode.Botania.tinyPotato.*                                      
 fe.protection.explode.Botania.turntable.*                                                         # (default: true) EXPLODE tile.turntable.name
 fe.protection.explode.Botania.unstableBlock.*                                                     # (default: true) EXPLODE tile.unstableBlock.name
 fe.protection.explode.BuildCraft|Builders.architectBlock.*                                        # (default: true) EXPLODE Architect Table
-fe.protection.explode.BuildCraft|Builders.builderBlock.*                                          # (default: true) EXPLODE Builder
+fe.protection.explode.BuildCraft|Builders.builderBlock.*                                          # (default: true) EXPLODE Builder Block
 fe.protection.explode.BuildCraft|Builders.constructionMarkerBlock.*                               # (default: true) EXPLODE Construction Mark
 fe.protection.explode.BuildCraft|Builders.fillerBlock.*                                           # (default: true) EXPLODE Filler
 fe.protection.explode.BuildCraft|Builders.frameBlock.*                                            # (default: true) EXPLODE Frame
@@ -3467,6 +3572,8 @@ fe.protection.explode.EnderIO.blockAttractor.*                                  
 fe.protection.explode.EnderIO.blockBuffer.*                                                       # (default: true) EXPLODE tile.blockBuffer.name
 fe.protection.explode.EnderIO.blockCapBank.*                                                      # (default: true) EXPLODE tile.blockCapBank.name
 fe.protection.explode.EnderIO.blockCapacitorBank.*                                                # (default: true) EXPLODE Capacitor Bank (Deprecated)
+fe.protection.explode.EnderIO.blockCloud_seed.*                                                   # (default: true) EXPLODE Cloud Seed
+fe.protection.explode.EnderIO.blockCloud_seed_concentrated.*                                      # (default: true) EXPLODE Concentrated Cloud Seed
 fe.protection.explode.EnderIO.blockCombustionGenerator.*                                          # (default: true) EXPLODE Combustion Generator
 fe.protection.explode.EnderIO.blockConduitBundle.*                                                # (default: true) EXPLODE Conduit Connector
 fe.protection.explode.EnderIO.blockConduitFacade.*                                                # (default: true) EXPLODE tile.blockConduitFacade.name
@@ -3491,6 +3598,7 @@ fe.protection.explode.EnderIO.blockInhibitorObelisk.*                           
 fe.protection.explode.EnderIO.blockInventoryPanel.*                                               # (default: true) EXPLODE Inventory Panel
 fe.protection.explode.EnderIO.blockKillerJoe.*                                                    # (default: true) EXPLODE Killer Joe
 fe.protection.explode.EnderIO.blockLightNode.*                                                    # (default: true) EXPLODE tile.blockLightNode.name
+fe.protection.explode.EnderIO.blockLiquid_sunshine.*                                              # (default: true) EXPLODE Liquid Sunshine
 fe.protection.explode.EnderIO.blockNutrient_distillation.*                                        # (default: true) EXPLODE Nutrient Distillation
 fe.protection.explode.EnderIO.blockPaintedCarpet.*                                                # (default: true) EXPLODE Painted Carpet
 fe.protection.explode.EnderIO.blockPaintedDoubleSlab.*                                            # (default: true) EXPLODE tile.blockPaintedSlabDouble.name
@@ -3752,6 +3860,7 @@ fe.protection.explode.IC2.fluidConstructionFoam.*                               
 fe.protection.explode.IC2.fluidCoolant.*                                                          # (default: true) EXPLODE fluidCoolant.name
 fe.protection.explode.IC2.fluidDistilledWater.*                                                   # (default: true) EXPLODE fluidDistilledWater.name
 fe.protection.explode.IC2.fluidHotCoolant.*                                                       # (default: true) EXPLODE fluidHotCoolant.name
+fe.protection.explode.IC2.fluidHotWater.*                                                         # (default: true) EXPLODE fluidHotWater.name
 fe.protection.explode.IC2.fluidPahoehoeLava.*                                                     # (default: true) EXPLODE fluidPahoehoeLava.name
 fe.protection.explode.IC2.fluidSteam.*                                                            # (default: true) EXPLODE fluidSteam.name
 fe.protection.explode.IC2.fluidSuperheatedSteam.*                                                 # (default: true) EXPLODE fluidSuperheatedSteam.name
@@ -3773,6 +3882,7 @@ fe.protection.explode.ImmersiveEngineering.metalMultiblock.*                    
 fe.protection.explode.ImmersiveEngineering.ore.*                                                  # (default: true) EXPLODE tile.ImmersiveEngineering.ore.name
 fe.protection.explode.ImmersiveEngineering.stoneDecoration.*                                      # (default: true) EXPLODE tile.ImmersiveEngineering.stoneDecoration.name
 fe.protection.explode.ImmersiveEngineering.stoneDevice.*                                          # (default: true) EXPLODE tile.ImmersiveEngineering.stoneDevice.name
+fe.protection.explode.ImmersiveEngineering.stoneSlab.*                                            # (default: true) EXPLODE tile.ImmersiveEngineering.stoneSlab.name
 fe.protection.explode.ImmersiveEngineering.storage.*                                              # (default: true) EXPLODE tile.ImmersiveEngineering.storage.name
 fe.protection.explode.ImmersiveEngineering.storageSlab.*                                          # (default: true) EXPLODE tile.ImmersiveEngineering.storageSlab.name
 fe.protection.explode.ImmersiveEngineering.treatedWood.*                                          # (default: true) EXPLODE tile.ImmersiveEngineering.treatedWood.name
@@ -3896,7 +4006,7 @@ fe.protection.explode.OpenBlocks.village_highlighter.*                          
 fe.protection.explode.OpenBlocks.xpbottler.*                                                      # (default: true) EXPLODE XP Bottler
 fe.protection.explode.OpenBlocks.xpdrain.*                                                        # (default: true) EXPLODE XP Drain
 fe.protection.explode.OpenBlocks.xpshower.*                                                       # (default: true) EXPLODE XP Shower
-fe.protection.explode.OpenComputers.accessPoint.*                                                 # (default: true) EXPLODE ßcAccess Pointß7
+fe.protection.explode.OpenComputers.accessPoint.*                                                 # (default: true) EXPLODE ÅòcAccess PointÅò7
 fe.protection.explode.OpenComputers.adapter.*                                                     # (default: true) EXPLODE Adapter
 fe.protection.explode.OpenComputers.assembler.*                                                   # (default: true) EXPLODE Electronics Assembler
 fe.protection.explode.OpenComputers.cable.*                                                       # (default: true) EXPLODE Cable
@@ -3930,35 +4040,13 @@ fe.protection.explode.OpenComputers.screen1.*                                   
 fe.protection.explode.OpenComputers.screen2.*                                                     # (default: true) EXPLODE Screen (Tier 2)
 fe.protection.explode.OpenComputers.screen3.*                                                     # (default: true) EXPLODE Screen (Tier 3)
 fe.protection.explode.OpenComputers.serverRack.*                                                  # (default: true) EXPLODE Server Rack
-fe.protection.explode.OpenComputers.switch.*                                                      # (default: true) EXPLODE ßcSwitchß7
+fe.protection.explode.OpenComputers.switch.*                                                      # (default: true) EXPLODE ÅòcSwitchÅò7
 fe.protection.explode.OpenComputers.transposer.*                                                  # (default: true) EXPLODE Transposer
 fe.protection.explode.OpenComputers.waypoint.*                                                    # (default: true) EXPLODE Waypoint
 fe.protection.explode.PowerConverters.converter.common.*                                          # (default: true) EXPLODE tile.powerconverters.common.name
 fe.protection.explode.PowerConverters.converter.ic2.*                                             # (default: true) EXPLODE tile.powerconverters.ic2.name
 fe.protection.explode.PowerConverters.converter.rf.*                                              # (default: true) EXPLODE tile.powerconverters.te.name
 fe.protection.explode.PowerConverters.converter.steam.*                                           # (default: true) EXPLODE tile.powerconverters.steam.name
-fe.protection.explode.PracticalLogistics.ChannelSelector.*                                        # (default: true) EXPLODE Channel Selector
-fe.protection.explode.PracticalLogistics.Clock.*                                                  # (default: true) EXPLODE Clock
-fe.protection.explode.PracticalLogistics.DataCable.*                                              # (default: true) EXPLODE Data Cable
-fe.protection.explode.PracticalLogistics.DataEmitter.*                                            # (default: true) EXPLODE Data Emitter
-fe.protection.explode.PracticalLogistics.DataModifier.*                                           # (default: true) EXPLODE Data Modifier
-fe.protection.explode.PracticalLogistics.DataReceiver.*                                           # (default: true) EXPLODE Data Receiver
-fe.protection.explode.PracticalLogistics.DisplayScreen.*                                          # (default: true) EXPLODE tile.DisplayScreen.name
-fe.protection.explode.PracticalLogistics.EntityNode.*                                             # (default: true) EXPLODE Entity Node
-fe.protection.explode.PracticalLogistics.FluidReader.*                                            # (default: true) EXPLODE Fluid Reader
-fe.protection.explode.PracticalLogistics.Hammer.*                                                 # (default: true) EXPLODE Forging Hammer
-fe.protection.explode.PracticalLogistics.Hammer_Air.*                                             # (default: true) EXPLODE Forging Hammer
-fe.protection.explode.PracticalLogistics.HolographicDisplay.*                                     # (default: true) EXPLODE Holographic Display
-fe.protection.explode.PracticalLogistics.InfoCreator.*                                            # (default: true) EXPLODE Info Creator
-fe.protection.explode.PracticalLogistics.InfoReader.*                                             # (default: true) EXPLODE Info Reader
-fe.protection.explode.PracticalLogistics.InventoryReader.*                                        # (default: true) EXPLODE Inventory Reader
-fe.protection.explode.PracticalLogistics.ItemRouter.*                                             # (default: true) EXPLODE Item Router
-fe.protection.explode.PracticalLogistics.LargeDisplayScreen.*                                     # (default: true) EXPLODE Large Display Screen
-fe.protection.explode.PracticalLogistics.MultiCable.*                                             # (default: true) EXPLODE Channelled Cable
-fe.protection.explode.PracticalLogistics.Node.*                                                   # (default: true) EXPLODE Node
-fe.protection.explode.PracticalLogistics.RedstoneSignaller_OFF.*                                  # (default: true) EXPLODE Redstone Signaller
-fe.protection.explode.PracticalLogistics.RedstoneSignaller_ON.*                                   # (default: true) EXPLODE Redstone Signaller
-fe.protection.explode.PracticalLogistics.SapphireOre.*                                            # (default: true) EXPLODE Sapphire Ore
 fe.protection.explode.ProjRed|Compatibility.projectred.compatibility.liqcondredmetal.*            # (default: true) EXPLODE Molten Conductive Redmetal
 fe.protection.explode.ProjRed|Compatibility.projectred.compatibility.liqredstone.*                # (default: true) EXPLODE Liquid Redstone
 fe.protection.explode.ProjRed|Expansion.projectred.expansion.machine1.*                           # (default: true) EXPLODE tile.projectred.expansion.machine1.name
@@ -4173,6 +4261,12 @@ fe.protection.explode.TConstruct.trap.barricade.jungle.*                        
 fe.protection.explode.TConstruct.trap.barricade.oak.*                                             # (default: true) EXPLODE Oak Barricade
 fe.protection.explode.TConstruct.trap.barricade.spruce.*                                          # (default: true) EXPLODE Spruce Barricade
 fe.protection.explode.TConstruct.trap.punji.*                                                     # (default: true) EXPLODE Punji Stick
+fe.protection.explode.TaintedMagic.BlockShadowOre.*                                               # (default: true) EXPLODE Shadow Ore
+fe.protection.explode.TaintedMagic.BlockShadowmetal.*                                             # (default: true) EXPLODE Block of Shadowmetal
+fe.protection.explode.TaintedMagic.BlockWarpwoodLeaves.*                                          # (default: true) EXPLODE Warped Leaves
+fe.protection.explode.TaintedMagic.BlockWarpwoodLog.*                                             # (default: true) EXPLODE Warpwood
+fe.protection.explode.TaintedMagic.BlockWarpwoodPlanks.*                                          # (default: true) EXPLODE Warpwood Planks
+fe.protection.explode.TaintedMagic.BlockWarpwoodSapling.*                                         # (default: true) EXPLODE Warpwood Sapling
 fe.protection.explode.Thaumcraft.blockAiry.*                                                      # (default: true) EXPLODE tile.blockAiry.name
 fe.protection.explode.Thaumcraft.blockAlchemyFurnace.*                                            # (default: true) EXPLODE Advanced Alchemical Furnace
 fe.protection.explode.Thaumcraft.blockArcaneDoor.*                                                # (default: true) EXPLODE Arcane Door
@@ -4338,6 +4432,7 @@ fe.protection.explode.ThermalFoundation.Ore.*                                   
 fe.protection.explode.ThermalFoundation.Storage.*                                                 # (default: true) EXPLODE tile.thermalfoundation.storage.name
 fe.protection.explode.Translocator.craftingGrid.*                                                 # (default: true) EXPLODE Unnamed Block, report to mod author.
 fe.protection.explode.Translocator.translocator.*                                                 # (default: true) EXPLODE tile.translocator.name
+fe.protection.explode.TravellersGear.armorstand.*                                                 # (default: true) EXPLODE Armor Stand
 fe.protection.explode.TwilightForest.tile.AuroraDoubleSlab.*                                      # (default: true) EXPLODE tile.AuroraDoubleSlab.name
 fe.protection.explode.TwilightForest.tile.AuroraPillar.*                                          # (default: true) EXPLODE Aurora Pillar
 fe.protection.explode.TwilightForest.tile.AuroraSlab.*                                            # (default: true) EXPLODE Aurora Slab
@@ -4394,6 +4489,13 @@ fe.protection.explode.TwilightForest.tile.TrollVidr.*                           
 fe.protection.explode.TwilightForest.tile.UberousSoil.*                                           # (default: true) EXPLODE Uberous Soil
 fe.protection.explode.TwilightForest.tile.UnripeTrollBer.*                                        # (default: true) EXPLODE Unripe Trollber
 fe.protection.explode.TwilightForest.tile.WispyCloud.*                                            # (default: true) EXPLODE Wispy Cloud
+fe.protection.explode.WitchingGadgets.WG_CustomAir.*                                              # (default: true) EXPLODE Glimmer of Light
+fe.protection.explode.WitchingGadgets.WG_MetalDevice.*                                            # (default: true) EXPLODE tile.WG_MetalDevice.name
+fe.protection.explode.WitchingGadgets.WG_RoseVine.*                                               # (default: true) EXPLODE Rose Vines
+fe.protection.explode.WitchingGadgets.WG_StoneDevice.*                                            # (default: true) EXPLODE tile.WG_StoneDevice.name
+fe.protection.explode.WitchingGadgets.WG_VoidWalkway.*                                            # (default: true) EXPLODE Void Walkway
+fe.protection.explode.WitchingGadgets.WG_WallMirror.*                                             # (default: true) EXPLODE Mirror on the Wall
+fe.protection.explode.WitchingGadgets.WG_WoodenDevice.*                                           # (default: true) EXPLODE tile.WG_WoodenDevice.name
 fe.protection.explode.aobd.orebushArdite.*                                                        # (default: true) EXPLODE Ardite Oreberry Bush
 fe.protection.explode.aobd.orebushCobalt.*                                                        # (default: true) EXPLODE Cobalt Oreberry Bush
 fe.protection.explode.aobd.orebushDraconium.*                                                     # (default: true) EXPLODE Draconium Oreberry Bush
@@ -4402,6 +4504,7 @@ fe.protection.explode.aobd.orebushMithril.*                                     
 fe.protection.explode.aobd.orebushNickel.*                                                        # (default: true) EXPLODE Nickel Oreberry Bush
 fe.protection.explode.aobd.orebushOsmium.*                                                        # (default: true) EXPLODE Osmium Oreberry Bush
 fe.protection.explode.aobd.orebushPlatinum.*                                                      # (default: true) EXPLODE Platinum Oreberry Bush
+fe.protection.explode.aobd.orebushShadow.*                                                        # (default: true) EXPLODE Shadow Oreberry Bush
 fe.protection.explode.aobd.orebushSilver.*                                                        # (default: true) EXPLODE Silver Oreberry Bush
 fe.protection.explode.aobd.orebushUranium.*                                                       # (default: true) EXPLODE Uranium Oreberry Bush
 fe.protection.explode.appliedenergistics2.tile.BlockCableBus.*                                    # (default: true) EXPLODE AE2 Cable and/or Bus
@@ -4472,6 +4575,7 @@ fe.protection.explode.appliedenergistics2.tile.SkyStoneSmallBrickSlabBlock.*    
 fe.protection.explode.appliedenergistics2.tile.SkyStoneSmallBrickSlabBlock.double.*               # (default: true) EXPLODE tile.appliedenergistics2.SkyStoneSmallBrickSlabBlock.double.name
 fe.protection.explode.appliedenergistics2.tile.SkyStoneSmallBrickStairBlock.*                     # (default: true) EXPLODE Sky Stone Small Brick Stairs
 fe.protection.explode.appliedenergistics2.tile.SkyStoneStairBlock.*                               # (default: true) EXPLODE Sky Stone Stairs
+fe.protection.explode.arcane_engineering.destabilizer.*                                           # (default: true) EXPLODE Node Destabilizer
 fe.protection.explode.autopackager.packagerBlock.*                                                # (default: true) EXPLODE Recipe Packager
 fe.protection.explode.chisel.acacia_planks.*                                                      # (default: true) EXPLODE Acacia Wood Planks
 fe.protection.explode.chisel.aluminum_stairs.0.*                                                  # (default: true) EXPLODE tile.chisel.aluminum_stairs.0.name
@@ -5246,29 +5350,82 @@ fe.protection.explode.progressiveautomation.Planter.*                           
 fe.protection.explode.progressiveautomation.PlanterDiamond.*                                      # (default: true) EXPLODE Diamond Planter
 fe.protection.explode.progressiveautomation.PlanterIron.*                                         # (default: true) EXPLODE Iron Planter
 fe.protection.explode.progressiveautomation.PlanterStone.*                                        # (default: true) EXPLODE Stone Planter
-fe.protection.explode.props.blockFake.*                                                           # (default: true) EXPLODE Unnamed Block, report to mod author.
-fe.protection.explode.props.blockProps.*                                                          # (default: true) EXPLODE Unnamed Block, report to mod author.
 fe.protection.explode.qmunitylib.qmunitylib.blocks.multipart.*                                    # (default: true) EXPLODE tile.qmunitylib:multipart.name
-fe.protection.explode.secretroomsmod.CamoDummy.*                                                  # (default: true) EXPLODE tile.CamoDummy.name
-fe.protection.explode.secretroomsmod.CamoGate.*                                                   # (default: true) EXPLODE Secret Gate
-fe.protection.explode.secretroomsmod.GhostBlock.*                                                 # (default: true) EXPLODE Ghost Block
-fe.protection.explode.secretroomsmod.OneWayGlass.*                                                # (default: true) EXPLODE One-Way Glass
-fe.protection.explode.secretroomsmod.SecretCamoButton.*                                           # (default: true) EXPLODE tile.SecretButton.name
-fe.protection.explode.secretroomsmod.SecretCamoLever.*                                            # (default: true) EXPLODE Secret lever
-fe.protection.explode.secretroomsmod.SecretCamoRedstone.*                                         # (default: true) EXPLODE Secret Redstone
-fe.protection.explode.secretroomsmod.SecretChest.*                                                # (default: true) EXPLODE Secret Chest
-fe.protection.explode.secretroomsmod.SecretHeavyPlate.*                                           # (default: true) EXPLODE Secret Weighted Plate (heavy)
-fe.protection.explode.secretroomsmod.SecretIronDoorBlock.*                                        # (default: true) EXPLODE Secret Iron Door
-fe.protection.explode.secretroomsmod.SecretLightDetector.*                                        # (default: true) EXPLODE Secret Light Detector
-fe.protection.explode.secretroomsmod.SecretLightPlate.*                                           # (default: true) EXPLODE Secret Weighted Plate (light)
-fe.protection.explode.secretroomsmod.SecretPlayerPlate.*                                          # (default: true) EXPLODE Secret Player Plate
-fe.protection.explode.secretroomsmod.SecretPressurePlate.*                                        # (default: true) EXPLODE Secret Pressure Plate
-fe.protection.explode.secretroomsmod.SecretStair.*                                                # (default: true) EXPLODE Secret Stairs
-fe.protection.explode.secretroomsmod.SecretTrapDoor.*                                             # (default: true) EXPLODE Secret TrapDoor
-fe.protection.explode.secretroomsmod.SecretTrappedChest.*                                         # (default: true) EXPLODE Secret Trapped Chest
-fe.protection.explode.secretroomsmod.SecretWoodenDoorBlock.*                                      # (default: true) EXPLODE Secret Wooden Door
-fe.protection.explode.secretroomsmod.SolidAir.*                                                   # (default: true) EXPLODE Solid Air
-fe.protection.explode.secretroomsmod.TorchLever.*                                                 # (default: true) EXPLODE Torch Lever
+fe.protection.explode.rftools.activityProbeBlock.*                                                # (default: true) EXPLODE Activity Probe
+fe.protection.explode.rftools.biomeAbsorberBlock.*                                                # (default: true) EXPLODE Biome Absorber
+fe.protection.explode.rftools.blockProtectorBlock.*                                               # (default: true) EXPLODE Block Protector
+fe.protection.explode.rftools.builderBlock.*                                                      # (default: true) EXPLODE Builder Block
+fe.protection.explode.rftools.counterBlock.*                                                      # (default: true) EXPLODE Counter
+fe.protection.explode.rftools.crafterBlock1.*                                                     # (default: true) EXPLODE Crafter Tier 1
+fe.protection.explode.rftools.crafterBlock2.*                                                     # (default: true) EXPLODE Crafter Tier 2
+fe.protection.explode.rftools.crafterBlock3.*                                                     # (default: true) EXPLODE Crafter Tier 3
+fe.protection.explode.rftools.creativeDimensionBuilderBlock.*                                     # (default: true) EXPLODE Creative Dimension Builder
+fe.protection.explode.rftools.destinationAnalyzerBlock.*                                          # (default: true) EXPLODE Destination Analyzer
+fe.protection.explode.rftools.dialingDeviceBlock.*                                                # (default: true) EXPLODE Dialing Device
+fe.protection.explode.rftools.dimensionBuilderBlock.*                                             # (default: true) EXPLODE Dimension Builder
+fe.protection.explode.rftools.dimensionEditorBlock.*                                              # (default: true) EXPLODE Dimension Editor
+fe.protection.explode.rftools.dimensionEnscriberBlock.*                                           # (default: true) EXPLODE Dimension Enscriber
+fe.protection.explode.rftools.dimensionMonitorBlock.*                                             # (default: true) EXPLODE Dimension Monitor
+fe.protection.explode.rftools.dimensionalBlankBlock.*                                             # (default: true) EXPLODE Dimensional Blank Block
+fe.protection.explode.rftools.dimensionalBlock.*                                                  # (default: true) EXPLODE Dimensional Block
+fe.protection.explode.rftools.dimensionalCross2Block.*                                            # (default: true) EXPLODE Dimensional Cross 2 Block
+fe.protection.explode.rftools.dimensionalCrossBlock.*                                             # (default: true) EXPLODE Dimensional Cross Block
+fe.protection.explode.rftools.dimensionalPattern1Block.*                                          # (default: true) EXPLODE Dimensional Pattern 1 Block
+fe.protection.explode.rftools.dimensionalPattern2Block.*                                          # (default: true) EXPLODE Dimensional Pattern 2 Block
+fe.protection.explode.rftools.dimensionalShardBlock.*                                             # (default: true) EXPLODE Dimensional Shard Ore
+fe.protection.explode.rftools.dimensionalSmallBlocks.*                                            # (default: true) EXPLODE Dimensional Small Blocks
+fe.protection.explode.rftools.dimletFilterBlock.*                                                 # (default: true) EXPLODE Dimlet Filter
+fe.protection.explode.rftools.dimletResearcherBlock.*                                             # (default: true) EXPLODE Dimlet Researcher
+fe.protection.explode.rftools.dimletScramblerBlock.*                                              # (default: true) EXPLODE Dimlet Scrambler
+fe.protection.explode.rftools.dimletWorkbenchBlock.*                                              # (default: true) EXPLODE Dimlet Workbench
+fe.protection.explode.rftools.enderMonitorBlock.*                                                 # (default: true) EXPLODE Ender Monitor
+fe.protection.explode.rftools.endergenicBlock.*                                                   # (default: true) EXPLODE Endergenic Generator
+fe.protection.explode.rftools.energyExtractorBlock.*                                              # (default: true) EXPLODE Energy Extractor
+fe.protection.explode.rftools.environmentalControllerBlock.*                                      # (default: true) EXPLODE Environmental Controller
+fe.protection.explode.rftools.invisibleShieldBlock.*                                              # (default: true) EXPLODE Invisible Shield Block
+fe.protection.explode.rftools.itemFilterBlock.*                                                   # (default: true) EXPLODE Item Filter
+fe.protection.explode.rftools.liquidAbsorberBlock.*                                               # (default: true) EXPLODE Liquid Absorber
+fe.protection.explode.rftools.liquidMonitorBlock.*                                                # (default: true) EXPLODE Liquid Monitor
+fe.protection.explode.rftools.machineBase.*                                                       # (default: true) EXPLODE Machine Base
+fe.protection.explode.rftools.machineFrame.*                                                      # (default: true) EXPLODE Machine Frame
+fe.protection.explode.rftools.machineInfuserBlock.*                                               # (default: true) EXPLODE Machine Infuser
+fe.protection.explode.rftools.materialAbsorberBlock.*                                             # (default: true) EXPLODE Material Absorber
+fe.protection.explode.rftools.matterBeamerBlock.*                                                 # (default: true) EXPLODE Matter Beamer
+fe.protection.explode.rftools.matterBoosterBlock.*                                                # (default: true) EXPLODE Matter Booster
+fe.protection.explode.rftools.matterReceiverBlock.*                                               # (default: true) EXPLODE Matter Receiver
+fe.protection.explode.rftools.matterTransmitterBlock.*                                            # (default: true) EXPLODE Matter Transmitter
+fe.protection.explode.rftools.modularStorageBlock.*                                               # (default: true) EXPLODE Modular Storage
+fe.protection.explode.rftools.noTickInvisibleShieldBlock.*                                        # (default: true) EXPLODE Invisible Shield Block
+fe.protection.explode.rftools.noTickolidShieldBlock.*                                             # (default: true) EXPLODE Solid Shield Block
+fe.protection.explode.rftools.pearlInjectorBlock.*                                                # (default: true) EXPLODE Pearl Injector
+fe.protection.explode.rftools.proxyBlock.*                                                        # (default: true) EXPLODE Proxy Block
+fe.protection.explode.rftools.redstoneReceiverBlock.*                                             # (default: true) EXPLODE Redstone Receiver
+fe.protection.explode.rftools.redstoneTransmitterBlock.*                                          # (default: true) EXPLODE Redstone Transmitter
+fe.protection.explode.rftools.relayBlock.*                                                        # (default: true) EXPLODE Power Relay
+fe.protection.explode.rftools.remoteStorageBlock.*                                                # (default: true) EXPLODE Remote Storage
+fe.protection.explode.rftools.rfMonitorBlock.*                                                    # (default: true) EXPLODE RF Monitor
+fe.protection.explode.rftools.screenBlock.*                                                       # (default: true) EXPLODE Screen
+fe.protection.explode.rftools.screenControllerBlock.*                                             # (default: true) EXPLODE Screen Controller
+fe.protection.explode.rftools.screenHitBlock.*                                                    # (default: true) EXPLODE Screen
+fe.protection.explode.rftools.securityManagerBlock.*                                              # (default: true) EXPLODE Security Manager
+fe.protection.explode.rftools.sequencerBlock.*                                                    # (default: true) EXPLODE Sequencer
+fe.protection.explode.rftools.shieldBlock.*                                                       # (default: true) EXPLODE Shield Projector Tier 1
+fe.protection.explode.rftools.shieldBlock2.*                                                      # (default: true) EXPLODE Shield Projector Tier 2
+fe.protection.explode.rftools.shieldBlock3.*                                                      # (default: true) EXPLODE Shield Projector Tier 3
+fe.protection.explode.rftools.shieldBlock4.*                                                      # (default: true) EXPLODE Shield Projector Tier 4
+fe.protection.explode.rftools.shieldTemplateBlock.*                                               # (default: true) EXPLODE Shield Template
+fe.protection.explode.rftools.simpleDialerBlock.*                                                 # (default: true) EXPLODE Simple Dialer
+fe.protection.explode.rftools.solidShieldBlock.*                                                  # (default: true) EXPLODE Solid Shield Block
+fe.protection.explode.rftools.spaceChamberBlock.*                                                 # (default: true) EXPLODE Space Chamber Corner Block
+fe.protection.explode.rftools.spaceChamberControllerBlock.*                                       # (default: true) EXPLODE Space Chamber Controller Block
+fe.protection.explode.rftools.spaceProjectorBlock.*                                               # (default: true) EXPLODE Space Projector Block (WIP)
+fe.protection.explode.rftools.spawnerBlock.*                                                      # (default: true) EXPLODE Spawner
+fe.protection.explode.rftools.storageScannerBlock.*                                               # (default: true) EXPLODE Storage Scanner
+fe.protection.explode.rftools.supportBlock.*                                                      # (default: true) EXPLODE Support Block
+fe.protection.explode.rftools.timeAbsorberBlock.*                                                 # (default: true) EXPLODE Time Absorber
+fe.protection.explode.rftools.timerBlock.*                                                        # (default: true) EXPLODE Timer
+fe.protection.explode.rftools.volcanicBlock.*                                                     # (default: true) EXPLODE Volcanic Block
+fe.protection.explode.rftools.volcanicCoreBlock.*                                                 # (default: true) EXPLODE Volcanic Core
 fe.protection.explode.streams.river/ice/-1/-2.*                                                   # (default: true) EXPLODE Ice
 fe.protection.explode.streams.river/ice/-1/2.*                                                    # (default: true) EXPLODE Ice
 fe.protection.explode.streams.river/ice/-2/-1.*                                                   # (default: true) EXPLODE Ice
@@ -5323,6 +5480,59 @@ fe.protection.explode.streams.river/tile.water/2/2.*                            
 fe.protection.explode.supercraftingframe.supercraftingframe.*                                     # (default: true) EXPLODE Super Crafting Frame
 fe.protection.explode.supercraftingframe.superitemframe.*                                         # (default: true) EXPLODE Super Item Frame
 fe.protection.explode.supercraftingframe.supervoidframe.*                                         # (default: true) EXPLODE Super Void Frame
+fe.protection.explode.thaumicbases.advAlchFurnace.*                                               # (default: true) EXPLODE Advanced Alchemical Furnace
+fe.protection.explode.thaumicbases.ashroom.*                                                      # (default: true) EXPLODE Primal Shroom
+fe.protection.explode.thaumicbases.aurelia.*                                                      # (default: true) EXPLODE Aurelia
+fe.protection.explode.thaumicbases.aureliaPetal.*                                                 # (default: true) EXPLODE Aurelia Petal
+fe.protection.explode.thaumicbases.blockSalisMundus.*                                             # (default: true) EXPLODE Salis Mundus Block
+fe.protection.explode.thaumicbases.brazier.*                                                      # (default: true) EXPLODE Thaumaturge's Brazier
+fe.protection.explode.thaumicbases.briar.*                                                        # (default: true) EXPLODE Briar
+fe.protection.explode.thaumicbases.campfire.*                                                     # (default: true) EXPLODE Thaumaturge's Campfire
+fe.protection.explode.thaumicbases.cryingObsidian.*                                               # (default: true) EXPLODE Crying Obsidian
+fe.protection.explode.thaumicbases.crystalBlock.*                                                 # (default: true) EXPLODE tile.crystalBlock.name
+fe.protection.explode.thaumicbases.crystalSlab.*                                                  # (default: true) EXPLODE tile.tb.crystalslab..name
+fe.protection.explode.thaumicbases.crystalSlab_full.*                                             # (default: true) EXPLODE tile.tb.crystalslab..name
+fe.protection.explode.thaumicbases.eldritchArk.*                                                  # (default: true) EXPLODE Gold Etched Obsidian
+fe.protection.explode.thaumicbases.enderPlanks.*                                                  # (default: true) EXPLODE Ender Wood Planks
+fe.protection.explode.thaumicbases.entityDeconstructor.*                                          # (default: true) EXPLODE Entity Deconstructor
+fe.protection.explode.thaumicbases.flaxium.*                                                      # (default: true) EXPLODE Fluxium
+fe.protection.explode.thaumicbases.genLeaves.*                                                    # (default: true) EXPLODE Unnamed Block, report to mod author.
+fe.protection.explode.thaumicbases.genLogs.*                                                      # (default: true) EXPLODE Unnamed Block, report to mod author.
+fe.protection.explode.thaumicbases.genericSlab.*                                                  # (default: true) EXPLODE tile.tb.slab..name
+fe.protection.explode.thaumicbases.genericSlab_full.*                                             # (default: true) EXPLODE tile.tb.slab..name
+fe.protection.explode.thaumicbases.glieonia.*                                                     # (default: true) EXPLODE Glieonia Crop
+fe.protection.explode.thaumicbases.goldenOakSapling.*                                             # (default: true) EXPLODE Unnamed Block, report to mod author.
+fe.protection.explode.thaumicbases.ironGreatwood.*                                                # (default: true) EXPLODE Iron Framed Greatwood
+fe.protection.explode.thaumicbases.knose.*                                                        # (default: true) EXPLODE Rosa Mysteria
+fe.protection.explode.thaumicbases.lazullia.*                                                     # (default: true) EXPLODE Lazullia Crop
+fe.protection.explode.thaumicbases.lucrite.*                                                      # (default: true) EXPLODE Lucrite Crop
+fe.protection.explode.thaumicbases.metalleat.*                                                    # (default: true) EXPLODE Metalleat Crop
+fe.protection.explode.thaumicbases.nodeLinker.*                                                   # (default: true) EXPLODE Node Linking Device
+fe.protection.explode.thaumicbases.nodeManipulator.*                                              # (default: true) EXPLODE Node Manipulator
+fe.protection.explode.thaumicbases.oldBrick.*                                                     # (default: true) EXPLODE Ancient Bricks
+fe.protection.explode.thaumicbases.oldCobble.*                                                    # (default: true) EXPLODE Ancient Cobblestone
+fe.protection.explode.thaumicbases.oldCobbleMossy.*                                               # (default: true) EXPLODE Ancient Mossy Cobblestone
+fe.protection.explode.thaumicbases.oldDiamond.*                                                   # (default: true) EXPLODE Ancient Diamond Block
+fe.protection.explode.thaumicbases.oldGold.*                                                      # (default: true) EXPLODE Ancient Gold Block
+fe.protection.explode.thaumicbases.oldGravel.*                                                    # (default: true) EXPLODE Ancient Gravel
+fe.protection.explode.thaumicbases.oldIron.*                                                      # (default: true) EXPLODE Ancient Iron Block
+fe.protection.explode.thaumicbases.oldLapis.*                                                     # (default: true) EXPLODE Ancient Lapis Lazuli Block
+fe.protection.explode.thaumicbases.overchanter.*                                                  # (default: true) EXPLODE Overchanting Table
+fe.protection.explode.thaumicbases.plax.*                                                         # (default: true) EXPLODE Plax Crop
+fe.protection.explode.thaumicbases.pyrofluid.*                                                    # (default: true) EXPLODE Pyrofluid
+fe.protection.explode.thaumicbases.quicksilverBlock.*                                             # (default: true) EXPLODE Block of Quicksilver
+fe.protection.explode.thaumicbases.quicksilverBrick.*                                             # (default: true) EXPLODE Quicksilver Brick
+fe.protection.explode.thaumicbases.rainbowCactus.*                                                # (default: true) EXPLODE Rainbow Cacti
+fe.protection.explode.thaumicbases.redlonStem.*                                                   # (default: true) EXPLODE Redlon Stem
+fe.protection.explode.thaumicbases.relocator.*                                                    # (default: true) EXPLODE Thaumic Relocator
+fe.protection.explode.thaumicbases.spike.*                                                        # (default: true) EXPLODE tile.spike.name
+fe.protection.explode.thaumicbases.sweed.*                                                        # (default: true) EXPLODE Sweed Crop
+fe.protection.explode.thaumicbases.thaumicAnvil.*                                                 # (default: true) EXPLODE tile.thaumicAnvil.name
+fe.protection.explode.thaumicbases.thauminiteBlock.*                                              # (default: true) EXPLODE Block of Thauminite
+fe.protection.explode.thaumicbases.tobacco.*                                                      # (default: true) EXPLODE Tobacco Crop
+fe.protection.explode.thaumicbases.voidAnvil.*                                                    # (default: true) EXPLODE tile.voidAnvil.name
+fe.protection.explode.thaumicbases.voidBlock.*                                                    # (default: true) EXPLODE Void metal Block
+fe.protection.explode.thaumicbases.voidPlant.*                                                    # (default: true) EXPLODE Void Crop
 fe.protection.explode.thaumicenergistics.thaumicenergistics.block.arcane.assembler.*              # (default: true) EXPLODE Arcane Assembler
 fe.protection.explode.thaumicenergistics.thaumicenergistics.block.distillation.encoder.*          # (default: true) EXPLODE Distillation Pattern Encoder
 fe.protection.explode.thaumicenergistics.thaumicenergistics.block.essentia.cell.workbench.*       # (default: true) EXPLODE Essentia Cell Workbench
@@ -6026,7 +6236,7 @@ fe.protection.interact.Botania.tinyPotato.*                                     
 fe.protection.interact.Botania.turntable.*                                                        # (default: true) INTERACT tile.turntable.name
 fe.protection.interact.Botania.unstableBlock.*                                                    # (default: true) INTERACT tile.unstableBlock.name
 fe.protection.interact.BuildCraft|Builders.architectBlock.*                                       # (default: true) INTERACT Architect Table
-fe.protection.interact.BuildCraft|Builders.builderBlock.*                                         # (default: true) INTERACT Builder
+fe.protection.interact.BuildCraft|Builders.builderBlock.*                                         # (default: true) INTERACT Builder Block
 fe.protection.interact.BuildCraft|Builders.constructionMarkerBlock.*                              # (default: true) INTERACT Construction Mark
 fe.protection.interact.BuildCraft|Builders.fillerBlock.*                                          # (default: true) INTERACT Filler
 fe.protection.interact.BuildCraft|Builders.frameBlock.*                                           # (default: true) INTERACT Frame
@@ -6196,6 +6406,8 @@ fe.protection.interact.EnderIO.blockAttractor.*                                 
 fe.protection.interact.EnderIO.blockBuffer.*                                                      # (default: true) INTERACT tile.blockBuffer.name
 fe.protection.interact.EnderIO.blockCapBank.*                                                     # (default: true) INTERACT tile.blockCapBank.name
 fe.protection.interact.EnderIO.blockCapacitorBank.*                                               # (default: true) INTERACT Capacitor Bank (Deprecated)
+fe.protection.interact.EnderIO.blockCloud_seed.*                                                  # (default: true) INTERACT Cloud Seed
+fe.protection.interact.EnderIO.blockCloud_seed_concentrated.*                                     # (default: true) INTERACT Concentrated Cloud Seed
 fe.protection.interact.EnderIO.blockCombustionGenerator.*                                         # (default: true) INTERACT Combustion Generator
 fe.protection.interact.EnderIO.blockConduitBundle.*                                               # (default: true) INTERACT Conduit Connector
 fe.protection.interact.EnderIO.blockConduitFacade.*                                               # (default: true) INTERACT tile.blockConduitFacade.name
@@ -6220,6 +6432,7 @@ fe.protection.interact.EnderIO.blockInhibitorObelisk.*                          
 fe.protection.interact.EnderIO.blockInventoryPanel.*                                              # (default: true) INTERACT Inventory Panel
 fe.protection.interact.EnderIO.blockKillerJoe.*                                                   # (default: true) INTERACT Killer Joe
 fe.protection.interact.EnderIO.blockLightNode.*                                                   # (default: true) INTERACT tile.blockLightNode.name
+fe.protection.interact.EnderIO.blockLiquid_sunshine.*                                             # (default: true) INTERACT Liquid Sunshine
 fe.protection.interact.EnderIO.blockNutrient_distillation.*                                       # (default: true) INTERACT Nutrient Distillation
 fe.protection.interact.EnderIO.blockPaintedCarpet.*                                               # (default: true) INTERACT Painted Carpet
 fe.protection.interact.EnderIO.blockPaintedDoubleSlab.*                                           # (default: true) INTERACT tile.blockPaintedSlabDouble.name
@@ -6481,6 +6694,7 @@ fe.protection.interact.IC2.fluidConstructionFoam.*                              
 fe.protection.interact.IC2.fluidCoolant.*                                                         # (default: true) INTERACT fluidCoolant.name
 fe.protection.interact.IC2.fluidDistilledWater.*                                                  # (default: true) INTERACT fluidDistilledWater.name
 fe.protection.interact.IC2.fluidHotCoolant.*                                                      # (default: true) INTERACT fluidHotCoolant.name
+fe.protection.interact.IC2.fluidHotWater.*                                                        # (default: true) INTERACT fluidHotWater.name
 fe.protection.interact.IC2.fluidPahoehoeLava.*                                                    # (default: true) INTERACT fluidPahoehoeLava.name
 fe.protection.interact.IC2.fluidSteam.*                                                           # (default: true) INTERACT fluidSteam.name
 fe.protection.interact.IC2.fluidSuperheatedSteam.*                                                # (default: true) INTERACT fluidSuperheatedSteam.name
@@ -6502,6 +6716,7 @@ fe.protection.interact.ImmersiveEngineering.metalMultiblock.*                   
 fe.protection.interact.ImmersiveEngineering.ore.*                                                 # (default: true) INTERACT tile.ImmersiveEngineering.ore.name
 fe.protection.interact.ImmersiveEngineering.stoneDecoration.*                                     # (default: true) INTERACT tile.ImmersiveEngineering.stoneDecoration.name
 fe.protection.interact.ImmersiveEngineering.stoneDevice.*                                         # (default: true) INTERACT tile.ImmersiveEngineering.stoneDevice.name
+fe.protection.interact.ImmersiveEngineering.stoneSlab.*                                           # (default: true) INTERACT tile.ImmersiveEngineering.stoneSlab.name
 fe.protection.interact.ImmersiveEngineering.storage.*                                             # (default: true) INTERACT tile.ImmersiveEngineering.storage.name
 fe.protection.interact.ImmersiveEngineering.storageSlab.*                                         # (default: true) INTERACT tile.ImmersiveEngineering.storageSlab.name
 fe.protection.interact.ImmersiveEngineering.treatedWood.*                                         # (default: true) INTERACT tile.ImmersiveEngineering.treatedWood.name
@@ -6625,7 +6840,7 @@ fe.protection.interact.OpenBlocks.village_highlighter.*                         
 fe.protection.interact.OpenBlocks.xpbottler.*                                                     # (default: true) INTERACT XP Bottler
 fe.protection.interact.OpenBlocks.xpdrain.*                                                       # (default: true) INTERACT XP Drain
 fe.protection.interact.OpenBlocks.xpshower.*                                                      # (default: true) INTERACT XP Shower
-fe.protection.interact.OpenComputers.accessPoint.*                                                # (default: true) INTERACT ßcAccess Pointß7
+fe.protection.interact.OpenComputers.accessPoint.*                                                # (default: true) INTERACT ÅòcAccess PointÅò7
 fe.protection.interact.OpenComputers.adapter.*                                                    # (default: true) INTERACT Adapter
 fe.protection.interact.OpenComputers.assembler.*                                                  # (default: true) INTERACT Electronics Assembler
 fe.protection.interact.OpenComputers.cable.*                                                      # (default: true) INTERACT Cable
@@ -6659,35 +6874,13 @@ fe.protection.interact.OpenComputers.screen1.*                                  
 fe.protection.interact.OpenComputers.screen2.*                                                    # (default: true) INTERACT Screen (Tier 2)
 fe.protection.interact.OpenComputers.screen3.*                                                    # (default: true) INTERACT Screen (Tier 3)
 fe.protection.interact.OpenComputers.serverRack.*                                                 # (default: true) INTERACT Server Rack
-fe.protection.interact.OpenComputers.switch.*                                                     # (default: true) INTERACT ßcSwitchß7
+fe.protection.interact.OpenComputers.switch.*                                                     # (default: true) INTERACT ÅòcSwitchÅò7
 fe.protection.interact.OpenComputers.transposer.*                                                 # (default: true) INTERACT Transposer
 fe.protection.interact.OpenComputers.waypoint.*                                                   # (default: true) INTERACT Waypoint
 fe.protection.interact.PowerConverters.converter.common.*                                         # (default: true) INTERACT tile.powerconverters.common.name
 fe.protection.interact.PowerConverters.converter.ic2.*                                            # (default: true) INTERACT tile.powerconverters.ic2.name
 fe.protection.interact.PowerConverters.converter.rf.*                                             # (default: true) INTERACT tile.powerconverters.te.name
 fe.protection.interact.PowerConverters.converter.steam.*                                          # (default: true) INTERACT tile.powerconverters.steam.name
-fe.protection.interact.PracticalLogistics.ChannelSelector.*                                       # (default: true) INTERACT Channel Selector
-fe.protection.interact.PracticalLogistics.Clock.*                                                 # (default: true) INTERACT Clock
-fe.protection.interact.PracticalLogistics.DataCable.*                                             # (default: true) INTERACT Data Cable
-fe.protection.interact.PracticalLogistics.DataEmitter.*                                           # (default: true) INTERACT Data Emitter
-fe.protection.interact.PracticalLogistics.DataModifier.*                                          # (default: true) INTERACT Data Modifier
-fe.protection.interact.PracticalLogistics.DataReceiver.*                                          # (default: true) INTERACT Data Receiver
-fe.protection.interact.PracticalLogistics.DisplayScreen.*                                         # (default: true) INTERACT tile.DisplayScreen.name
-fe.protection.interact.PracticalLogistics.EntityNode.*                                            # (default: true) INTERACT Entity Node
-fe.protection.interact.PracticalLogistics.FluidReader.*                                           # (default: true) INTERACT Fluid Reader
-fe.protection.interact.PracticalLogistics.Hammer.*                                                # (default: true) INTERACT Forging Hammer
-fe.protection.interact.PracticalLogistics.Hammer_Air.*                                            # (default: true) INTERACT Forging Hammer
-fe.protection.interact.PracticalLogistics.HolographicDisplay.*                                    # (default: true) INTERACT Holographic Display
-fe.protection.interact.PracticalLogistics.InfoCreator.*                                           # (default: true) INTERACT Info Creator
-fe.protection.interact.PracticalLogistics.InfoReader.*                                            # (default: true) INTERACT Info Reader
-fe.protection.interact.PracticalLogistics.InventoryReader.*                                       # (default: true) INTERACT Inventory Reader
-fe.protection.interact.PracticalLogistics.ItemRouter.*                                            # (default: true) INTERACT Item Router
-fe.protection.interact.PracticalLogistics.LargeDisplayScreen.*                                    # (default: true) INTERACT Large Display Screen
-fe.protection.interact.PracticalLogistics.MultiCable.*                                            # (default: true) INTERACT Channelled Cable
-fe.protection.interact.PracticalLogistics.Node.*                                                  # (default: true) INTERACT Node
-fe.protection.interact.PracticalLogistics.RedstoneSignaller_OFF.*                                 # (default: true) INTERACT Redstone Signaller
-fe.protection.interact.PracticalLogistics.RedstoneSignaller_ON.*                                  # (default: true) INTERACT Redstone Signaller
-fe.protection.interact.PracticalLogistics.SapphireOre.*                                           # (default: true) INTERACT Sapphire Ore
 fe.protection.interact.ProjRed|Compatibility.projectred.compatibility.liqcondredmetal.*           # (default: true) INTERACT Molten Conductive Redmetal
 fe.protection.interact.ProjRed|Compatibility.projectred.compatibility.liqredstone.*               # (default: true) INTERACT Liquid Redstone
 fe.protection.interact.ProjRed|Expansion.projectred.expansion.machine1.*                          # (default: true) INTERACT tile.projectred.expansion.machine1.name
@@ -6902,6 +7095,12 @@ fe.protection.interact.TConstruct.trap.barricade.jungle.*                       
 fe.protection.interact.TConstruct.trap.barricade.oak.*                                            # (default: true) INTERACT Oak Barricade
 fe.protection.interact.TConstruct.trap.barricade.spruce.*                                         # (default: true) INTERACT Spruce Barricade
 fe.protection.interact.TConstruct.trap.punji.*                                                    # (default: true) INTERACT Punji Stick
+fe.protection.interact.TaintedMagic.BlockShadowOre.*                                              # (default: true) INTERACT Shadow Ore
+fe.protection.interact.TaintedMagic.BlockShadowmetal.*                                            # (default: true) INTERACT Block of Shadowmetal
+fe.protection.interact.TaintedMagic.BlockWarpwoodLeaves.*                                         # (default: true) INTERACT Warped Leaves
+fe.protection.interact.TaintedMagic.BlockWarpwoodLog.*                                            # (default: true) INTERACT Warpwood
+fe.protection.interact.TaintedMagic.BlockWarpwoodPlanks.*                                         # (default: true) INTERACT Warpwood Planks
+fe.protection.interact.TaintedMagic.BlockWarpwoodSapling.*                                        # (default: true) INTERACT Warpwood Sapling
 fe.protection.interact.Thaumcraft.blockAiry.*                                                     # (default: true) INTERACT tile.blockAiry.name
 fe.protection.interact.Thaumcraft.blockAlchemyFurnace.*                                           # (default: true) INTERACT Advanced Alchemical Furnace
 fe.protection.interact.Thaumcraft.blockArcaneDoor.*                                               # (default: true) INTERACT Arcane Door
@@ -7067,6 +7266,7 @@ fe.protection.interact.ThermalFoundation.Ore.*                                  
 fe.protection.interact.ThermalFoundation.Storage.*                                                # (default: true) INTERACT tile.thermalfoundation.storage.name
 fe.protection.interact.Translocator.craftingGrid.*                                                # (default: true) INTERACT Unnamed Block, report to mod author.
 fe.protection.interact.Translocator.translocator.*                                                # (default: true) INTERACT tile.translocator.name
+fe.protection.interact.TravellersGear.armorstand.*                                                # (default: true) INTERACT Armor Stand
 fe.protection.interact.TwilightForest.tile.AuroraDoubleSlab.*                                     # (default: true) INTERACT tile.AuroraDoubleSlab.name
 fe.protection.interact.TwilightForest.tile.AuroraPillar.*                                         # (default: true) INTERACT Aurora Pillar
 fe.protection.interact.TwilightForest.tile.AuroraSlab.*                                           # (default: true) INTERACT Aurora Slab
@@ -7123,6 +7323,13 @@ fe.protection.interact.TwilightForest.tile.TrollVidr.*                          
 fe.protection.interact.TwilightForest.tile.UberousSoil.*                                          # (default: true) INTERACT Uberous Soil
 fe.protection.interact.TwilightForest.tile.UnripeTrollBer.*                                       # (default: true) INTERACT Unripe Trollber
 fe.protection.interact.TwilightForest.tile.WispyCloud.*                                           # (default: true) INTERACT Wispy Cloud
+fe.protection.interact.WitchingGadgets.WG_CustomAir.*                                             # (default: true) INTERACT Glimmer of Light
+fe.protection.interact.WitchingGadgets.WG_MetalDevice.*                                           # (default: true) INTERACT tile.WG_MetalDevice.name
+fe.protection.interact.WitchingGadgets.WG_RoseVine.*                                              # (default: true) INTERACT Rose Vines
+fe.protection.interact.WitchingGadgets.WG_StoneDevice.*                                           # (default: true) INTERACT tile.WG_StoneDevice.name
+fe.protection.interact.WitchingGadgets.WG_VoidWalkway.*                                           # (default: true) INTERACT Void Walkway
+fe.protection.interact.WitchingGadgets.WG_WallMirror.*                                            # (default: true) INTERACT Mirror on the Wall
+fe.protection.interact.WitchingGadgets.WG_WoodenDevice.*                                          # (default: true) INTERACT tile.WG_WoodenDevice.name
 fe.protection.interact.aobd.orebushArdite.*                                                       # (default: true) INTERACT Ardite Oreberry Bush
 fe.protection.interact.aobd.orebushCobalt.*                                                       # (default: true) INTERACT Cobalt Oreberry Bush
 fe.protection.interact.aobd.orebushDraconium.*                                                    # (default: true) INTERACT Draconium Oreberry Bush
@@ -7131,6 +7338,7 @@ fe.protection.interact.aobd.orebushMithril.*                                    
 fe.protection.interact.aobd.orebushNickel.*                                                       # (default: true) INTERACT Nickel Oreberry Bush
 fe.protection.interact.aobd.orebushOsmium.*                                                       # (default: true) INTERACT Osmium Oreberry Bush
 fe.protection.interact.aobd.orebushPlatinum.*                                                     # (default: true) INTERACT Platinum Oreberry Bush
+fe.protection.interact.aobd.orebushShadow.*                                                       # (default: true) INTERACT Shadow Oreberry Bush
 fe.protection.interact.aobd.orebushSilver.*                                                       # (default: true) INTERACT Silver Oreberry Bush
 fe.protection.interact.aobd.orebushUranium.*                                                      # (default: true) INTERACT Uranium Oreberry Bush
 fe.protection.interact.appliedenergistics2.tile.BlockCableBus.*                                   # (default: true) INTERACT AE2 Cable and/or Bus
@@ -7201,6 +7409,7 @@ fe.protection.interact.appliedenergistics2.tile.SkyStoneSmallBrickSlabBlock.*   
 fe.protection.interact.appliedenergistics2.tile.SkyStoneSmallBrickSlabBlock.double.*              # (default: true) INTERACT tile.appliedenergistics2.SkyStoneSmallBrickSlabBlock.double.name
 fe.protection.interact.appliedenergistics2.tile.SkyStoneSmallBrickStairBlock.*                    # (default: true) INTERACT Sky Stone Small Brick Stairs
 fe.protection.interact.appliedenergistics2.tile.SkyStoneStairBlock.*                              # (default: true) INTERACT Sky Stone Stairs
+fe.protection.interact.arcane_engineering.destabilizer.*                                          # (default: true) INTERACT Node Destabilizer
 fe.protection.interact.autopackager.packagerBlock.*                                               # (default: true) INTERACT Recipe Packager
 fe.protection.interact.chisel.acacia_planks.*                                                     # (default: true) INTERACT Acacia Wood Planks
 fe.protection.interact.chisel.aluminum_stairs.0.*                                                 # (default: true) INTERACT tile.chisel.aluminum_stairs.0.name
@@ -7976,29 +8185,82 @@ fe.protection.interact.progressiveautomation.Planter.*                          
 fe.protection.interact.progressiveautomation.PlanterDiamond.*                                     # (default: true) INTERACT Diamond Planter
 fe.protection.interact.progressiveautomation.PlanterIron.*                                        # (default: true) INTERACT Iron Planter
 fe.protection.interact.progressiveautomation.PlanterStone.*                                       # (default: true) INTERACT Stone Planter
-fe.protection.interact.props.blockFake.*                                                          # (default: true) INTERACT Unnamed Block, report to mod author.
-fe.protection.interact.props.blockProps.*                                                         # (default: true) INTERACT Unnamed Block, report to mod author.
 fe.protection.interact.qmunitylib.qmunitylib.blocks.multipart.*                                   # (default: true) INTERACT tile.qmunitylib:multipart.name
-fe.protection.interact.secretroomsmod.CamoDummy.*                                                 # (default: true) INTERACT tile.CamoDummy.name
-fe.protection.interact.secretroomsmod.CamoGate.*                                                  # (default: true) INTERACT Secret Gate
-fe.protection.interact.secretroomsmod.GhostBlock.*                                                # (default: true) INTERACT Ghost Block
-fe.protection.interact.secretroomsmod.OneWayGlass.*                                               # (default: true) INTERACT One-Way Glass
-fe.protection.interact.secretroomsmod.SecretCamoButton.*                                          # (default: true) INTERACT tile.SecretButton.name
-fe.protection.interact.secretroomsmod.SecretCamoLever.*                                           # (default: true) INTERACT Secret lever
-fe.protection.interact.secretroomsmod.SecretCamoRedstone.*                                        # (default: true) INTERACT Secret Redstone
-fe.protection.interact.secretroomsmod.SecretChest.*                                               # (default: true) INTERACT Secret Chest
-fe.protection.interact.secretroomsmod.SecretHeavyPlate.*                                          # (default: true) INTERACT Secret Weighted Plate (heavy)
-fe.protection.interact.secretroomsmod.SecretIronDoorBlock.*                                       # (default: true) INTERACT Secret Iron Door
-fe.protection.interact.secretroomsmod.SecretLightDetector.*                                       # (default: true) INTERACT Secret Light Detector
-fe.protection.interact.secretroomsmod.SecretLightPlate.*                                          # (default: true) INTERACT Secret Weighted Plate (light)
-fe.protection.interact.secretroomsmod.SecretPlayerPlate.*                                         # (default: true) INTERACT Secret Player Plate
-fe.protection.interact.secretroomsmod.SecretPressurePlate.*                                       # (default: true) INTERACT Secret Pressure Plate
-fe.protection.interact.secretroomsmod.SecretStair.*                                               # (default: true) INTERACT Secret Stairs
-fe.protection.interact.secretroomsmod.SecretTrapDoor.*                                            # (default: true) INTERACT Secret TrapDoor
-fe.protection.interact.secretroomsmod.SecretTrappedChest.*                                        # (default: true) INTERACT Secret Trapped Chest
-fe.protection.interact.secretroomsmod.SecretWoodenDoorBlock.*                                     # (default: true) INTERACT Secret Wooden Door
-fe.protection.interact.secretroomsmod.SolidAir.*                                                  # (default: true) INTERACT Solid Air
-fe.protection.interact.secretroomsmod.TorchLever.*                                                # (default: true) INTERACT Torch Lever
+fe.protection.interact.rftools.activityProbeBlock.*                                               # (default: true) INTERACT Activity Probe
+fe.protection.interact.rftools.biomeAbsorberBlock.*                                               # (default: true) INTERACT Biome Absorber
+fe.protection.interact.rftools.blockProtectorBlock.*                                              # (default: true) INTERACT Block Protector
+fe.protection.interact.rftools.builderBlock.*                                                     # (default: true) INTERACT Builder Block
+fe.protection.interact.rftools.counterBlock.*                                                     # (default: true) INTERACT Counter
+fe.protection.interact.rftools.crafterBlock1.*                                                    # (default: true) INTERACT Crafter Tier 1
+fe.protection.interact.rftools.crafterBlock2.*                                                    # (default: true) INTERACT Crafter Tier 2
+fe.protection.interact.rftools.crafterBlock3.*                                                    # (default: true) INTERACT Crafter Tier 3
+fe.protection.interact.rftools.creativeDimensionBuilderBlock.*                                    # (default: true) INTERACT Creative Dimension Builder
+fe.protection.interact.rftools.destinationAnalyzerBlock.*                                         # (default: true) INTERACT Destination Analyzer
+fe.protection.interact.rftools.dialingDeviceBlock.*                                               # (default: true) INTERACT Dialing Device
+fe.protection.interact.rftools.dimensionBuilderBlock.*                                            # (default: true) INTERACT Dimension Builder
+fe.protection.interact.rftools.dimensionEditorBlock.*                                             # (default: true) INTERACT Dimension Editor
+fe.protection.interact.rftools.dimensionEnscriberBlock.*                                          # (default: true) INTERACT Dimension Enscriber
+fe.protection.interact.rftools.dimensionMonitorBlock.*                                            # (default: true) INTERACT Dimension Monitor
+fe.protection.interact.rftools.dimensionalBlankBlock.*                                            # (default: true) INTERACT Dimensional Blank Block
+fe.protection.interact.rftools.dimensionalBlock.*                                                 # (default: true) INTERACT Dimensional Block
+fe.protection.interact.rftools.dimensionalCross2Block.*                                           # (default: true) INTERACT Dimensional Cross 2 Block
+fe.protection.interact.rftools.dimensionalCrossBlock.*                                            # (default: true) INTERACT Dimensional Cross Block
+fe.protection.interact.rftools.dimensionalPattern1Block.*                                         # (default: true) INTERACT Dimensional Pattern 1 Block
+fe.protection.interact.rftools.dimensionalPattern2Block.*                                         # (default: true) INTERACT Dimensional Pattern 2 Block
+fe.protection.interact.rftools.dimensionalShardBlock.*                                            # (default: true) INTERACT Dimensional Shard Ore
+fe.protection.interact.rftools.dimensionalSmallBlocks.*                                           # (default: true) INTERACT Dimensional Small Blocks
+fe.protection.interact.rftools.dimletFilterBlock.*                                                # (default: true) INTERACT Dimlet Filter
+fe.protection.interact.rftools.dimletResearcherBlock.*                                            # (default: true) INTERACT Dimlet Researcher
+fe.protection.interact.rftools.dimletScramblerBlock.*                                             # (default: true) INTERACT Dimlet Scrambler
+fe.protection.interact.rftools.dimletWorkbenchBlock.*                                             # (default: true) INTERACT Dimlet Workbench
+fe.protection.interact.rftools.enderMonitorBlock.*                                                # (default: true) INTERACT Ender Monitor
+fe.protection.interact.rftools.endergenicBlock.*                                                  # (default: true) INTERACT Endergenic Generator
+fe.protection.interact.rftools.energyExtractorBlock.*                                             # (default: true) INTERACT Energy Extractor
+fe.protection.interact.rftools.environmentalControllerBlock.*                                     # (default: true) INTERACT Environmental Controller
+fe.protection.interact.rftools.invisibleShieldBlock.*                                             # (default: true) INTERACT Invisible Shield Block
+fe.protection.interact.rftools.itemFilterBlock.*                                                  # (default: true) INTERACT Item Filter
+fe.protection.interact.rftools.liquidAbsorberBlock.*                                              # (default: true) INTERACT Liquid Absorber
+fe.protection.interact.rftools.liquidMonitorBlock.*                                               # (default: true) INTERACT Liquid Monitor
+fe.protection.interact.rftools.machineBase.*                                                      # (default: true) INTERACT Machine Base
+fe.protection.interact.rftools.machineFrame.*                                                     # (default: true) INTERACT Machine Frame
+fe.protection.interact.rftools.machineInfuserBlock.*                                              # (default: true) INTERACT Machine Infuser
+fe.protection.interact.rftools.materialAbsorberBlock.*                                            # (default: true) INTERACT Material Absorber
+fe.protection.interact.rftools.matterBeamerBlock.*                                                # (default: true) INTERACT Matter Beamer
+fe.protection.interact.rftools.matterBoosterBlock.*                                               # (default: true) INTERACT Matter Booster
+fe.protection.interact.rftools.matterReceiverBlock.*                                              # (default: true) INTERACT Matter Receiver
+fe.protection.interact.rftools.matterTransmitterBlock.*                                           # (default: true) INTERACT Matter Transmitter
+fe.protection.interact.rftools.modularStorageBlock.*                                              # (default: true) INTERACT Modular Storage
+fe.protection.interact.rftools.noTickInvisibleShieldBlock.*                                       # (default: true) INTERACT Invisible Shield Block
+fe.protection.interact.rftools.noTickolidShieldBlock.*                                            # (default: true) INTERACT Solid Shield Block
+fe.protection.interact.rftools.pearlInjectorBlock.*                                               # (default: true) INTERACT Pearl Injector
+fe.protection.interact.rftools.proxyBlock.*                                                       # (default: true) INTERACT Proxy Block
+fe.protection.interact.rftools.redstoneReceiverBlock.*                                            # (default: true) INTERACT Redstone Receiver
+fe.protection.interact.rftools.redstoneTransmitterBlock.*                                         # (default: true) INTERACT Redstone Transmitter
+fe.protection.interact.rftools.relayBlock.*                                                       # (default: true) INTERACT Power Relay
+fe.protection.interact.rftools.remoteStorageBlock.*                                               # (default: true) INTERACT Remote Storage
+fe.protection.interact.rftools.rfMonitorBlock.*                                                   # (default: true) INTERACT RF Monitor
+fe.protection.interact.rftools.screenBlock.*                                                      # (default: true) INTERACT Screen
+fe.protection.interact.rftools.screenControllerBlock.*                                            # (default: true) INTERACT Screen Controller
+fe.protection.interact.rftools.screenHitBlock.*                                                   # (default: true) INTERACT Screen
+fe.protection.interact.rftools.securityManagerBlock.*                                             # (default: true) INTERACT Security Manager
+fe.protection.interact.rftools.sequencerBlock.*                                                   # (default: true) INTERACT Sequencer
+fe.protection.interact.rftools.shieldBlock.*                                                      # (default: true) INTERACT Shield Projector Tier 1
+fe.protection.interact.rftools.shieldBlock2.*                                                     # (default: true) INTERACT Shield Projector Tier 2
+fe.protection.interact.rftools.shieldBlock3.*                                                     # (default: true) INTERACT Shield Projector Tier 3
+fe.protection.interact.rftools.shieldBlock4.*                                                     # (default: true) INTERACT Shield Projector Tier 4
+fe.protection.interact.rftools.shieldTemplateBlock.*                                              # (default: true) INTERACT Shield Template
+fe.protection.interact.rftools.simpleDialerBlock.*                                                # (default: true) INTERACT Simple Dialer
+fe.protection.interact.rftools.solidShieldBlock.*                                                 # (default: true) INTERACT Solid Shield Block
+fe.protection.interact.rftools.spaceChamberBlock.*                                                # (default: true) INTERACT Space Chamber Corner Block
+fe.protection.interact.rftools.spaceChamberControllerBlock.*                                      # (default: true) INTERACT Space Chamber Controller Block
+fe.protection.interact.rftools.spaceProjectorBlock.*                                              # (default: true) INTERACT Space Projector Block (WIP)
+fe.protection.interact.rftools.spawnerBlock.*                                                     # (default: true) INTERACT Spawner
+fe.protection.interact.rftools.storageScannerBlock.*                                              # (default: true) INTERACT Storage Scanner
+fe.protection.interact.rftools.supportBlock.*                                                     # (default: true) INTERACT Support Block
+fe.protection.interact.rftools.timeAbsorberBlock.*                                                # (default: true) INTERACT Time Absorber
+fe.protection.interact.rftools.timerBlock.*                                                       # (default: true) INTERACT Timer
+fe.protection.interact.rftools.volcanicBlock.*                                                    # (default: true) INTERACT Volcanic Block
+fe.protection.interact.rftools.volcanicCoreBlock.*                                                # (default: true) INTERACT Volcanic Core
 fe.protection.interact.streams.river/ice/-1/-2.*                                                  # (default: true) INTERACT Ice
 fe.protection.interact.streams.river/ice/-1/2.*                                                   # (default: true) INTERACT Ice
 fe.protection.interact.streams.river/ice/-2/-1.*                                                  # (default: true) INTERACT Ice
@@ -8053,6 +8315,59 @@ fe.protection.interact.streams.river/tile.water/2/2.*                           
 fe.protection.interact.supercraftingframe.supercraftingframe.*                                    # (default: true) INTERACT Super Crafting Frame
 fe.protection.interact.supercraftingframe.superitemframe.*                                        # (default: true) INTERACT Super Item Frame
 fe.protection.interact.supercraftingframe.supervoidframe.*                                        # (default: true) INTERACT Super Void Frame
+fe.protection.interact.thaumicbases.advAlchFurnace.*                                              # (default: true) INTERACT Advanced Alchemical Furnace
+fe.protection.interact.thaumicbases.ashroom.*                                                     # (default: true) INTERACT Primal Shroom
+fe.protection.interact.thaumicbases.aurelia.*                                                     # (default: true) INTERACT Aurelia
+fe.protection.interact.thaumicbases.aureliaPetal.*                                                # (default: true) INTERACT Aurelia Petal
+fe.protection.interact.thaumicbases.blockSalisMundus.*                                            # (default: true) INTERACT Salis Mundus Block
+fe.protection.interact.thaumicbases.brazier.*                                                     # (default: true) INTERACT Thaumaturge's Brazier
+fe.protection.interact.thaumicbases.briar.*                                                       # (default: true) INTERACT Briar
+fe.protection.interact.thaumicbases.campfire.*                                                    # (default: true) INTERACT Thaumaturge's Campfire
+fe.protection.interact.thaumicbases.cryingObsidian.*                                              # (default: true) INTERACT Crying Obsidian
+fe.protection.interact.thaumicbases.crystalBlock.*                                                # (default: true) INTERACT tile.crystalBlock.name
+fe.protection.interact.thaumicbases.crystalSlab.*                                                 # (default: true) INTERACT tile.tb.crystalslab..name
+fe.protection.interact.thaumicbases.crystalSlab_full.*                                            # (default: true) INTERACT tile.tb.crystalslab..name
+fe.protection.interact.thaumicbases.eldritchArk.*                                                 # (default: true) INTERACT Gold Etched Obsidian
+fe.protection.interact.thaumicbases.enderPlanks.*                                                 # (default: true) INTERACT Ender Wood Planks
+fe.protection.interact.thaumicbases.entityDeconstructor.*                                         # (default: true) INTERACT Entity Deconstructor
+fe.protection.interact.thaumicbases.flaxium.*                                                     # (default: true) INTERACT Fluxium
+fe.protection.interact.thaumicbases.genLeaves.*                                                   # (default: true) INTERACT Unnamed Block, report to mod author.
+fe.protection.interact.thaumicbases.genLogs.*                                                     # (default: true) INTERACT Unnamed Block, report to mod author.
+fe.protection.interact.thaumicbases.genericSlab.*                                                 # (default: true) INTERACT tile.tb.slab..name
+fe.protection.interact.thaumicbases.genericSlab_full.*                                            # (default: true) INTERACT tile.tb.slab..name
+fe.protection.interact.thaumicbases.glieonia.*                                                    # (default: true) INTERACT Glieonia Crop
+fe.protection.interact.thaumicbases.goldenOakSapling.*                                            # (default: true) INTERACT Unnamed Block, report to mod author.
+fe.protection.interact.thaumicbases.ironGreatwood.*                                               # (default: true) INTERACT Iron Framed Greatwood
+fe.protection.interact.thaumicbases.knose.*                                                       # (default: true) INTERACT Rosa Mysteria
+fe.protection.interact.thaumicbases.lazullia.*                                                    # (default: true) INTERACT Lazullia Crop
+fe.protection.interact.thaumicbases.lucrite.*                                                     # (default: true) INTERACT Lucrite Crop
+fe.protection.interact.thaumicbases.metalleat.*                                                   # (default: true) INTERACT Metalleat Crop
+fe.protection.interact.thaumicbases.nodeLinker.*                                                  # (default: true) INTERACT Node Linking Device
+fe.protection.interact.thaumicbases.nodeManipulator.*                                             # (default: true) INTERACT Node Manipulator
+fe.protection.interact.thaumicbases.oldBrick.*                                                    # (default: true) INTERACT Ancient Bricks
+fe.protection.interact.thaumicbases.oldCobble.*                                                   # (default: true) INTERACT Ancient Cobblestone
+fe.protection.interact.thaumicbases.oldCobbleMossy.*                                              # (default: true) INTERACT Ancient Mossy Cobblestone
+fe.protection.interact.thaumicbases.oldDiamond.*                                                  # (default: true) INTERACT Ancient Diamond Block
+fe.protection.interact.thaumicbases.oldGold.*                                                     # (default: true) INTERACT Ancient Gold Block
+fe.protection.interact.thaumicbases.oldGravel.*                                                   # (default: true) INTERACT Ancient Gravel
+fe.protection.interact.thaumicbases.oldIron.*                                                     # (default: true) INTERACT Ancient Iron Block
+fe.protection.interact.thaumicbases.oldLapis.*                                                    # (default: true) INTERACT Ancient Lapis Lazuli Block
+fe.protection.interact.thaumicbases.overchanter.*                                                 # (default: true) INTERACT Overchanting Table
+fe.protection.interact.thaumicbases.plax.*                                                        # (default: true) INTERACT Plax Crop
+fe.protection.interact.thaumicbases.pyrofluid.*                                                   # (default: true) INTERACT Pyrofluid
+fe.protection.interact.thaumicbases.quicksilverBlock.*                                            # (default: true) INTERACT Block of Quicksilver
+fe.protection.interact.thaumicbases.quicksilverBrick.*                                            # (default: true) INTERACT Quicksilver Brick
+fe.protection.interact.thaumicbases.rainbowCactus.*                                               # (default: true) INTERACT Rainbow Cacti
+fe.protection.interact.thaumicbases.redlonStem.*                                                  # (default: true) INTERACT Redlon Stem
+fe.protection.interact.thaumicbases.relocator.*                                                   # (default: true) INTERACT Thaumic Relocator
+fe.protection.interact.thaumicbases.spike.*                                                       # (default: true) INTERACT tile.spike.name
+fe.protection.interact.thaumicbases.sweed.*                                                       # (default: true) INTERACT Sweed Crop
+fe.protection.interact.thaumicbases.thaumicAnvil.*                                                # (default: true) INTERACT tile.thaumicAnvil.name
+fe.protection.interact.thaumicbases.thauminiteBlock.*                                             # (default: true) INTERACT Block of Thauminite
+fe.protection.interact.thaumicbases.tobacco.*                                                     # (default: true) INTERACT Tobacco Crop
+fe.protection.interact.thaumicbases.voidAnvil.*                                                   # (default: true) INTERACT tile.voidAnvil.name
+fe.protection.interact.thaumicbases.voidBlock.*                                                   # (default: true) INTERACT Void metal Block
+fe.protection.interact.thaumicbases.voidPlant.*                                                   # (default: true) INTERACT Void Crop
 fe.protection.interact.thaumicenergistics.thaumicenergistics.block.arcane.assembler.*             # (default: true) INTERACT Arcane Assembler
 fe.protection.interact.thaumicenergistics.thaumicenergistics.block.distillation.encoder.*         # (default: true) INTERACT Distillation Pattern Encoder
 fe.protection.interact.thaumicenergistics.thaumicenergistics.block.essentia.cell.workbench.*      # (default: true) INTERACT Essentia Cell Workbench
@@ -8756,7 +9071,7 @@ fe.protection.place.Botania.tinyPotato.*                                        
 fe.protection.place.Botania.turntable.*                                                           # (default: true) PLACE tile.turntable.name
 fe.protection.place.Botania.unstableBlock.*                                                       # (default: true) PLACE tile.unstableBlock.name
 fe.protection.place.BuildCraft|Builders.architectBlock.*                                          # (default: true) PLACE Architect Table
-fe.protection.place.BuildCraft|Builders.builderBlock.*                                            # (default: true) PLACE Builder
+fe.protection.place.BuildCraft|Builders.builderBlock.*                                            # (default: true) PLACE Builder Block
 fe.protection.place.BuildCraft|Builders.constructionMarkerBlock.*                                 # (default: true) PLACE Construction Mark
 fe.protection.place.BuildCraft|Builders.fillerBlock.*                                             # (default: true) PLACE Filler
 fe.protection.place.BuildCraft|Builders.frameBlock.*                                              # (default: true) PLACE Frame
@@ -8926,6 +9241,8 @@ fe.protection.place.EnderIO.blockAttractor.*                                    
 fe.protection.place.EnderIO.blockBuffer.*                                                         # (default: true) PLACE tile.blockBuffer.name
 fe.protection.place.EnderIO.blockCapBank.*                                                        # (default: true) PLACE tile.blockCapBank.name
 fe.protection.place.EnderIO.blockCapacitorBank.*                                                  # (default: true) PLACE Capacitor Bank (Deprecated)
+fe.protection.place.EnderIO.blockCloud_seed.*                                                     # (default: true) PLACE Cloud Seed
+fe.protection.place.EnderIO.blockCloud_seed_concentrated.*                                        # (default: true) PLACE Concentrated Cloud Seed
 fe.protection.place.EnderIO.blockCombustionGenerator.*                                            # (default: true) PLACE Combustion Generator
 fe.protection.place.EnderIO.blockConduitBundle.*                                                  # (default: true) PLACE Conduit Connector
 fe.protection.place.EnderIO.blockConduitFacade.*                                                  # (default: true) PLACE tile.blockConduitFacade.name
@@ -8950,6 +9267,7 @@ fe.protection.place.EnderIO.blockInhibitorObelisk.*                             
 fe.protection.place.EnderIO.blockInventoryPanel.*                                                 # (default: true) PLACE Inventory Panel
 fe.protection.place.EnderIO.blockKillerJoe.*                                                      # (default: true) PLACE Killer Joe
 fe.protection.place.EnderIO.blockLightNode.*                                                      # (default: true) PLACE tile.blockLightNode.name
+fe.protection.place.EnderIO.blockLiquid_sunshine.*                                                # (default: true) PLACE Liquid Sunshine
 fe.protection.place.EnderIO.blockNutrient_distillation.*                                          # (default: true) PLACE Nutrient Distillation
 fe.protection.place.EnderIO.blockPaintedCarpet.*                                                  # (default: true) PLACE Painted Carpet
 fe.protection.place.EnderIO.blockPaintedDoubleSlab.*                                              # (default: true) PLACE tile.blockPaintedSlabDouble.name
@@ -9211,6 +9529,7 @@ fe.protection.place.IC2.fluidConstructionFoam.*                                 
 fe.protection.place.IC2.fluidCoolant.*                                                            # (default: true) PLACE fluidCoolant.name
 fe.protection.place.IC2.fluidDistilledWater.*                                                     # (default: true) PLACE fluidDistilledWater.name
 fe.protection.place.IC2.fluidHotCoolant.*                                                         # (default: true) PLACE fluidHotCoolant.name
+fe.protection.place.IC2.fluidHotWater.*                                                           # (default: true) PLACE fluidHotWater.name
 fe.protection.place.IC2.fluidPahoehoeLava.*                                                       # (default: true) PLACE fluidPahoehoeLava.name
 fe.protection.place.IC2.fluidSteam.*                                                              # (default: true) PLACE fluidSteam.name
 fe.protection.place.IC2.fluidSuperheatedSteam.*                                                   # (default: true) PLACE fluidSuperheatedSteam.name
@@ -9232,6 +9551,7 @@ fe.protection.place.ImmersiveEngineering.metalMultiblock.*                      
 fe.protection.place.ImmersiveEngineering.ore.*                                                    # (default: true) PLACE tile.ImmersiveEngineering.ore.name
 fe.protection.place.ImmersiveEngineering.stoneDecoration.*                                        # (default: true) PLACE tile.ImmersiveEngineering.stoneDecoration.name
 fe.protection.place.ImmersiveEngineering.stoneDevice.*                                            # (default: true) PLACE tile.ImmersiveEngineering.stoneDevice.name
+fe.protection.place.ImmersiveEngineering.stoneSlab.*                                              # (default: true) PLACE tile.ImmersiveEngineering.stoneSlab.name
 fe.protection.place.ImmersiveEngineering.storage.*                                                # (default: true) PLACE tile.ImmersiveEngineering.storage.name
 fe.protection.place.ImmersiveEngineering.storageSlab.*                                            # (default: true) PLACE tile.ImmersiveEngineering.storageSlab.name
 fe.protection.place.ImmersiveEngineering.treatedWood.*                                            # (default: true) PLACE tile.ImmersiveEngineering.treatedWood.name
@@ -9355,7 +9675,7 @@ fe.protection.place.OpenBlocks.village_highlighter.*                            
 fe.protection.place.OpenBlocks.xpbottler.*                                                        # (default: true) PLACE XP Bottler
 fe.protection.place.OpenBlocks.xpdrain.*                                                          # (default: true) PLACE XP Drain
 fe.protection.place.OpenBlocks.xpshower.*                                                         # (default: true) PLACE XP Shower
-fe.protection.place.OpenComputers.accessPoint.*                                                   # (default: true) PLACE ßcAccess Pointß7
+fe.protection.place.OpenComputers.accessPoint.*                                                   # (default: true) PLACE ÅòcAccess PointÅò7
 fe.protection.place.OpenComputers.adapter.*                                                       # (default: true) PLACE Adapter
 fe.protection.place.OpenComputers.assembler.*                                                     # (default: true) PLACE Electronics Assembler
 fe.protection.place.OpenComputers.cable.*                                                         # (default: true) PLACE Cable
@@ -9389,35 +9709,13 @@ fe.protection.place.OpenComputers.screen1.*                                     
 fe.protection.place.OpenComputers.screen2.*                                                       # (default: true) PLACE Screen (Tier 2)
 fe.protection.place.OpenComputers.screen3.*                                                       # (default: true) PLACE Screen (Tier 3)
 fe.protection.place.OpenComputers.serverRack.*                                                    # (default: true) PLACE Server Rack
-fe.protection.place.OpenComputers.switch.*                                                        # (default: true) PLACE ßcSwitchß7
+fe.protection.place.OpenComputers.switch.*                                                        # (default: true) PLACE ÅòcSwitchÅò7
 fe.protection.place.OpenComputers.transposer.*                                                    # (default: true) PLACE Transposer
 fe.protection.place.OpenComputers.waypoint.*                                                      # (default: true) PLACE Waypoint
 fe.protection.place.PowerConverters.converter.common.*                                            # (default: true) PLACE tile.powerconverters.common.name
 fe.protection.place.PowerConverters.converter.ic2.*                                               # (default: true) PLACE tile.powerconverters.ic2.name
 fe.protection.place.PowerConverters.converter.rf.*                                                # (default: true) PLACE tile.powerconverters.te.name
 fe.protection.place.PowerConverters.converter.steam.*                                             # (default: true) PLACE tile.powerconverters.steam.name
-fe.protection.place.PracticalLogistics.ChannelSelector.*                                          # (default: true) PLACE Channel Selector
-fe.protection.place.PracticalLogistics.Clock.*                                                    # (default: true) PLACE Clock
-fe.protection.place.PracticalLogistics.DataCable.*                                                # (default: true) PLACE Data Cable
-fe.protection.place.PracticalLogistics.DataEmitter.*                                              # (default: true) PLACE Data Emitter
-fe.protection.place.PracticalLogistics.DataModifier.*                                             # (default: true) PLACE Data Modifier
-fe.protection.place.PracticalLogistics.DataReceiver.*                                             # (default: true) PLACE Data Receiver
-fe.protection.place.PracticalLogistics.DisplayScreen.*                                            # (default: true) PLACE tile.DisplayScreen.name
-fe.protection.place.PracticalLogistics.EntityNode.*                                               # (default: true) PLACE Entity Node
-fe.protection.place.PracticalLogistics.FluidReader.*                                              # (default: true) PLACE Fluid Reader
-fe.protection.place.PracticalLogistics.Hammer.*                                                   # (default: true) PLACE Forging Hammer
-fe.protection.place.PracticalLogistics.Hammer_Air.*                                               # (default: true) PLACE Forging Hammer
-fe.protection.place.PracticalLogistics.HolographicDisplay.*                                       # (default: true) PLACE Holographic Display
-fe.protection.place.PracticalLogistics.InfoCreator.*                                              # (default: true) PLACE Info Creator
-fe.protection.place.PracticalLogistics.InfoReader.*                                               # (default: true) PLACE Info Reader
-fe.protection.place.PracticalLogistics.InventoryReader.*                                          # (default: true) PLACE Inventory Reader
-fe.protection.place.PracticalLogistics.ItemRouter.*                                               # (default: true) PLACE Item Router
-fe.protection.place.PracticalLogistics.LargeDisplayScreen.*                                       # (default: true) PLACE Large Display Screen
-fe.protection.place.PracticalLogistics.MultiCable.*                                               # (default: true) PLACE Channelled Cable
-fe.protection.place.PracticalLogistics.Node.*                                                     # (default: true) PLACE Node
-fe.protection.place.PracticalLogistics.RedstoneSignaller_OFF.*                                    # (default: true) PLACE Redstone Signaller
-fe.protection.place.PracticalLogistics.RedstoneSignaller_ON.*                                     # (default: true) PLACE Redstone Signaller
-fe.protection.place.PracticalLogistics.SapphireOre.*                                              # (default: true) PLACE Sapphire Ore
 fe.protection.place.ProjRed|Compatibility.projectred.compatibility.liqcondredmetal.*              # (default: true) PLACE Molten Conductive Redmetal
 fe.protection.place.ProjRed|Compatibility.projectred.compatibility.liqredstone.*                  # (default: true) PLACE Liquid Redstone
 fe.protection.place.ProjRed|Expansion.projectred.expansion.machine1.*                             # (default: true) PLACE tile.projectred.expansion.machine1.name
@@ -9632,6 +9930,12 @@ fe.protection.place.TConstruct.trap.barricade.jungle.*                          
 fe.protection.place.TConstruct.trap.barricade.oak.*                                               # (default: true) PLACE Oak Barricade
 fe.protection.place.TConstruct.trap.barricade.spruce.*                                            # (default: true) PLACE Spruce Barricade
 fe.protection.place.TConstruct.trap.punji.*                                                       # (default: true) PLACE Punji Stick
+fe.protection.place.TaintedMagic.BlockShadowOre.*                                                 # (default: true) PLACE Shadow Ore
+fe.protection.place.TaintedMagic.BlockShadowmetal.*                                               # (default: true) PLACE Block of Shadowmetal
+fe.protection.place.TaintedMagic.BlockWarpwoodLeaves.*                                            # (default: true) PLACE Warped Leaves
+fe.protection.place.TaintedMagic.BlockWarpwoodLog.*                                               # (default: true) PLACE Warpwood
+fe.protection.place.TaintedMagic.BlockWarpwoodPlanks.*                                            # (default: true) PLACE Warpwood Planks
+fe.protection.place.TaintedMagic.BlockWarpwoodSapling.*                                           # (default: true) PLACE Warpwood Sapling
 fe.protection.place.Thaumcraft.blockAiry.*                                                        # (default: true) PLACE tile.blockAiry.name
 fe.protection.place.Thaumcraft.blockAlchemyFurnace.*                                              # (default: true) PLACE Advanced Alchemical Furnace
 fe.protection.place.Thaumcraft.blockArcaneDoor.*                                                  # (default: true) PLACE Arcane Door
@@ -9797,6 +10101,7 @@ fe.protection.place.ThermalFoundation.Ore.*                                     
 fe.protection.place.ThermalFoundation.Storage.*                                                   # (default: true) PLACE tile.thermalfoundation.storage.name
 fe.protection.place.Translocator.craftingGrid.*                                                   # (default: true) PLACE Unnamed Block, report to mod author.
 fe.protection.place.Translocator.translocator.*                                                   # (default: true) PLACE tile.translocator.name
+fe.protection.place.TravellersGear.armorstand.*                                                   # (default: true) PLACE Armor Stand
 fe.protection.place.TwilightForest.tile.AuroraDoubleSlab.*                                        # (default: true) PLACE tile.AuroraDoubleSlab.name
 fe.protection.place.TwilightForest.tile.AuroraPillar.*                                            # (default: true) PLACE Aurora Pillar
 fe.protection.place.TwilightForest.tile.AuroraSlab.*                                              # (default: true) PLACE Aurora Slab
@@ -9853,6 +10158,13 @@ fe.protection.place.TwilightForest.tile.TrollVidr.*                             
 fe.protection.place.TwilightForest.tile.UberousSoil.*                                             # (default: true) PLACE Uberous Soil
 fe.protection.place.TwilightForest.tile.UnripeTrollBer.*                                          # (default: true) PLACE Unripe Trollber
 fe.protection.place.TwilightForest.tile.WispyCloud.*                                              # (default: true) PLACE Wispy Cloud
+fe.protection.place.WitchingGadgets.WG_CustomAir.*                                                # (default: true) PLACE Glimmer of Light
+fe.protection.place.WitchingGadgets.WG_MetalDevice.*                                              # (default: true) PLACE tile.WG_MetalDevice.name
+fe.protection.place.WitchingGadgets.WG_RoseVine.*                                                 # (default: true) PLACE Rose Vines
+fe.protection.place.WitchingGadgets.WG_StoneDevice.*                                              # (default: true) PLACE tile.WG_StoneDevice.name
+fe.protection.place.WitchingGadgets.WG_VoidWalkway.*                                              # (default: true) PLACE Void Walkway
+fe.protection.place.WitchingGadgets.WG_WallMirror.*                                               # (default: true) PLACE Mirror on the Wall
+fe.protection.place.WitchingGadgets.WG_WoodenDevice.*                                             # (default: true) PLACE tile.WG_WoodenDevice.name
 fe.protection.place.aobd.orebushArdite.*                                                          # (default: true) PLACE Ardite Oreberry Bush
 fe.protection.place.aobd.orebushCobalt.*                                                          # (default: true) PLACE Cobalt Oreberry Bush
 fe.protection.place.aobd.orebushDraconium.*                                                       # (default: true) PLACE Draconium Oreberry Bush
@@ -9861,6 +10173,7 @@ fe.protection.place.aobd.orebushMithril.*                                       
 fe.protection.place.aobd.orebushNickel.*                                                          # (default: true) PLACE Nickel Oreberry Bush
 fe.protection.place.aobd.orebushOsmium.*                                                          # (default: true) PLACE Osmium Oreberry Bush
 fe.protection.place.aobd.orebushPlatinum.*                                                        # (default: true) PLACE Platinum Oreberry Bush
+fe.protection.place.aobd.orebushShadow.*                                                          # (default: true) PLACE Shadow Oreberry Bush
 fe.protection.place.aobd.orebushSilver.*                                                          # (default: true) PLACE Silver Oreberry Bush
 fe.protection.place.aobd.orebushUranium.*                                                         # (default: true) PLACE Uranium Oreberry Bush
 fe.protection.place.appliedenergistics2.tile.BlockCableBus.*                                      # (default: true) PLACE AE2 Cable and/or Bus
@@ -9931,6 +10244,7 @@ fe.protection.place.appliedenergistics2.tile.SkyStoneSmallBrickSlabBlock.*      
 fe.protection.place.appliedenergistics2.tile.SkyStoneSmallBrickSlabBlock.double.*                 # (default: true) PLACE tile.appliedenergistics2.SkyStoneSmallBrickSlabBlock.double.name
 fe.protection.place.appliedenergistics2.tile.SkyStoneSmallBrickStairBlock.*                       # (default: true) PLACE Sky Stone Small Brick Stairs
 fe.protection.place.appliedenergistics2.tile.SkyStoneStairBlock.*                                 # (default: true) PLACE Sky Stone Stairs
+fe.protection.place.arcane_engineering.destabilizer.*                                             # (default: true) PLACE Node Destabilizer
 fe.protection.place.autopackager.packagerBlock.*                                                  # (default: true) PLACE Recipe Packager
 fe.protection.place.chisel.acacia_planks.*                                                        # (default: true) PLACE Acacia Wood Planks
 fe.protection.place.chisel.aluminum_stairs.0.*                                                    # (default: true) PLACE tile.chisel.aluminum_stairs.0.name
@@ -10705,29 +11019,82 @@ fe.protection.place.progressiveautomation.Planter.*                             
 fe.protection.place.progressiveautomation.PlanterDiamond.*                                        # (default: true) PLACE Diamond Planter
 fe.protection.place.progressiveautomation.PlanterIron.*                                           # (default: true) PLACE Iron Planter
 fe.protection.place.progressiveautomation.PlanterStone.*                                          # (default: true) PLACE Stone Planter
-fe.protection.place.props.blockFake.*                                                             # (default: true) PLACE Unnamed Block, report to mod author.
-fe.protection.place.props.blockProps.*                                                            # (default: true) PLACE Unnamed Block, report to mod author.
 fe.protection.place.qmunitylib.qmunitylib.blocks.multipart.*                                      # (default: true) PLACE tile.qmunitylib:multipart.name
-fe.protection.place.secretroomsmod.CamoDummy.*                                                    # (default: true) PLACE tile.CamoDummy.name
-fe.protection.place.secretroomsmod.CamoGate.*                                                     # (default: true) PLACE Secret Gate
-fe.protection.place.secretroomsmod.GhostBlock.*                                                   # (default: true) PLACE Ghost Block
-fe.protection.place.secretroomsmod.OneWayGlass.*                                                  # (default: true) PLACE One-Way Glass
-fe.protection.place.secretroomsmod.SecretCamoButton.*                                             # (default: true) PLACE tile.SecretButton.name
-fe.protection.place.secretroomsmod.SecretCamoLever.*                                              # (default: true) PLACE Secret lever
-fe.protection.place.secretroomsmod.SecretCamoRedstone.*                                           # (default: true) PLACE Secret Redstone
-fe.protection.place.secretroomsmod.SecretChest.*                                                  # (default: true) PLACE Secret Chest
-fe.protection.place.secretroomsmod.SecretHeavyPlate.*                                             # (default: true) PLACE Secret Weighted Plate (heavy)
-fe.protection.place.secretroomsmod.SecretIronDoorBlock.*                                          # (default: true) PLACE Secret Iron Door
-fe.protection.place.secretroomsmod.SecretLightDetector.*                                          # (default: true) PLACE Secret Light Detector
-fe.protection.place.secretroomsmod.SecretLightPlate.*                                             # (default: true) PLACE Secret Weighted Plate (light)
-fe.protection.place.secretroomsmod.SecretPlayerPlate.*                                            # (default: true) PLACE Secret Player Plate
-fe.protection.place.secretroomsmod.SecretPressurePlate.*                                          # (default: true) PLACE Secret Pressure Plate
-fe.protection.place.secretroomsmod.SecretStair.*                                                  # (default: true) PLACE Secret Stairs
-fe.protection.place.secretroomsmod.SecretTrapDoor.*                                               # (default: true) PLACE Secret TrapDoor
-fe.protection.place.secretroomsmod.SecretTrappedChest.*                                           # (default: true) PLACE Secret Trapped Chest
-fe.protection.place.secretroomsmod.SecretWoodenDoorBlock.*                                        # (default: true) PLACE Secret Wooden Door
-fe.protection.place.secretroomsmod.SolidAir.*                                                     # (default: true) PLACE Solid Air
-fe.protection.place.secretroomsmod.TorchLever.*                                                   # (default: true) PLACE Torch Lever
+fe.protection.place.rftools.activityProbeBlock.*                                                  # (default: true) PLACE Activity Probe
+fe.protection.place.rftools.biomeAbsorberBlock.*                                                  # (default: true) PLACE Biome Absorber
+fe.protection.place.rftools.blockProtectorBlock.*                                                 # (default: true) PLACE Block Protector
+fe.protection.place.rftools.builderBlock.*                                                        # (default: true) PLACE Builder Block
+fe.protection.place.rftools.counterBlock.*                                                        # (default: true) PLACE Counter
+fe.protection.place.rftools.crafterBlock1.*                                                       # (default: true) PLACE Crafter Tier 1
+fe.protection.place.rftools.crafterBlock2.*                                                       # (default: true) PLACE Crafter Tier 2
+fe.protection.place.rftools.crafterBlock3.*                                                       # (default: true) PLACE Crafter Tier 3
+fe.protection.place.rftools.creativeDimensionBuilderBlock.*                                       # (default: true) PLACE Creative Dimension Builder
+fe.protection.place.rftools.destinationAnalyzerBlock.*                                            # (default: true) PLACE Destination Analyzer
+fe.protection.place.rftools.dialingDeviceBlock.*                                                  # (default: true) PLACE Dialing Device
+fe.protection.place.rftools.dimensionBuilderBlock.*                                               # (default: true) PLACE Dimension Builder
+fe.protection.place.rftools.dimensionEditorBlock.*                                                # (default: true) PLACE Dimension Editor
+fe.protection.place.rftools.dimensionEnscriberBlock.*                                             # (default: true) PLACE Dimension Enscriber
+fe.protection.place.rftools.dimensionMonitorBlock.*                                               # (default: true) PLACE Dimension Monitor
+fe.protection.place.rftools.dimensionalBlankBlock.*                                               # (default: true) PLACE Dimensional Blank Block
+fe.protection.place.rftools.dimensionalBlock.*                                                    # (default: true) PLACE Dimensional Block
+fe.protection.place.rftools.dimensionalCross2Block.*                                              # (default: true) PLACE Dimensional Cross 2 Block
+fe.protection.place.rftools.dimensionalCrossBlock.*                                               # (default: true) PLACE Dimensional Cross Block
+fe.protection.place.rftools.dimensionalPattern1Block.*                                            # (default: true) PLACE Dimensional Pattern 1 Block
+fe.protection.place.rftools.dimensionalPattern2Block.*                                            # (default: true) PLACE Dimensional Pattern 2 Block
+fe.protection.place.rftools.dimensionalShardBlock.*                                               # (default: true) PLACE Dimensional Shard Ore
+fe.protection.place.rftools.dimensionalSmallBlocks.*                                              # (default: true) PLACE Dimensional Small Blocks
+fe.protection.place.rftools.dimletFilterBlock.*                                                   # (default: true) PLACE Dimlet Filter
+fe.protection.place.rftools.dimletResearcherBlock.*                                               # (default: true) PLACE Dimlet Researcher
+fe.protection.place.rftools.dimletScramblerBlock.*                                                # (default: true) PLACE Dimlet Scrambler
+fe.protection.place.rftools.dimletWorkbenchBlock.*                                                # (default: true) PLACE Dimlet Workbench
+fe.protection.place.rftools.enderMonitorBlock.*                                                   # (default: true) PLACE Ender Monitor
+fe.protection.place.rftools.endergenicBlock.*                                                     # (default: true) PLACE Endergenic Generator
+fe.protection.place.rftools.energyExtractorBlock.*                                                # (default: true) PLACE Energy Extractor
+fe.protection.place.rftools.environmentalControllerBlock.*                                        # (default: true) PLACE Environmental Controller
+fe.protection.place.rftools.invisibleShieldBlock.*                                                # (default: true) PLACE Invisible Shield Block
+fe.protection.place.rftools.itemFilterBlock.*                                                     # (default: true) PLACE Item Filter
+fe.protection.place.rftools.liquidAbsorberBlock.*                                                 # (default: true) PLACE Liquid Absorber
+fe.protection.place.rftools.liquidMonitorBlock.*                                                  # (default: true) PLACE Liquid Monitor
+fe.protection.place.rftools.machineBase.*                                                         # (default: true) PLACE Machine Base
+fe.protection.place.rftools.machineFrame.*                                                        # (default: true) PLACE Machine Frame
+fe.protection.place.rftools.machineInfuserBlock.*                                                 # (default: true) PLACE Machine Infuser
+fe.protection.place.rftools.materialAbsorberBlock.*                                               # (default: true) PLACE Material Absorber
+fe.protection.place.rftools.matterBeamerBlock.*                                                   # (default: true) PLACE Matter Beamer
+fe.protection.place.rftools.matterBoosterBlock.*                                                  # (default: true) PLACE Matter Booster
+fe.protection.place.rftools.matterReceiverBlock.*                                                 # (default: true) PLACE Matter Receiver
+fe.protection.place.rftools.matterTransmitterBlock.*                                              # (default: true) PLACE Matter Transmitter
+fe.protection.place.rftools.modularStorageBlock.*                                                 # (default: true) PLACE Modular Storage
+fe.protection.place.rftools.noTickInvisibleShieldBlock.*                                          # (default: true) PLACE Invisible Shield Block
+fe.protection.place.rftools.noTickolidShieldBlock.*                                               # (default: true) PLACE Solid Shield Block
+fe.protection.place.rftools.pearlInjectorBlock.*                                                  # (default: true) PLACE Pearl Injector
+fe.protection.place.rftools.proxyBlock.*                                                          # (default: true) PLACE Proxy Block
+fe.protection.place.rftools.redstoneReceiverBlock.*                                               # (default: true) PLACE Redstone Receiver
+fe.protection.place.rftools.redstoneTransmitterBlock.*                                            # (default: true) PLACE Redstone Transmitter
+fe.protection.place.rftools.relayBlock.*                                                          # (default: true) PLACE Power Relay
+fe.protection.place.rftools.remoteStorageBlock.*                                                  # (default: true) PLACE Remote Storage
+fe.protection.place.rftools.rfMonitorBlock.*                                                      # (default: true) PLACE RF Monitor
+fe.protection.place.rftools.screenBlock.*                                                         # (default: true) PLACE Screen
+fe.protection.place.rftools.screenControllerBlock.*                                               # (default: true) PLACE Screen Controller
+fe.protection.place.rftools.screenHitBlock.*                                                      # (default: true) PLACE Screen
+fe.protection.place.rftools.securityManagerBlock.*                                                # (default: true) PLACE Security Manager
+fe.protection.place.rftools.sequencerBlock.*                                                      # (default: true) PLACE Sequencer
+fe.protection.place.rftools.shieldBlock.*                                                         # (default: true) PLACE Shield Projector Tier 1
+fe.protection.place.rftools.shieldBlock2.*                                                        # (default: true) PLACE Shield Projector Tier 2
+fe.protection.place.rftools.shieldBlock3.*                                                        # (default: true) PLACE Shield Projector Tier 3
+fe.protection.place.rftools.shieldBlock4.*                                                        # (default: true) PLACE Shield Projector Tier 4
+fe.protection.place.rftools.shieldTemplateBlock.*                                                 # (default: true) PLACE Shield Template
+fe.protection.place.rftools.simpleDialerBlock.*                                                   # (default: true) PLACE Simple Dialer
+fe.protection.place.rftools.solidShieldBlock.*                                                    # (default: true) PLACE Solid Shield Block
+fe.protection.place.rftools.spaceChamberBlock.*                                                   # (default: true) PLACE Space Chamber Corner Block
+fe.protection.place.rftools.spaceChamberControllerBlock.*                                         # (default: true) PLACE Space Chamber Controller Block
+fe.protection.place.rftools.spaceProjectorBlock.*                                                 # (default: true) PLACE Space Projector Block (WIP)
+fe.protection.place.rftools.spawnerBlock.*                                                        # (default: true) PLACE Spawner
+fe.protection.place.rftools.storageScannerBlock.*                                                 # (default: true) PLACE Storage Scanner
+fe.protection.place.rftools.supportBlock.*                                                        # (default: true) PLACE Support Block
+fe.protection.place.rftools.timeAbsorberBlock.*                                                   # (default: true) PLACE Time Absorber
+fe.protection.place.rftools.timerBlock.*                                                          # (default: true) PLACE Timer
+fe.protection.place.rftools.volcanicBlock.*                                                       # (default: true) PLACE Volcanic Block
+fe.protection.place.rftools.volcanicCoreBlock.*                                                   # (default: true) PLACE Volcanic Core
 fe.protection.place.streams.river/ice/-1/-2.*                                                     # (default: true) PLACE Ice
 fe.protection.place.streams.river/ice/-1/2.*                                                      # (default: true) PLACE Ice
 fe.protection.place.streams.river/ice/-2/-1.*                                                     # (default: true) PLACE Ice
@@ -10782,6 +11149,59 @@ fe.protection.place.streams.river/tile.water/2/2.*                              
 fe.protection.place.supercraftingframe.supercraftingframe.*                                       # (default: true) PLACE Super Crafting Frame
 fe.protection.place.supercraftingframe.superitemframe.*                                           # (default: true) PLACE Super Item Frame
 fe.protection.place.supercraftingframe.supervoidframe.*                                           # (default: true) PLACE Super Void Frame
+fe.protection.place.thaumicbases.advAlchFurnace.*                                                 # (default: true) PLACE Advanced Alchemical Furnace
+fe.protection.place.thaumicbases.ashroom.*                                                        # (default: true) PLACE Primal Shroom
+fe.protection.place.thaumicbases.aurelia.*                                                        # (default: true) PLACE Aurelia
+fe.protection.place.thaumicbases.aureliaPetal.*                                                   # (default: true) PLACE Aurelia Petal
+fe.protection.place.thaumicbases.blockSalisMundus.*                                               # (default: true) PLACE Salis Mundus Block
+fe.protection.place.thaumicbases.brazier.*                                                        # (default: true) PLACE Thaumaturge's Brazier
+fe.protection.place.thaumicbases.briar.*                                                          # (default: true) PLACE Briar
+fe.protection.place.thaumicbases.campfire.*                                                       # (default: true) PLACE Thaumaturge's Campfire
+fe.protection.place.thaumicbases.cryingObsidian.*                                                 # (default: true) PLACE Crying Obsidian
+fe.protection.place.thaumicbases.crystalBlock.*                                                   # (default: true) PLACE tile.crystalBlock.name
+fe.protection.place.thaumicbases.crystalSlab.*                                                    # (default: true) PLACE tile.tb.crystalslab..name
+fe.protection.place.thaumicbases.crystalSlab_full.*                                               # (default: true) PLACE tile.tb.crystalslab..name
+fe.protection.place.thaumicbases.eldritchArk.*                                                    # (default: true) PLACE Gold Etched Obsidian
+fe.protection.place.thaumicbases.enderPlanks.*                                                    # (default: true) PLACE Ender Wood Planks
+fe.protection.place.thaumicbases.entityDeconstructor.*                                            # (default: true) PLACE Entity Deconstructor
+fe.protection.place.thaumicbases.flaxium.*                                                        # (default: true) PLACE Fluxium
+fe.protection.place.thaumicbases.genLeaves.*                                                      # (default: true) PLACE Unnamed Block, report to mod author.
+fe.protection.place.thaumicbases.genLogs.*                                                        # (default: true) PLACE Unnamed Block, report to mod author.
+fe.protection.place.thaumicbases.genericSlab.*                                                    # (default: true) PLACE tile.tb.slab..name
+fe.protection.place.thaumicbases.genericSlab_full.*                                               # (default: true) PLACE tile.tb.slab..name
+fe.protection.place.thaumicbases.glieonia.*                                                       # (default: true) PLACE Glieonia Crop
+fe.protection.place.thaumicbases.goldenOakSapling.*                                               # (default: true) PLACE Unnamed Block, report to mod author.
+fe.protection.place.thaumicbases.ironGreatwood.*                                                  # (default: true) PLACE Iron Framed Greatwood
+fe.protection.place.thaumicbases.knose.*                                                          # (default: true) PLACE Rosa Mysteria
+fe.protection.place.thaumicbases.lazullia.*                                                       # (default: true) PLACE Lazullia Crop
+fe.protection.place.thaumicbases.lucrite.*                                                        # (default: true) PLACE Lucrite Crop
+fe.protection.place.thaumicbases.metalleat.*                                                      # (default: true) PLACE Metalleat Crop
+fe.protection.place.thaumicbases.nodeLinker.*                                                     # (default: true) PLACE Node Linking Device
+fe.protection.place.thaumicbases.nodeManipulator.*                                                # (default: true) PLACE Node Manipulator
+fe.protection.place.thaumicbases.oldBrick.*                                                       # (default: true) PLACE Ancient Bricks
+fe.protection.place.thaumicbases.oldCobble.*                                                      # (default: true) PLACE Ancient Cobblestone
+fe.protection.place.thaumicbases.oldCobbleMossy.*                                                 # (default: true) PLACE Ancient Mossy Cobblestone
+fe.protection.place.thaumicbases.oldDiamond.*                                                     # (default: true) PLACE Ancient Diamond Block
+fe.protection.place.thaumicbases.oldGold.*                                                        # (default: true) PLACE Ancient Gold Block
+fe.protection.place.thaumicbases.oldGravel.*                                                      # (default: true) PLACE Ancient Gravel
+fe.protection.place.thaumicbases.oldIron.*                                                        # (default: true) PLACE Ancient Iron Block
+fe.protection.place.thaumicbases.oldLapis.*                                                       # (default: true) PLACE Ancient Lapis Lazuli Block
+fe.protection.place.thaumicbases.overchanter.*                                                    # (default: true) PLACE Overchanting Table
+fe.protection.place.thaumicbases.plax.*                                                           # (default: true) PLACE Plax Crop
+fe.protection.place.thaumicbases.pyrofluid.*                                                      # (default: true) PLACE Pyrofluid
+fe.protection.place.thaumicbases.quicksilverBlock.*                                               # (default: true) PLACE Block of Quicksilver
+fe.protection.place.thaumicbases.quicksilverBrick.*                                               # (default: true) PLACE Quicksilver Brick
+fe.protection.place.thaumicbases.rainbowCactus.*                                                  # (default: true) PLACE Rainbow Cacti
+fe.protection.place.thaumicbases.redlonStem.*                                                     # (default: true) PLACE Redlon Stem
+fe.protection.place.thaumicbases.relocator.*                                                      # (default: true) PLACE Thaumic Relocator
+fe.protection.place.thaumicbases.spike.*                                                          # (default: true) PLACE tile.spike.name
+fe.protection.place.thaumicbases.sweed.*                                                          # (default: true) PLACE Sweed Crop
+fe.protection.place.thaumicbases.thaumicAnvil.*                                                   # (default: true) PLACE tile.thaumicAnvil.name
+fe.protection.place.thaumicbases.thauminiteBlock.*                                                # (default: true) PLACE Block of Thauminite
+fe.protection.place.thaumicbases.tobacco.*                                                        # (default: true) PLACE Tobacco Crop
+fe.protection.place.thaumicbases.voidAnvil.*                                                      # (default: true) PLACE tile.voidAnvil.name
+fe.protection.place.thaumicbases.voidBlock.*                                                      # (default: true) PLACE Void metal Block
+fe.protection.place.thaumicbases.voidPlant.*                                                      # (default: true) PLACE Void Crop
 fe.protection.place.thaumicenergistics.thaumicenergistics.block.arcane.assembler.*                # (default: true) PLACE Arcane Assembler
 fe.protection.place.thaumicenergistics.thaumicenergistics.block.distillation.encoder.*            # (default: true) PLACE Distillation Pattern Encoder
 fe.protection.place.thaumicenergistics.thaumicenergistics.block.essentia.cell.workbench.*         # (default: true) PLACE Essentia Cell Workbench
